@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_ste_s2",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 7,
+ "best_dev": 0.27178138494491577,
+ "train_time_s": 168.50390481948853,
+ "epochs_run": 38,
+ "spikes_per_sample_per_layer_dev": [
+  279.0108642578125,
+  245.92239379882812,
+  298.3211975097656
+ ]
+}

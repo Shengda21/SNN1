@@ -1,0 +1,22 @@
+{
+ "member_id": "dmq_ste_s4",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "qqd",
+ "n_params": 54293,
+ "best_epoch": 13,
+ "best_dev": 0.2517135739326477,
+ "train_time_s": 300.24446201324463,
+ "epochs_run": 44,
+ "spikes_per_sample_per_layer_dev": [
+  312.4932556152344,
+  207.79190063476562,
+  222.30075073242188
+ ]
+}

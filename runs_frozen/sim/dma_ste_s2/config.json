@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_ste_s2",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 6,
+ "best_dev": 0.30263960361480713,
+ "train_time_s": 251.41742396354675,
+ "epochs_run": 37,
+ "spikes_per_sample_per_layer_dev": [
+  267.10345458984375,
+  231.72015380859375,
+  256.1591491699219
+ ]
+}

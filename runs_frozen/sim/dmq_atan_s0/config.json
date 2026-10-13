@@ -1,0 +1,22 @@
+{
+ "member_id": "dmq_atan_s0",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "qqd",
+ "n_params": 54293,
+ "best_epoch": 30,
+ "best_dev": 0.14062876999378204,
+ "train_time_s": 471.7504539489746,
+ "epochs_run": 61,
+ "spikes_per_sample_per_layer_dev": [
+  225.25294494628906,
+  289.41314697265625,
+  97.32185363769531
+ ]
+}

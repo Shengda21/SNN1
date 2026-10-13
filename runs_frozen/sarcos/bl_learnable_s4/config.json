@@ -1,0 +1,26 @@
+{
+ "member_id": "bl_learnable_s4",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": true,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "bl",
+ "n_params": 54296,
+ "best_epoch": 267,
+ "best_dev": 0.019159669056534767,
+ "train_time_s": 559.8498766422272,
+ "epochs_run": 298,
+ "spikes_per_sample_per_layer_dev": [
+  226.0874481201172,
+  296.286865234375,
+  198.46424865722656
+ ],
+ "learned_widths": [
+  3.9792065620422363,
+  2.2876381874084473,
+  2.8002798557281494
+ ]
+}

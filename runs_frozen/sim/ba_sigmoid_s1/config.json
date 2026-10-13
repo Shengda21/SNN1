@@ -1,0 +1,21 @@
+{
+ "member_id": "ba_sigmoid_s1",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 1,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "ba",
+ "n_params": 54293,
+ "best_epoch": 10,
+ "best_dev": 0.12311825156211853,
+ "train_time_s": 69.3576021194458,
+ "epochs_run": 41,
+ "spikes_per_sample_per_layer_dev": [
+  212.6468048095703,
+  241.571044921875,
+  61.16484832763672
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "width_triangular_1.0_s0",
+ "surrogate": "triangular",
+ "width": 1.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 198,
+ "best_dev": 0.021275116130709648,
+ "train_time_s": 177.16477370262146,
+ "epochs_run": 200,
+ "spikes_per_sample_per_layer_dev": [
+  246.15243530273438,
+  341.9981994628906,
+  325.80621337890625
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_ste_s2",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 24,
+ "best_dev": 0.1541878581047058,
+ "train_time_s": 69.55164742469788,
+ "epochs_run": 55,
+ "spikes_per_sample_per_layer_dev": [
+  300.8385925292969,
+  131.16659545898438,
+  233.7410125732422
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "member_id": "bn_mlp_s3",
+ "surrogate": "none",
+ "width": null,
+ "seed": 3,
+ "platform": "sarcos",
+ "block": "bn",
+ "learnable_width": false,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "n_params": 55007,
+ "best_epoch": 285,
+ "best_dev": 0.009415053762495518,
+ "train_time_s": 282.3756663799286,
+ "epochs_run": 300
+}

@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_sre_s0_a",
+ "surrogate": "sre",
+ "width": 5.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "traj",
+ "epoch": 0,
+ "target_dev": 0.2645198702812195,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 0,
+ "best_dev": 0.3422222137451172,
+ "train_time_s": 1.7233612442016601,
+ "epochs_run": 1,
+ "spikes_per_sample_per_layer_dev": [
+  104.25630187988281,
+  105.8187484741211,
+  61.0030517578125
+ ]
+}

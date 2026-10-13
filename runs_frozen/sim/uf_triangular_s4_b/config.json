@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_triangular_s4_b",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "traj",
+ "epoch": 1,
+ "target_dev": 0.2560645639896393,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 1,
+ "best_dev": 0.24139559268951416,
+ "train_time_s": 3.4844818115234375,
+ "epochs_run": 2,
+ "spikes_per_sample_per_layer_dev": [
+  139.0128936767578,
+  179.81304931640625,
+  102.50364685058594
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_sre_s4",
+ "surrogate": "sre",
+ "width": 5.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 64,
+ "best_dev": 0.05972620099782944,
+ "train_time_s": 425.54350233078003,
+ "epochs_run": 95,
+ "spikes_per_sample_per_layer_dev": [
+  210.13279724121094,
+  322.6699523925781,
+  302.5130615234375
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "width_ste_None_s0",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 4,
+ "best_dev": 0.2645198702812195,
+ "train_time_s": 87.79026341438293,
+ "epochs_run": 30,
+ "spikes_per_sample_per_layer_dev": [
+  232.53524780273438,
+  247.2482452392578,
+  215.9954071044922
+ ]
+}

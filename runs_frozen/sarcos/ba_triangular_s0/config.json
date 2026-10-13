@@ -1,0 +1,21 @@
+{
+ "member_id": "ba_triangular_s0",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "ba",
+ "n_params": 54293,
+ "best_epoch": 139,
+ "best_dev": 0.03166181966662407,
+ "train_time_s": 309.5241320133209,
+ "epochs_run": 170,
+ "spikes_per_sample_per_layer_dev": [
+  169.0321502685547,
+  226.6468048095703,
+  201.82485961914062
+ ]
+}

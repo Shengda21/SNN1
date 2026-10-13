@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_triangular_s3",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 3,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 101,
+ "best_dev": 0.05479373410344124,
+ "train_time_s": 592.116660118103,
+ "epochs_run": 132,
+ "spikes_per_sample_per_layer_dev": [
+  229.9597930908203,
+  322.3968505859375,
+  284.5008850097656
+ ]
+}

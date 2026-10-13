@@ -1,0 +1,21 @@
+{
+ "member_id": "width_sre_5.0_s0",
+ "surrogate": "sre",
+ "width": 5.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 186,
+ "best_dev": 0.020395858213305473,
+ "train_time_s": 190.82439994812012,
+ "epochs_run": 200,
+ "spikes_per_sample_per_layer_dev": [
+  186.22683715820312,
+  287.29315185546875,
+  253.96380615234375
+ ]
+}

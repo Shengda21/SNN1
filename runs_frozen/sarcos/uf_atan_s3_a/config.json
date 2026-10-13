@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_atan_s3_a",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 3,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "traj",
+ "epoch": 2,
+ "target_dev": 0.17943887412548065,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 2,
+ "best_dev": 0.21457383036613464,
+ "train_time_s": 42.10833746910095,
+ "epochs_run": 3,
+ "spikes_per_sample_per_layer_dev": [
+  130.33250427246094,
+  113.7724838256836,
+  47.4046745300293
+ ]
+}

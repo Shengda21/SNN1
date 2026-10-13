@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_atan_s4_b",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "traj",
+ "epoch": 1,
+ "target_dev": 0.2560645639896393,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 1,
+ "best_dev": 0.21743224561214447,
+ "train_time_s": 3.5296108436584475,
+ "epochs_run": 2,
+ "spikes_per_sample_per_layer_dev": [
+  163.97445678710938,
+  215.9491424560547,
+  103.0114517211914
+ ]
+}

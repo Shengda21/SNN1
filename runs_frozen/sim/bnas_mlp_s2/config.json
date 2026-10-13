@@ -1,0 +1,18 @@
+{
+ "member_id": "bnas_mlp_s2",
+ "surrogate": "none",
+ "width": null,
+ "seed": 2,
+ "platform": "sim",
+ "block": "bna",
+ "learnable_width": false,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "aug_family": "all",
+ "dev_sel": "aug",
+ "n_params": 55007,
+ "best_epoch": 1,
+ "best_dev": 0.17933239042758942,
+ "train_time_s": 8.70208740234375,
+ "epochs_run": 32
+}

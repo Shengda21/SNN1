@@ -1,0 +1,22 @@
+{
+ "member_id": "dmq_sre_s4",
+ "surrogate": "sre",
+ "width": 5.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "qqd",
+ "n_params": 54293,
+ "best_epoch": 13,
+ "best_dev": 0.12114124000072479,
+ "train_time_s": 327.5780532360077,
+ "epochs_run": 44,
+ "spikes_per_sample_per_layer_dev": [
+  174.42990112304688,
+  267.01885986328125,
+  191.78599548339844
+ ]
+}

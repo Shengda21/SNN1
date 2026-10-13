@@ -1,0 +1,24 @@
+{
+ "member_id": "cap16_sigmoid_s0",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "cap",
+ "hidden": 16,
+ "aug_family": "none",
+ "dev_sel": "clean",
+ "n_params": 1429,
+ "best_epoch": 56,
+ "best_dev": 0.12572075426578522,
+ "train_time_s": 137.34936928749084,
+ "epochs_run": 87,
+ "spikes_per_sample_per_layer_dev": [
+  46.02894973754883,
+  46.46514892578125,
+  17.521900177001953
+ ]
+}

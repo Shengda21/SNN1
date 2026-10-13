@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_triangular_s2",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 21,
+ "best_dev": 0.11686480790376663,
+ "train_time_s": 380.10182905197144,
+ "epochs_run": 52,
+ "spikes_per_sample_per_layer_dev": [
+  185.09530639648438,
+  273.6943359375,
+  191.84840393066406
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "member_id": "bnq_mlp_s2",
+ "surrogate": "none",
+ "width": null,
+ "seed": 2,
+ "platform": "sim",
+ "block": "bna",
+ "learnable_width": false,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "aug_family": "qqd",
+ "n_params": 55007,
+ "best_epoch": 2,
+ "best_dev": 0.06503622978925705,
+ "train_time_s": 136.6303882598877,
+ "epochs_run": 33
+}

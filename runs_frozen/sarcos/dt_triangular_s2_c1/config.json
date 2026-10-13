@@ -1,0 +1,23 @@
+{
+ "member_id": "dt_triangular_s2_c1",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 2002,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 5,
+ "platform": "sarcos",
+ "block": "dt",
+ "cycle": 1,
+ "total_run_time_s": 605.8877148628235,
+ "n_params": 54293,
+ "best_epoch": 119,
+ "best_dev": 0.022402793169021606,
+ "train_time_s": 605.8877148628235,
+ "epochs_run": 300,
+ "spikes_per_sample_per_layer_dev": [
+  192.22662353515625,
+  270.8307189941406,
+  215.3190155029297
+ ]
+}

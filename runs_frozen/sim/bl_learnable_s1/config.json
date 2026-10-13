@@ -1,0 +1,26 @@
+{
+ "member_id": "bl_learnable_s1",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": true,
+ "seed": 1,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "bl",
+ "n_params": 54296,
+ "best_epoch": 128,
+ "best_dev": 0.05666697770357132,
+ "train_time_s": 392.41481709480286,
+ "epochs_run": 159,
+ "spikes_per_sample_per_layer_dev": [
+  244.84219360351562,
+  340.8528137207031,
+  203.43695068359375
+ ],
+ "learned_widths": [
+  3.578864336013794,
+  2.352060317993164,
+  2.730813503265381
+ ]
+}

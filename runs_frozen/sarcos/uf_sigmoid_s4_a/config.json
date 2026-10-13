@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_sigmoid_s4_a",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "traj",
+ "epoch": 4,
+ "target_dev": 0.12097270041704178,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 4,
+ "best_dev": 0.13847777247428894,
+ "train_time_s": 3.6289716720581056,
+ "epochs_run": 5,
+ "spikes_per_sample_per_layer_dev": [
+  153.81227111816406,
+  143.73471069335938,
+  60.838356018066406
+ ]
+}

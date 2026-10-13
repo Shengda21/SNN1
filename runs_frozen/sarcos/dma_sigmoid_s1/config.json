@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_sigmoid_s1",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 1,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 177,
+ "best_dev": 0.03167960047721863,
+ "train_time_s": 645.0330362319946,
+ "epochs_run": 208,
+ "spikes_per_sample_per_layer_dev": [
+  194.69290161132812,
+  212.51214599609375,
+  95.55575561523438
+ ]
+}

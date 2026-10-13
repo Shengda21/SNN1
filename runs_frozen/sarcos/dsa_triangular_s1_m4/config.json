@@ -1,0 +1,22 @@
+{
+ "member_id": "dsa_triangular_s1_m4",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 1014,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dsa",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 152,
+ "best_dev": 0.03169252723455429,
+ "train_time_s": 135.66310262680054,
+ "epochs_run": 183,
+ "spikes_per_sample_per_layer_dev": [
+  162.02406311035156,
+  219.15467834472656,
+  221.2513427734375
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_sre_s0",
+ "surrogate": "sre",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 163,
+ "best_dev": 0.019825296476483345,
+ "train_time_s": 386.4623832702637,
+ "epochs_run": 194,
+ "spikes_per_sample_per_layer_dev": [
+  149.9536895751953,
+  234.36444091796875,
+  185.94064331054688
+ ]
+}

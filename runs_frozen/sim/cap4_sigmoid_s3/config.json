@@ -1,0 +1,24 @@
+{
+ "member_id": "cap4_sigmoid_s3",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 3,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "cap",
+ "hidden": 4,
+ "aug_family": "none",
+ "dev_sel": "clean",
+ "n_params": 229,
+ "best_epoch": 40,
+ "best_dev": 0.4688042402267456,
+ "train_time_s": 118.6133222579956,
+ "epochs_run": 71,
+ "spikes_per_sample_per_layer_dev": [
+  12.778149604797363,
+  12.942850112915039,
+  8.550200462341309
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "member_id": "width_atan_2.0_s0",
+ "surrogate": "atan",
+ "width": 2.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 53,
+ "best_dev": 0.056587278842926025,
+ "train_time_s": 343.5583610534668,
+ "epochs_run": 79,
+ "spikes_per_sample_per_layer_dev": [
+  245.44769287109375,
+  358.78570556640625,
+  310.96771240234375
+ ]
+}

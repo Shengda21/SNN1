@@ -1,0 +1,22 @@
+{
+ "member_id": "dmq_triangular_s0",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "qqd",
+ "n_params": 54293,
+ "best_epoch": 16,
+ "best_dev": 0.13379009068012238,
+ "train_time_s": 348.0836477279663,
+ "epochs_run": 47,
+ "spikes_per_sample_per_layer_dev": [
+  181.84375,
+  264.7136535644531,
+  183.02784729003906
+ ]
+}

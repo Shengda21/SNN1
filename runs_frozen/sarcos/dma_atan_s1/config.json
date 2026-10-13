@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_atan_s1",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 1,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 156,
+ "best_dev": 0.03281286358833313,
+ "train_time_s": 617.8192200660706,
+ "epochs_run": 187,
+ "spikes_per_sample_per_layer_dev": [
+  188.3374481201172,
+  226.53575134277344,
+  108.56475067138672
+ ]
+}

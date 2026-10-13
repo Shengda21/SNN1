@@ -1,0 +1,23 @@
+{
+ "member_id": "dmas_sigmoid_s2",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "all",
+ "dev_sel": "aug",
+ "n_params": 54293,
+ "best_epoch": 28,
+ "best_dev": 0.2312336266040802,
+ "train_time_s": 2077.6444182395935,
+ "epochs_run": 59,
+ "spikes_per_sample_per_layer_dev": [
+  228.9779510498047,
+  265.6104431152344,
+  78.11955261230469
+ ]
+}

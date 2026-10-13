@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# regenerated tables and figures
+build/
+
+# working tree of the experiments (see README)
+runs/
+logs/
+data_sim/
+mujoco_menagerie/
+*.mat
+
+# release assets (attached to the GitHub release, not stored in the tree)
+*.tar.gz
+results/sarcos/unit_nmse.npz

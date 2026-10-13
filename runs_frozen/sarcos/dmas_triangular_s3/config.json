@@ -1,0 +1,23 @@
+{
+ "member_id": "dmas_triangular_s3",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 3,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dma",
+ "aug_family": "all",
+ "dev_sel": "aug",
+ "n_params": 54293,
+ "best_epoch": 199,
+ "best_dev": 0.0639277845621109,
+ "train_time_s": 1511.2645854949951,
+ "epochs_run": 230,
+ "spikes_per_sample_per_layer_dev": [
+  167.9593048095703,
+  222.9593048095703,
+  187.79360961914062
+ ]
+}

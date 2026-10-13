@@ -1,0 +1,25 @@
+{
+ "member_id": "uf_triangular_s2_b",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "traj",
+ "epoch": 4,
+ "target_dev": 0.1541878581047058,
+ "aug_family": "none",
+ "dev_sel": "matched",
+ "n_params": 54293,
+ "best_epoch": 4,
+ "best_dev": 0.11877214908599854,
+ "train_time_s": 3.9709810256958007,
+ "epochs_run": 5,
+ "spikes_per_sample_per_layer_dev": [
+  133.42738342285156,
+  149.36285400390625,
+  102.32463836669922
+ ]
+}

@@ -1,0 +1,661 @@
+seed,cond,dictionary,nmse,support_size
+0,N,D-M,0.010837602906237349,4
+0,N,D-S,0.009975675934024842,5
+0,N,D-M-STE,0.010837602906237349,4
+0,N,D-M[STE->early atan:b],0.010837602906237349,4
+0,N,D-M[STE->early atan:b] | early member alone,0.13927963298805862,1
+0,N,D-M[STE->early sigmoid:b],0.010837602906237349,4
+0,N,D-M[STE->early sigmoid:b] | early member alone,0.13198681417405203,1
+0,N,D-M[STE->early triangular:b],0.010837602906237349,4
+0,N,D-M[STE->early triangular:b] | early member alone,0.10350479776975344,1
+0,N,D-M[STE->early sre:b],0.010837602906237349,4
+0,N,D-M[STE->early sre:b] | early member alone,0.1247984568401423,1
+0,N,D-M[STE->hidden 16],0.010837602906237349,4
+0,N,D-M[STE->hidden 16] | early member alone,0.08522483599977433,1
+0,N,D-M[STE->hidden 4],0.010837602906237349,4
+0,N,D-M[STE->hidden 4] | early member alone,0.3856783667307163,1
+0,N,D-M[STE->hidden 8],0.010837602906237349,4
+0,N,D-M[STE->hidden 8] | early member alone,0.20738409606495636,1
+0,N,D-S[m0->early:b],0.010355416432983398,4
+0,N,D-S[m0->early:b] | early member alone,0.10350479776975344,1
+0,N,D-S+early:b,0.009975675934024842,5
+0,N,D-S+early:b | early member alone,0.10350479776975344,1
+0,N,D-M[STE->early atan:a],0.010837602906237349,4
+0,N,D-M[STE->early atan:a] | early member alone,0.1621567225359646,1
+0,N,D-M[STE->early sigmoid:a],0.010837602906237349,4
+0,N,D-M[STE->early sigmoid:a] | early member alone,0.16710336537136808,1
+0,N,D-M[STE->early triangular:a],0.010837602906237349,4
+0,N,D-M[STE->early triangular:a] | early member alone,0.1504449012731984,1
+0,N,D-M[STE->early sre:a],0.010837602906237349,4
+0,N,D-M[STE->early sre:a] | early member alone,0.1599522124071753,1
+0,N,D-S[m0->early:a],0.010355416432983398,4
+0,N,D-S[m0->early:a] | early member alone,0.1504449012731984,1
+0,N,D-S+early:a,0.009975675934024842,5
+0,N,D-S+early:a | early member alone,0.1504449012731984,1
+0,O1:0.5,D-M,0.25513590713827433,5
+0,O1:0.5,D-S,0.2889020362449793,5
+0,O1:0.5,D-M-STE,0.300635745669638,4
+0,O1:0.5,D-M[STE->early atan:b],0.2857374079401607,5
+0,O1:0.5,D-M[STE->early atan:b] | early member alone,0.425415764495424,1
+0,O1:0.5,D-M[STE->early sigmoid:b],0.2843913647086161,5
+0,O1:0.5,D-M[STE->early sigmoid:b] | early member alone,0.4251026851413155,1
+0,O1:0.5,D-M[STE->early triangular:b],0.2859945188917076,5
+0,O1:0.5,D-M[STE->early triangular:b] | early member alone,0.3836755282693632,1
+0,O1:0.5,D-M[STE->early sre:b],0.29205442173194396,5
+0,O1:0.5,D-M[STE->early sre:b] | early member alone,0.4481614235571839,1
+0,O1:0.5,D-M[STE->hidden 16],0.2988967865125452,5
+0,O1:0.5,D-M[STE->hidden 16] | early member alone,0.43646038307181645,1
+0,O1:0.5,D-M[STE->hidden 4],0.2780457015480497,5
+0,O1:0.5,D-M[STE->hidden 4] | early member alone,0.570636516586693,1
+0,O1:0.5,D-M[STE->hidden 8],0.2945020838092364,5
+0,O1:0.5,D-M[STE->hidden 8] | early member alone,0.5233934360020309,1
+0,O1:0.5,D-S[m0->early:b],0.27805103860132707,5
+0,O1:0.5,D-S[m0->early:b] | early member alone,0.3836755282693632,1
+0,O1:0.5,D-S+early:b,0.27681196427128346,5
+0,O1:0.5,D-S+early:b | early member alone,0.3836755282693632,1
+0,O1:0.5,D-M[STE->early atan:a],0.2928026782930533,5
+0,O1:0.5,D-M[STE->early atan:a] | early member alone,0.4914332829965063,1
+0,O1:0.5,D-M[STE->early sigmoid:a],0.29170691355872364,5
+0,O1:0.5,D-M[STE->early sigmoid:a] | early member alone,0.5038285154777558,1
+0,O1:0.5,D-M[STE->early triangular:a],0.29106028735463946,5
+0,O1:0.5,D-M[STE->early triangular:a] | early member alone,0.45988254046367155,1
+0,O1:0.5,D-M[STE->early sre:a],0.29433600954579237,5
+0,O1:0.5,D-M[STE->early sre:a] | early member alone,0.5083701627256341,1
+0,O1:0.5,D-S[m0->early:a],0.282482309459223,5
+0,O1:0.5,D-S[m0->early:a] | early member alone,0.45988254046367155,1
+0,O1:0.5,D-S+early:a,0.2810674654691149,5
+0,O1:0.5,D-S+early:a | early member alone,0.45988254046367155,1
+0,O1:0.7,D-M,0.4102676721583145,5
+0,O1:0.7,D-S,0.49289091911933386,5
+0,O1:0.7,D-M-STE,0.5157053365687003,4
+0,O1:0.7,D-M[STE->early atan:b],0.48443854338226294,5
+0,O1:0.7,D-M[STE->early atan:b] | early member alone,0.629943328662608,1
+0,O1:0.7,D-M[STE->early sigmoid:b],0.48228670648565014,5
+0,O1:0.7,D-M[STE->early sigmoid:b] | early member alone,0.6444316546505242,1
+0,O1:0.7,D-M[STE->early triangular:b],0.4880201206424045,5
+0,O1:0.7,D-M[STE->early triangular:b] | early member alone,0.6001345032520219,1
+0,O1:0.7,D-M[STE->early sre:b],0.49954449123367306,5
+0,O1:0.7,D-M[STE->early sre:b] | early member alone,0.6847839078856761,1
+0,O1:0.7,D-M[STE->hidden 16],0.5109013629840812,5
+0,O1:0.7,D-M[STE->hidden 16] | early member alone,0.6802220004440288,1
+0,O1:0.7,D-M[STE->hidden 4],0.45271047693425376,5
+0,O1:0.7,D-M[STE->hidden 4] | early member alone,0.7109897142694872,1
+0,O1:0.7,D-M[STE->hidden 8],0.4989500549093051,5
+0,O1:0.7,D-M[STE->hidden 8] | early member alone,0.7334766727926151,1
+0,O1:0.7,D-S[m0->early:b],0.4723689817083469,5
+0,O1:0.7,D-S[m0->early:b] | early member alone,0.6001345032520219,1
+0,O1:0.7,D-S+early:b,0.47152328950335504,5
+0,O1:0.7,D-S+early:b | early member alone,0.6001345032520219,1
+0,O1:0.7,D-M[STE->early atan:a],0.49964923249379634,5
+0,O1:0.7,D-M[STE->early atan:a] | early member alone,0.7340227778289831,1
+0,O1:0.7,D-M[STE->early sigmoid:a],0.49514167381150015,5
+0,O1:0.7,D-M[STE->early sigmoid:a] | early member alone,0.7353287853522777,1
+0,O1:0.7,D-M[STE->early triangular:a],0.49829186635359457,5
+0,O1:0.7,D-M[STE->early triangular:a] | early member alone,0.6956992149309722,1
+0,O1:0.7,D-M[STE->early sre:a],0.5037326629943646,5
+0,O1:0.7,D-M[STE->early sre:a] | early member alone,0.7684226642179343,1
+0,O1:0.7,D-S[m0->early:a],0.48081051329792246,5
+0,O1:0.7,D-S[m0->early:a] | early member alone,0.6956992149309722,1
+0,O1:0.7,D-S+early:a,0.47961816205326924,5
+0,O1:0.7,D-S+early:a | early member alone,0.6956992149309722,1
+0,O1qqd:0.5,D-M,0.11814040512932532,5
+0,O1qqd:0.5,D-S,0.12274538722287952,5
+0,O1qqd:0.5,D-M-STE,0.12976426526339313,4
+0,O1qqd:0.5,D-M[STE->early atan:b],0.11956209033915433,5
+0,O1qqd:0.5,D-M[STE->early atan:b] | early member alone,0.2378280613874431,1
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],0.11815548962694263,5
+0,O1qqd:0.5,D-M[STE->early sigmoid:b] | early member alone,0.2397070949102222,1
+0,O1qqd:0.5,D-M[STE->early triangular:b],0.11815434672902465,5
+0,O1qqd:0.5,D-M[STE->early triangular:b] | early member alone,0.20274247921707256,1
+0,O1qqd:0.5,D-M[STE->early sre:b],0.11978131060798401,5
+0,O1qqd:0.5,D-M[STE->early sre:b] | early member alone,0.24010762994302348,1
+0,O1qqd:0.5,D-M[STE->hidden 16],0.12659124542160538,5
+0,O1qqd:0.5,D-M[STE->hidden 16] | early member alone,0.21740402043500806,1
+0,O1qqd:0.5,D-M[STE->hidden 4],0.12644888063003681,5
+0,O1qqd:0.5,D-M[STE->hidden 4] | early member alone,0.4701382940607271,1
+0,O1qqd:0.5,D-M[STE->hidden 8],0.12531176283153284,5
+0,O1qqd:0.5,D-M[STE->hidden 8] | early member alone,0.3137224549475903,1
+0,O1qqd:0.5,D-S[m0->early:b],0.11402438187218707,5
+0,O1qqd:0.5,D-S[m0->early:b] | early member alone,0.20274247921707256,1
+0,O1qqd:0.5,D-S+early:b,0.1128134005456607,5
+0,O1qqd:0.5,D-S+early:b | early member alone,0.20274247921707256,1
+0,O1qqd:0.5,D-M[STE->early atan:a],0.1213425406914514,5
+0,O1qqd:0.5,D-M[STE->early atan:a] | early member alone,0.2834266548094236,1
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],0.12078718491366981,5
+0,O1qqd:0.5,D-M[STE->early sigmoid:a] | early member alone,0.29084872657403915,1
+0,O1qqd:0.5,D-M[STE->early triangular:a],0.1195480771259676,5
+0,O1qqd:0.5,D-M[STE->early triangular:a] | early member alone,0.25390377562633515,1
+0,O1qqd:0.5,D-M[STE->early sre:a],0.12114789411269385,5
+0,O1qqd:0.5,D-M[STE->early sre:a] | early member alone,0.29029625786392316,1
+0,O1qqd:0.5,D-S[m0->early:a],0.1153300666536841,5
+0,O1qqd:0.5,D-S[m0->early:a] | early member alone,0.25390377562633515,1
+0,O1qqd:0.5,D-S+early:a,0.1139413435009672,5
+0,O1qqd:0.5,D-S+early:a | early member alone,0.25390377562633515,1
+1,N,D-M,0.009823916654524447,4
+1,N,D-S,0.010236615638629843,5
+1,N,D-M-STE,0.009823916654524447,4
+1,N,D-M[STE->early atan:b],0.009823916654524447,4
+1,N,D-M[STE->early atan:b] | early member alone,0.15182192220997037,1
+1,N,D-M[STE->early sigmoid:b],0.009823916654524447,4
+1,N,D-M[STE->early sigmoid:b] | early member alone,0.13637725075970702,1
+1,N,D-M[STE->early triangular:b],0.009823916654524447,4
+1,N,D-M[STE->early triangular:b] | early member alone,0.15658247588403273,1
+1,N,D-M[STE->early sre:b],0.009823916654524447,4
+1,N,D-M[STE->early sre:b] | early member alone,0.15697527780007747,1
+1,N,D-M[STE->hidden 16],0.009823916654524447,4
+1,N,D-M[STE->hidden 16] | early member alone,0.08774428273980284,1
+1,N,D-M[STE->hidden 4],0.009823916654524447,4
+1,N,D-M[STE->hidden 4] | early member alone,0.4420408167893833,1
+1,N,D-M[STE->hidden 8],0.009823916654524447,4
+1,N,D-M[STE->hidden 8] | early member alone,0.15146115768621582,1
+1,N,D-S[m0->early:b],0.010923360851031181,4
+1,N,D-S[m0->early:b] | early member alone,0.15658247588403273,1
+1,N,D-S+early:b,0.010236615638629843,5
+1,N,D-S+early:b | early member alone,0.15658247588403273,1
+1,N,D-M[STE->early atan:a],0.009823916654524447,4
+1,N,D-M[STE->early atan:a] | early member alone,0.19512040175788836,1
+1,N,D-M[STE->early sigmoid:a],0.009823916654524447,4
+1,N,D-M[STE->early sigmoid:a] | early member alone,0.16787276628466813,1
+1,N,D-M[STE->early triangular:a],0.009823916654524447,4
+1,N,D-M[STE->early triangular:a] | early member alone,0.2008791468949997,1
+1,N,D-M[STE->early sre:a],0.009823916654524447,4
+1,N,D-M[STE->early sre:a] | early member alone,0.2015179620520983,1
+1,N,D-S[m0->early:a],0.010923360851031181,4
+1,N,D-S[m0->early:a] | early member alone,0.2008791468949997,1
+1,N,D-S+early:a,0.010236615638629843,5
+1,N,D-S+early:a | early member alone,0.2008791468949997,1
+1,O1:0.5,D-M,0.2521847821447245,5
+1,O1:0.5,D-S,0.29145559283693667,5
+1,O1:0.5,D-M-STE,0.29800334566178194,4
+1,O1:0.5,D-M[STE->early atan:b],0.2891589408234137,5
+1,O1:0.5,D-M[STE->early atan:b] | early member alone,0.4720012393406792,1
+1,O1:0.5,D-M[STE->early sigmoid:b],0.2812431680126764,5
+1,O1:0.5,D-M[STE->early sigmoid:b] | early member alone,0.417111608148034,1
+1,O1:0.5,D-M[STE->early triangular:b],0.2903699059157449,5
+1,O1:0.5,D-M[STE->early triangular:b] | early member alone,0.49483380641589647,1
+1,O1:0.5,D-M[STE->early sre:b],0.28962609405837236,5
+1,O1:0.5,D-M[STE->early sre:b] | early member alone,0.48890014226375833,1
+1,O1:0.5,D-M[STE->hidden 16],0.2948738668382417,5
+1,O1:0.5,D-M[STE->hidden 16] | early member alone,0.4199564898314072,1
+1,O1:0.5,D-M[STE->hidden 4],0.2709620141628633,5
+1,O1:0.5,D-M[STE->hidden 4] | early member alone,0.5893797422335422,1
+1,O1:0.5,D-M[STE->hidden 8],0.2894438471518693,5
+1,O1:0.5,D-M[STE->hidden 8] | early member alone,0.4452298455062738,1
+1,O1:0.5,D-S[m0->early:b],0.28710149303095595,5
+1,O1:0.5,D-S[m0->early:b] | early member alone,0.49483380641589647,1
+1,O1:0.5,D-S+early:b,0.28657084493168367,5
+1,O1:0.5,D-S+early:b | early member alone,0.49483380641589647,1
+1,O1:0.5,D-M[STE->early atan:a],0.2903928760702803,5
+1,O1:0.5,D-M[STE->early atan:a] | early member alone,0.5455507595489094,1
+1,O1:0.5,D-M[STE->early sigmoid:a],0.28627350629178006,5
+1,O1:0.5,D-M[STE->early sigmoid:a] | early member alone,0.485766453797318,1
+1,O1:0.5,D-M[STE->early triangular:a],0.28979031364952584,5
+1,O1:0.5,D-M[STE->early triangular:a] | early member alone,0.5408471447554085,1
+1,O1:0.5,D-M[STE->early sre:a],0.288544603391032,5
+1,O1:0.5,D-M[STE->early sre:a] | early member alone,0.5534335888361696,1
+1,O1:0.5,D-S[m0->early:a],0.2862565046069508,5
+1,O1:0.5,D-S[m0->early:a] | early member alone,0.5408471447554085,1
+1,O1:0.5,D-S+early:a,0.28574802200441346,5
+1,O1:0.5,D-S+early:a | early member alone,0.5408471447554085,1
+1,O1:0.7,D-M,0.406690911456089,5
+1,O1:0.7,D-S,0.49935296704433224,5
+1,O1:0.7,D-M-STE,0.5062167202310534,4
+1,O1:0.7,D-M[STE->early atan:b],0.48663131453804914,5
+1,O1:0.7,D-M[STE->early atan:b] | early member alone,0.6891311199839419,1
+1,O1:0.7,D-M[STE->early sigmoid:b],0.47255887464822777,5
+1,O1:0.7,D-M[STE->early sigmoid:b] | early member alone,0.6221667915339938,1
+1,O1:0.7,D-M[STE->early triangular:b],0.491536908077293,5
+1,O1:0.7,D-M[STE->early triangular:b] | early member alone,0.7299179279122501,1
+1,O1:0.7,D-M[STE->early sre:b],0.4879019742001592,5
+1,O1:0.7,D-M[STE->early sre:b] | early member alone,0.7158602398098417,1
+1,O1:0.7,D-M[STE->hidden 16],0.4988771129611532,5
+1,O1:0.7,D-M[STE->hidden 16] | early member alone,0.6444293357866776,1
+1,O1:0.7,D-M[STE->hidden 4],0.43339869963044175,5
+1,O1:0.7,D-M[STE->hidden 4] | early member alone,0.7086085557179016,1
+1,O1:0.7,D-M[STE->hidden 8],0.4890134624692529,5
+1,O1:0.7,D-M[STE->hidden 8] | early member alone,0.6688757129735363,1
+1,O1:0.7,D-S[m0->early:b],0.48900836936553455,5
+1,O1:0.7,D-S[m0->early:b] | early member alone,0.7299179279122501,1
+1,O1:0.7,D-S+early:b,0.48694299863537926,5
+1,O1:0.7,D-S+early:b | early member alone,0.7299179279122501,1
+1,O1:0.7,D-M[STE->early atan:a],0.49041218110735113,5
+1,O1:0.7,D-M[STE->early atan:a] | early member alone,0.7873267065938953,1
+1,O1:0.7,D-M[STE->early sigmoid:a],0.48230905324792467,5
+1,O1:0.7,D-M[STE->early sigmoid:a] | early member alone,0.7102267850497853,1
+1,O1:0.7,D-M[STE->early triangular:a],0.49042951602305507,5
+1,O1:0.7,D-M[STE->early triangular:a] | early member alone,0.7844370235033382,1
+1,O1:0.7,D-M[STE->early sre:a],0.4898495421225196,5
+1,O1:0.7,D-M[STE->early sre:a] | early member alone,0.8126743760710867,1
+1,O1:0.7,D-S[m0->early:a],0.4875896263252066,5
+1,O1:0.7,D-S[m0->early:a] | early member alone,0.7844370235033382,1
+1,O1:0.7,D-S+early:a,0.4853555802147774,5
+1,O1:0.7,D-S+early:a | early member alone,0.7844370235033382,1
+1,O1qqd:0.5,D-M,0.11546003659453899,5
+1,O1qqd:0.5,D-S,0.12089571718316063,5
+1,O1qqd:0.5,D-M-STE,0.12771144831240466,4
+1,O1qqd:0.5,D-M[STE->early atan:b],0.11935567930331925,5
+1,O1qqd:0.5,D-M[STE->early atan:b] | early member alone,0.2695127608218401,1
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],0.11756605885129452,5
+1,O1qqd:0.5,D-M[STE->early sigmoid:b] | early member alone,0.24763831269969638,1
+1,O1qqd:0.5,D-M[STE->early triangular:b],0.11899861292630973,5
+1,O1qqd:0.5,D-M[STE->early triangular:b] | early member alone,0.285244812054433,1
+1,O1qqd:0.5,D-M[STE->early sre:b],0.119426928422072,5
+1,O1qqd:0.5,D-M[STE->early sre:b] | early member alone,0.28808304427857373,1
+1,O1qqd:0.5,D-M[STE->hidden 16],0.12267954528156183,5
+1,O1qqd:0.5,D-M[STE->hidden 16] | early member alone,0.2068985544450211,1
+1,O1qqd:0.5,D-M[STE->hidden 4],0.12436097437225363,5
+1,O1qqd:0.5,D-M[STE->hidden 4] | early member alone,0.4916984602926592,1
+1,O1qqd:0.5,D-M[STE->hidden 8],0.11918071936442962,5
+1,O1qqd:0.5,D-M[STE->hidden 8] | early member alone,0.2348664935484195,1
+1,O1qqd:0.5,D-S[m0->early:b],0.11368406795496136,5
+1,O1qqd:0.5,D-S[m0->early:b] | early member alone,0.285244812054433,1
+1,O1qqd:0.5,D-S+early:b,0.11368406795496136,5
+1,O1qqd:0.5,D-S+early:b | early member alone,0.285244812054433,1
+1,O1qqd:0.5,D-M[STE->early atan:a],0.12008262925822116,5
+1,O1qqd:0.5,D-M[STE->early atan:a] | early member alone,0.331284163869371,1
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],0.11915007069983839,5
+1,O1qqd:0.5,D-M[STE->early sigmoid:a] | early member alone,0.2973537901067965,1
+1,O1qqd:0.5,D-M[STE->early triangular:a],0.11977213487513622,5
+1,O1qqd:0.5,D-M[STE->early triangular:a] | early member alone,0.3329196565110315,1
+1,O1qqd:0.5,D-M[STE->early sre:a],0.12021441830976219,5
+1,O1qqd:0.5,D-M[STE->early sre:a] | early member alone,0.3515323332798332,1
+1,O1qqd:0.5,D-S[m0->early:a],0.11444207592348482,5
+1,O1qqd:0.5,D-S[m0->early:a] | early member alone,0.3329196565110315,1
+1,O1qqd:0.5,D-S+early:a,0.11444207592348482,5
+1,O1qqd:0.5,D-S+early:a | early member alone,0.3329196565110315,1
+2,N,D-M,0.010518583659214225,4
+2,N,D-S,0.009836030406708671,5
+2,N,D-M-STE,0.010518583659214225,4
+2,N,D-M[STE->early atan:b],0.010518583659214225,4
+2,N,D-M[STE->early atan:b] | early member alone,0.1339622778937388,1
+2,N,D-M[STE->early sigmoid:b],0.010518583659214225,4
+2,N,D-M[STE->early sigmoid:b] | early member alone,0.1267214088219434,1
+2,N,D-M[STE->early triangular:b],0.010518583659214225,4
+2,N,D-M[STE->early triangular:b] | early member alone,0.11775368481234856,1
+2,N,D-M[STE->early sre:b],0.010518583659214225,4
+2,N,D-M[STE->early sre:b] | early member alone,0.1494195462997883,1
+2,N,D-M[STE->hidden 16],0.010518583659214225,4
+2,N,D-M[STE->hidden 16] | early member alone,0.08974044803725942,1
+2,N,D-M[STE->hidden 4],0.010518583659214225,4
+2,N,D-M[STE->hidden 4] | early member alone,0.30423514457310114,1
+2,N,D-M[STE->hidden 8],0.010518583659214225,4
+2,N,D-M[STE->hidden 8] | early member alone,0.18360111886107142,1
+2,N,D-S[m0->early:b],0.0101702663130859,4
+2,N,D-S[m0->early:b] | early member alone,0.11775368481234856,1
+2,N,D-S+early:b,0.009836030406708671,5
+2,N,D-S+early:b | early member alone,0.11775368481234856,1
+2,N,D-M[STE->early atan:a],0.010518583659214225,4
+2,N,D-M[STE->early atan:a] | early member alone,0.17522553057654852,1
+2,N,D-M[STE->early sigmoid:a],0.010518583659214225,4
+2,N,D-M[STE->early sigmoid:a] | early member alone,0.1648877087941454,1
+2,N,D-M[STE->early triangular:a],0.010518583659214225,4
+2,N,D-M[STE->early triangular:a] | early member alone,0.1548911618886486,1
+2,N,D-M[STE->early sre:a],0.010518583659214225,4
+2,N,D-M[STE->early sre:a] | early member alone,0.20322077940524752,1
+2,N,D-S[m0->early:a],0.0101702663130859,4
+2,N,D-S[m0->early:a] | early member alone,0.1548911618886486,1
+2,N,D-S+early:a,0.009836030406708671,5
+2,N,D-S+early:a | early member alone,0.1548911618886486,1
+2,O1:0.5,D-M,0.258495379425792,5
+2,O1:0.5,D-S,0.2874672265050262,5
+2,O1:0.5,D-M-STE,0.293469120226734,4
+2,O1:0.5,D-M[STE->early atan:b],0.2773912420803761,4
+2,O1:0.5,D-M[STE->early atan:b] | early member alone,0.40236049501026366,1
+2,O1:0.5,D-M[STE->early sigmoid:b],0.2774333163090406,4
+2,O1:0.5,D-M[STE->early sigmoid:b] | early member alone,0.41114663296373755,1
+2,O1:0.5,D-M[STE->early triangular:b],0.27993481203325643,4
+2,O1:0.5,D-M[STE->early triangular:b] | early member alone,0.40059831732258616,1
+2,O1:0.5,D-M[STE->early sre:b],0.2833818830336524,4
+2,O1:0.5,D-M[STE->early sre:b] | early member alone,0.46696893755053814,1
+2,O1:0.5,D-M[STE->hidden 16],0.29110994658262396,5
+2,O1:0.5,D-M[STE->hidden 16] | early member alone,0.4175861658781847,1
+2,O1:0.5,D-M[STE->hidden 4],0.28263805597625985,5
+2,O1:0.5,D-M[STE->hidden 4] | early member alone,0.5518293157421876,1
+2,O1:0.5,D-M[STE->hidden 8],0.28450254700067684,4
+2,O1:0.5,D-M[STE->hidden 8] | early member alone,0.4604207797901799,1
+2,O1:0.5,D-S[m0->early:b],0.2765359488942521,5
+2,O1:0.5,D-S[m0->early:b] | early member alone,0.40059831732258616,1
+2,O1:0.5,D-S+early:b,0.2755780195769941,5
+2,O1:0.5,D-S+early:b | early member alone,0.40059831732258616,1
+2,O1:0.5,D-M[STE->early atan:a],0.28202849722497886,4
+2,O1:0.5,D-M[STE->early atan:a] | early member alone,0.46605906141677106,1
+2,O1:0.5,D-M[STE->early sigmoid:a],0.2803291727015531,4
+2,O1:0.5,D-M[STE->early sigmoid:a] | early member alone,0.46207650833740704,1
+2,O1:0.5,D-M[STE->early triangular:a],0.28407475966502527,4
+2,O1:0.5,D-M[STE->early triangular:a] | early member alone,0.45899881356989125,1
+2,O1:0.5,D-M[STE->early sre:a],0.2831730125104349,5
+2,O1:0.5,D-M[STE->early sre:a] | early member alone,0.5352138152086229,1
+2,O1:0.5,D-S[m0->early:a],0.28017766959203655,5
+2,O1:0.5,D-S[m0->early:a] | early member alone,0.45899881356989125,1
+2,O1:0.5,D-S+early:a,0.27905989439791684,5
+2,O1:0.5,D-S+early:a | early member alone,0.45899881356989125,1
+2,O1:0.7,D-M,0.419254330118487,4
+2,O1:0.7,D-S,0.49143539990960283,5
+2,O1:0.7,D-M-STE,0.5022029531331421,3
+2,O1:0.7,D-M[STE->early atan:b],0.47376991833734616,4
+2,O1:0.7,D-M[STE->early atan:b] | early member alone,0.6198430978729103,1
+2,O1:0.7,D-M[STE->early sigmoid:b],0.4711995648690378,4
+2,O1:0.7,D-M[STE->early sigmoid:b] | early member alone,0.6285935321247157,1
+2,O1:0.7,D-M[STE->early triangular:b],0.47331459002599496,4
+2,O1:0.7,D-M[STE->early triangular:b] | early member alone,0.6045440943963427,1
+2,O1:0.7,D-M[STE->early sre:b],0.48308312499994566,4
+2,O1:0.7,D-M[STE->early sre:b] | early member alone,0.7097758122606932,1
+2,O1:0.7,D-M[STE->hidden 16],0.4974538694198448,4
+2,O1:0.7,D-M[STE->hidden 16] | early member alone,0.656852181075873,1
+2,O1:0.7,D-M[STE->hidden 4],0.4779683481965183,4
+2,O1:0.7,D-M[STE->hidden 4] | early member alone,0.7667335621527079,1
+2,O1:0.7,D-M[STE->hidden 8],0.4861393667083644,4
+2,O1:0.7,D-M[STE->hidden 8] | early member alone,0.6947525368557517,1
+2,O1:0.7,D-S[m0->early:b],0.46656412661653396,5
+2,O1:0.7,D-S[m0->early:b] | early member alone,0.6045440943963427,1
+2,O1:0.7,D-S+early:b,0.4643548187245338,5
+2,O1:0.7,D-S+early:b | early member alone,0.6045440943963427,1
+2,O1:0.7,D-M[STE->early atan:a],0.47862017443003496,4
+2,O1:0.7,D-M[STE->early atan:a] | early member alone,0.6888584563586363,1
+2,O1:0.7,D-M[STE->early sigmoid:a],0.4727218118865203,4
+2,O1:0.7,D-M[STE->early sigmoid:a] | early member alone,0.6690017057575679,1
+2,O1:0.7,D-M[STE->early triangular:a],0.48132638142403544,4
+2,O1:0.7,D-M[STE->early triangular:a] | early member alone,0.6762568546714972,1
+2,O1:0.7,D-M[STE->early sre:a],0.4837926129243943,4
+2,O1:0.7,D-M[STE->early sre:a] | early member alone,0.7904821597747408,1
+2,O1:0.7,D-S[m0->early:a],0.4740680956954477,5
+2,O1:0.7,D-S[m0->early:a] | early member alone,0.6762568546714972,1
+2,O1:0.7,D-S+early:a,0.4716316341124967,5
+2,O1:0.7,D-S+early:a | early member alone,0.6762568546714972,1
+2,O1qqd:0.5,D-M,0.11308954333311513,5
+2,O1qqd:0.5,D-S,0.123771268606814,5
+2,O1qqd:0.5,D-M-STE,0.12507444847342042,4
+2,O1qqd:0.5,D-M[STE->early atan:b],0.11523886923820802,5
+2,O1qqd:0.5,D-M[STE->early atan:b] | early member alone,0.23172355824583593,1
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],0.11487421389155893,5
+2,O1qqd:0.5,D-M[STE->early sigmoid:b] | early member alone,0.23780246618970335,1
+2,O1qqd:0.5,D-M[STE->early triangular:b],0.11448985488994705,5
+2,O1qqd:0.5,D-M[STE->early triangular:b] | early member alone,0.2158217294955485,1
+2,O1qqd:0.5,D-M[STE->early sre:b],0.11573301328262323,5
+2,O1qqd:0.5,D-M[STE->early sre:b] | early member alone,0.2686732783653528,1
+2,O1qqd:0.5,D-M[STE->hidden 16],0.11955132780378411,5
+2,O1qqd:0.5,D-M[STE->hidden 16] | early member alone,0.1956824810815184,1
+2,O1qqd:0.5,D-M[STE->hidden 4],0.1208558299407435,5
+2,O1qqd:0.5,D-M[STE->hidden 4] | early member alone,0.37139304327221523,1
+2,O1qqd:0.5,D-M[STE->hidden 8],0.11948173891945799,5
+2,O1qqd:0.5,D-M[STE->hidden 8] | early member alone,0.2668674932617934,1
+2,O1qqd:0.5,D-S[m0->early:b],0.11378872207452453,5
+2,O1qqd:0.5,D-S[m0->early:b] | early member alone,0.2158217294955485,1
+2,O1qqd:0.5,D-S+early:b,0.11324774950909648,5
+2,O1qqd:0.5,D-S+early:b | early member alone,0.2158217294955485,1
+2,O1qqd:0.5,D-M[STE->early atan:a],0.11686804376063449,5
+2,O1qqd:0.5,D-M[STE->early atan:a] | early member alone,0.2820722817550744,1
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],0.11673835449026097,5
+2,O1qqd:0.5,D-M[STE->early sigmoid:a] | early member alone,0.28235910958977756,1
+2,O1qqd:0.5,D-M[STE->early triangular:a],0.11647774827832792,5
+2,O1qqd:0.5,D-M[STE->early triangular:a] | early member alone,0.26673642622754967,1
+2,O1qqd:0.5,D-M[STE->early sre:a],0.11733754237247226,5
+2,O1qqd:0.5,D-M[STE->early sre:a] | early member alone,0.3400246031692531,1
+2,O1qqd:0.5,D-S[m0->early:a],0.11598268523760048,5
+2,O1qqd:0.5,D-S[m0->early:a] | early member alone,0.26673642622754967,1
+2,O1qqd:0.5,D-S+early:a,0.11533021555698016,5
+2,O1qqd:0.5,D-S+early:a | early member alone,0.26673642622754967,1
+3,N,D-M,0.01025259212815106,4
+3,N,D-S,0.01003629219057002,5
+3,N,D-M-STE,0.01025259212815106,4
+3,N,D-M[STE->early atan:b],0.01025259212815106,4
+3,N,D-M[STE->early atan:b] | early member alone,0.1662443438922508,1
+3,N,D-M[STE->early sigmoid:b],0.01025259212815106,4
+3,N,D-M[STE->early sigmoid:b] | early member alone,0.15132601754672004,1
+3,N,D-M[STE->early triangular:b],0.01025259212815106,4
+3,N,D-M[STE->early triangular:b] | early member alone,0.1245909455226515,1
+3,N,D-M[STE->early sre:b],0.01025259212815106,4
+3,N,D-M[STE->early sre:b] | early member alone,0.16073425525439097,1
+3,N,D-M[STE->hidden 16],0.01025259212815106,4
+3,N,D-M[STE->hidden 16] | early member alone,0.08891071282856859,1
+3,N,D-M[STE->hidden 4],0.01025259212815106,4
+3,N,D-M[STE->hidden 4] | early member alone,0.5546448112018639,1
+3,N,D-M[STE->hidden 8],0.01025259212815106,4
+3,N,D-M[STE->hidden 8] | early member alone,0.1633319229745958,1
+3,N,D-S[m0->early:b],0.010726305932494793,4
+3,N,D-S[m0->early:b] | early member alone,0.1245909455226515,1
+3,N,D-S+early:b,0.01003629219057002,5
+3,N,D-S+early:b | early member alone,0.1245909455226515,1
+3,N,D-M[STE->early atan:a],0.01025259212815106,4
+3,N,D-M[STE->early atan:a] | early member alone,0.2109281528854834,1
+3,N,D-M[STE->early sigmoid:a],0.01025259212815106,4
+3,N,D-M[STE->early sigmoid:a] | early member alone,0.19222365961334603,1
+3,N,D-M[STE->early triangular:a],0.01025259212815106,4
+3,N,D-M[STE->early triangular:a] | early member alone,0.1923822630536056,1
+3,N,D-M[STE->early sre:a],0.01025259212815106,4
+3,N,D-M[STE->early sre:a] | early member alone,0.20978701813955916,1
+3,N,D-S[m0->early:a],0.010726305932494793,4
+3,N,D-S[m0->early:a] | early member alone,0.1923822630536056,1
+3,N,D-S+early:a,0.01003629219057002,5
+3,N,D-S+early:a | early member alone,0.1923822630536056,1
+3,O1:0.5,D-M,0.24747289235098022,5
+3,O1:0.5,D-S,0.2913050719354413,5
+3,O1:0.5,D-M-STE,0.2927574304401524,4
+3,O1:0.5,D-M[STE->early atan:b],0.27917909620966924,5
+3,O1:0.5,D-M[STE->early atan:b] | early member alone,0.45714395947255504,1
+3,O1:0.5,D-M[STE->early sigmoid:b],0.27297776682304914,5
+3,O1:0.5,D-M[STE->early sigmoid:b] | early member alone,0.41106732977395494,1
+3,O1:0.5,D-M[STE->early triangular:b],0.2765499164236156,5
+3,O1:0.5,D-M[STE->early triangular:b] | early member alone,0.40755843511535855,1
+3,O1:0.5,D-M[STE->early sre:b],0.2818698160694997,5
+3,O1:0.5,D-M[STE->early sre:b] | early member alone,0.48458545549169413,1
+3,O1:0.5,D-M[STE->hidden 16],0.2918425198733427,5
+3,O1:0.5,D-M[STE->hidden 16] | early member alone,0.4336967443699082,1
+3,O1:0.5,D-M[STE->hidden 4],0.26723311213156037,5
+3,O1:0.5,D-M[STE->hidden 4] | early member alone,0.6749027063127474,1
+3,O1:0.5,D-M[STE->hidden 8],0.28838955874654776,5
+3,O1:0.5,D-M[STE->hidden 8] | early member alone,0.44253007818198675,1
+3,O1:0.5,D-S[m0->early:b],0.2775978007620185,5
+3,O1:0.5,D-S[m0->early:b] | early member alone,0.40755843511535855,1
+3,O1:0.5,D-S+early:b,0.2748799818869319,5
+3,O1:0.5,D-S+early:b | early member alone,0.40755843511535855,1
+3,O1:0.5,D-M[STE->early atan:a],0.2804294778927907,5
+3,O1:0.5,D-M[STE->early atan:a] | early member alone,0.5250960073985665,1
+3,O1:0.5,D-M[STE->early sigmoid:a],0.2775044904034234,5
+3,O1:0.5,D-M[STE->early sigmoid:a] | early member alone,0.4736749596829682,1
+3,O1:0.5,D-M[STE->early triangular:a],0.2813949690082607,5
+3,O1:0.5,D-M[STE->early triangular:a] | early member alone,0.4897123703038929,1
+3,O1:0.5,D-M[STE->early sre:a],0.282350134180038,5
+3,O1:0.5,D-M[STE->early sre:a] | early member alone,0.5564629143045761,1
+3,O1:0.5,D-S[m0->early:a],0.28266969185738505,5
+3,O1:0.5,D-S[m0->early:a] | early member alone,0.4897123703038929,1
+3,O1:0.5,D-S+early:a,0.2800999064072688,5
+3,O1:0.5,D-S+early:a | early member alone,0.4897123703038929,1
+3,O1:0.7,D-M,0.3876315057468232,5
+3,O1:0.7,D-S,0.49972733442741035,5
+3,O1:0.7,D-M-STE,0.49684174532834324,4
+3,O1:0.7,D-M[STE->early atan:b],0.4677458876787436,5
+3,O1:0.7,D-M[STE->early atan:b] | early member alone,0.6632425439310997,1
+3,O1:0.7,D-M[STE->early sigmoid:b],0.45296234917098244,5
+3,O1:0.7,D-M[STE->early sigmoid:b] | early member alone,0.5959837075660988,1
+3,O1:0.7,D-M[STE->early triangular:b],0.46481725768876503,5
+3,O1:0.7,D-M[STE->early triangular:b] | early member alone,0.6096885561012456,1
+3,O1:0.7,D-M[STE->early sre:b],0.4747741814980145,5
+3,O1:0.7,D-M[STE->early sre:b] | early member alone,0.7201376759580898,1
+3,O1:0.7,D-M[STE->hidden 16],0.4939951170382548,5
+3,O1:0.7,D-M[STE->hidden 16] | early member alone,0.6807191758903633,1
+3,O1:0.7,D-M[STE->hidden 4],0.4233251778179059,5
+3,O1:0.7,D-M[STE->hidden 4] | early member alone,0.7664092604300536,1
+3,O1:0.7,D-M[STE->hidden 8],0.4852119130088864,5
+3,O1:0.7,D-M[STE->hidden 8] | early member alone,0.648465679629309,1
+3,O1:0.7,D-S[m0->early:b],0.46889250474845107,5
+3,O1:0.7,D-S[m0->early:b] | early member alone,0.6096885561012456,1
+3,O1:0.7,D-S+early:b,0.4643961824947381,5
+3,O1:0.7,D-S+early:b | early member alone,0.6096885561012456,1
+3,O1:0.7,D-M[STE->early atan:a],0.4712255671855472,5
+3,O1:0.7,D-M[STE->early atan:a] | early member alone,0.7411518691998362,1
+3,O1:0.7,D-M[STE->early sigmoid:a],0.4642255739625946,5
+3,O1:0.7,D-M[STE->early sigmoid:a] | early member alone,0.6772610963080781,1
+3,O1:0.7,D-M[STE->early triangular:a],0.47183827025950736,5
+3,O1:0.7,D-M[STE->early triangular:a] | early member alone,0.6973871108831833,1
+3,O1:0.7,D-M[STE->early sre:a],0.47600974138355867,5
+3,O1:0.7,D-M[STE->early sre:a] | early member alone,0.8088249353878139,1
+3,O1:0.7,D-S[m0->early:a],0.4770490203045612,5
+3,O1:0.7,D-S[m0->early:a] | early member alone,0.6973871108831833,1
+3,O1:0.7,D-S+early:a,0.4724055946207233,5
+3,O1:0.7,D-S+early:a | early member alone,0.6973871108831833,1
+3,O1qqd:0.5,D-M,0.11147004707562169,5
+3,O1qqd:0.5,D-S,0.12444469426167654,5
+3,O1qqd:0.5,D-M-STE,0.12183017443185022,4
+3,O1qqd:0.5,D-M[STE->early atan:b],0.1147985046142923,5
+3,O1qqd:0.5,D-M[STE->early atan:b] | early member alone,0.28030103925592176,1
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],0.11326839691405642,5
+3,O1qqd:0.5,D-M[STE->early sigmoid:b] | early member alone,0.25270002579222967,1
+3,O1qqd:0.5,D-M[STE->early triangular:b],0.11199670782148878,5
+3,O1qqd:0.5,D-M[STE->early triangular:b] | early member alone,0.22857541393098188,1
+3,O1qqd:0.5,D-M[STE->early sre:b],0.1142160327613758,5
+3,O1qqd:0.5,D-M[STE->early sre:b] | early member alone,0.29511387789368454,1
+3,O1qqd:0.5,D-M[STE->hidden 16],0.11955354886901956,5
+3,O1qqd:0.5,D-M[STE->hidden 16] | early member alone,0.21814579998183517,1
+3,O1qqd:0.5,D-M[STE->hidden 4],0.11987012439595941,5
+3,O1qqd:0.5,D-M[STE->hidden 4] | early member alone,0.5919316398145719,1
+3,O1qqd:0.5,D-M[STE->hidden 8],0.11809486871577006,5
+3,O1qqd:0.5,D-M[STE->hidden 8] | early member alone,0.24662886514715818,1
+3,O1qqd:0.5,D-S[m0->early:b],0.11345800716550533,5
+3,O1qqd:0.5,D-S[m0->early:b] | early member alone,0.22857541393098188,1
+3,O1qqd:0.5,D-S+early:b,0.11345800716550533,5
+3,O1qqd:0.5,D-S+early:b | early member alone,0.22857541393098188,1
+3,O1qqd:0.5,D-M[STE->early atan:a],0.11484976765604314,5
+3,O1qqd:0.5,D-M[STE->early atan:a] | early member alone,0.338050347250239,1
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],0.11490994976025018,5
+3,O1qqd:0.5,D-M[STE->early sigmoid:a] | early member alone,0.31025151141298446,1
+3,O1qqd:0.5,D-M[STE->early triangular:a],0.11516802713665104,5
+3,O1qqd:0.5,D-M[STE->early triangular:a] | early member alone,0.31092983559794496,1
+3,O1qqd:0.5,D-M[STE->early sre:a],0.11495001598492699,5
+3,O1qqd:0.5,D-M[STE->early sre:a] | early member alone,0.3568722381815615,1
+3,O1qqd:0.5,D-S[m0->early:a],0.11707034043221876,5
+3,O1qqd:0.5,D-S[m0->early:a] | early member alone,0.31092983559794496,1
+3,O1qqd:0.5,D-S+early:a,0.11707034043221876,5
+3,O1qqd:0.5,D-S+early:a | early member alone,0.31092983559794496,1
+4,N,D-M,0.010714698389887239,4
+4,N,D-S,0.009609207983383689,5
+4,N,D-M-STE,0.010714698389887239,4
+4,N,D-M[STE->early atan:b],0.010714698389887239,4
+4,N,D-M[STE->early atan:b] | early member alone,0.10613428572210842,1
+4,N,D-M[STE->early sigmoid:b],0.010714698389887239,4
+4,N,D-M[STE->early sigmoid:b] | early member alone,0.11405769984168311,1
+4,N,D-M[STE->early triangular:b],0.010714698389887239,4
+4,N,D-M[STE->early triangular:b] | early member alone,0.10630200440872024,1
+4,N,D-M[STE->early sre:b],0.010714698389887239,4
+4,N,D-M[STE->early sre:b] | early member alone,0.10100122354707346,1
+4,N,D-M[STE->hidden 16],0.010714698389887239,4
+4,N,D-M[STE->hidden 16] | early member alone,0.08640394967344982,1
+4,N,D-M[STE->hidden 4],0.010714698389887239,4
+4,N,D-M[STE->hidden 4] | early member alone,0.38709511320121937,1
+4,N,D-M[STE->hidden 8],0.010714698389887239,4
+4,N,D-M[STE->hidden 8] | early member alone,0.18615683904884697,1
+4,N,D-S[m0->early:b],0.010048349536603374,4
+4,N,D-S[m0->early:b] | early member alone,0.10630200440872024,1
+4,N,D-S+early:b,0.009609207983383689,5
+4,N,D-S+early:b | early member alone,0.10630200440872024,1
+4,N,D-M[STE->early atan:a],0.010714698389887239,4
+4,N,D-M[STE->early atan:a] | early member alone,0.11749878313577479,1
+4,N,D-M[STE->early sigmoid:a],0.010714698389887239,4
+4,N,D-M[STE->early sigmoid:a] | early member alone,0.13663304885391292,1
+4,N,D-M[STE->early triangular:a],0.010714698389887239,4
+4,N,D-M[STE->early triangular:a] | early member alone,0.12078892983332758,1
+4,N,D-M[STE->early sre:a],0.010714698389887239,4
+4,N,D-M[STE->early sre:a] | early member alone,0.12985725051556868,1
+4,N,D-S[m0->early:a],0.010048349536603374,4
+4,N,D-S[m0->early:a] | early member alone,0.12078892983332758,1
+4,N,D-S+early:a,0.009609207983383689,5
+4,N,D-S+early:a | early member alone,0.12078892983332758,1
+4,O1:0.5,D-M,0.24623597060212038,4
+4,O1:0.5,D-S,0.2896479235790454,5
+4,O1:0.5,D-M-STE,0.2921388938032635,4
+4,O1:0.5,D-M[STE->early atan:b],0.281688121557364,4
+4,O1:0.5,D-M[STE->early atan:b] | early member alone,0.39045255922960603,1
+4,O1:0.5,D-M[STE->early sigmoid:b],0.27960359518921,4
+4,O1:0.5,D-M[STE->early sigmoid:b] | early member alone,0.3949767231225249,1
+4,O1:0.5,D-M[STE->early triangular:b],0.2829990169596964,4
+4,O1:0.5,D-M[STE->early triangular:b] | early member alone,0.4031793176555341,1
+4,O1:0.5,D-M[STE->early sre:b],0.2835361155667878,4
+4,O1:0.5,D-M[STE->early sre:b] | early member alone,0.40753375194220837,1
+4,O1:0.5,D-M[STE->hidden 16],0.2904308108009888,4
+4,O1:0.5,D-M[STE->hidden 16] | early member alone,0.42070879436796116,1
+4,O1:0.5,D-M[STE->hidden 4],0.258973221670342,4
+4,O1:0.5,D-M[STE->hidden 4] | early member alone,0.5553307464698565,1
+4,O1:0.5,D-M[STE->hidden 8],0.28388675948234987,4
+4,O1:0.5,D-M[STE->hidden 8] | early member alone,0.4897220787786782,1
+4,O1:0.5,D-S[m0->early:b],0.28049837410005046,5
+4,O1:0.5,D-S[m0->early:b] | early member alone,0.4031793176555341,1
+4,O1:0.5,D-S+early:b,0.2807938314380936,5
+4,O1:0.5,D-S+early:b | early member alone,0.4031793176555341,1
+4,O1:0.5,D-M[STE->early atan:a],0.27983882223194595,4
+4,O1:0.5,D-M[STE->early atan:a] | early member alone,0.40315399393373924,1
+4,O1:0.5,D-M[STE->early sigmoid:a],0.2811401420944118,4
+4,O1:0.5,D-M[STE->early sigmoid:a] | early member alone,0.4289121253753718,1
+4,O1:0.5,D-M[STE->early triangular:a],0.2838482197989214,4
+4,O1:0.5,D-M[STE->early triangular:a] | early member alone,0.42512304508523435,1
+4,O1:0.5,D-M[STE->early sre:a],0.28604398442984513,4
+4,O1:0.5,D-M[STE->early sre:a] | early member alone,0.44772665218692037,1
+4,O1:0.5,D-S[m0->early:a],0.2813949956482367,5
+4,O1:0.5,D-S[m0->early:a] | early member alone,0.42512304508523435,1
+4,O1:0.5,D-S+early:a,0.28175133539165237,5
+4,O1:0.5,D-S+early:a | early member alone,0.42512304508523435,1
+4,O1:0.7,D-M,0.4028392855573579,5
+4,O1:0.7,D-S,0.4953562092328044,5
+4,O1:0.7,D-M-STE,0.5003707069292385,4
+4,O1:0.7,D-M[STE->early atan:b],0.4790146411730257,4
+4,O1:0.7,D-M[STE->early atan:b] | early member alone,0.6017766518964118,1
+4,O1:0.7,D-M[STE->early sigmoid:b],0.4765125939285933,5
+4,O1:0.7,D-M[STE->early sigmoid:b] | early member alone,0.6108025684844169,1
+4,O1:0.7,D-M[STE->early triangular:b],0.4817288960978042,5
+4,O1:0.7,D-M[STE->early triangular:b] | early member alone,0.6245554327429755,1
+4,O1:0.7,D-M[STE->early sre:b],0.47970715280320037,5
+4,O1:0.7,D-M[STE->early sre:b] | early member alone,0.6195364933720717,1
+4,O1:0.7,D-M[STE->hidden 16],0.49502252202197383,5
+4,O1:0.7,D-M[STE->hidden 16] | early member alone,0.6481363223709157,1
+4,O1:0.7,D-M[STE->hidden 4],0.4227220086667854,5
+4,O1:0.7,D-M[STE->hidden 4] | early member alone,0.6908895423640108,1
+4,O1:0.7,D-M[STE->hidden 8],0.4813759738448473,4
+4,O1:0.7,D-M[STE->hidden 8] | early member alone,0.7239450348840727,1
+4,O1:0.7,D-S[m0->early:b],0.4778077613997991,5
+4,O1:0.7,D-S[m0->early:b] | early member alone,0.6245554327429755,1
+4,O1:0.7,D-S+early:b,0.47572753054763467,5
+4,O1:0.7,D-S+early:b | early member alone,0.6245554327429755,1
+4,O1:0.7,D-M[STE->early atan:a],0.4738309410228721,4
+4,O1:0.7,D-M[STE->early atan:a] | early member alone,0.6097662295017571,1
+4,O1:0.7,D-M[STE->early sigmoid:a],0.47734108193430924,5
+4,O1:0.7,D-M[STE->early sigmoid:a] | early member alone,0.6456856143942279,1
+4,O1:0.7,D-M[STE->early triangular:a],0.48262224326004294,5
+4,O1:0.7,D-M[STE->early triangular:a] | early member alone,0.6506712316721721,1
+4,O1:0.7,D-M[STE->early sre:a],0.48420477602147255,5
+4,O1:0.7,D-M[STE->early sre:a] | early member alone,0.6640386875064267,1
+4,O1:0.7,D-S[m0->early:a],0.47848485750894243,5
+4,O1:0.7,D-S[m0->early:a] | early member alone,0.6506712316721721,1
+4,O1:0.7,D-S+early:a,0.4764145761844429,5
+4,O1:0.7,D-S+early:a | early member alone,0.6506712316721721,1
+4,O1qqd:0.5,D-M,0.10897676471216156,5
+4,O1qqd:0.5,D-S,0.12268027742519981,5
+4,O1qqd:0.5,D-M-STE,0.12381458375126418,4
+4,O1qqd:0.5,D-M[STE->early atan:b],0.11361978302869201,5
+4,O1qqd:0.5,D-M[STE->early atan:b] | early member alone,0.19762272937454273,1
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],0.11252370769079582,5
+4,O1qqd:0.5,D-M[STE->early sigmoid:b] | early member alone,0.204195170620183,1
+4,O1qqd:0.5,D-M[STE->early triangular:b],0.1135211880591011,5
+4,O1qqd:0.5,D-M[STE->early triangular:b] | early member alone,0.19842075742747894,1
+4,O1qqd:0.5,D-M[STE->early sre:b],0.11400529061273762,5
+4,O1qqd:0.5,D-M[STE->early sre:b] | early member alone,0.20404167196577647,1
+4,O1qqd:0.5,D-M[STE->hidden 16],0.12005788864896799,5
+4,O1qqd:0.5,D-M[STE->hidden 16] | early member alone,0.19941921796591702,1
+4,O1qqd:0.5,D-M[STE->hidden 4],0.1197797872378752,5
+4,O1qqd:0.5,D-M[STE->hidden 4] | early member alone,0.4525629311366813,1
+4,O1qqd:0.5,D-M[STE->hidden 8],0.11957094299598924,5
+4,O1qqd:0.5,D-M[STE->hidden 8] | early member alone,0.2956967183003147,1
+4,O1qqd:0.5,D-S[m0->early:b],0.11173648701815166,5
+4,O1qqd:0.5,D-S[m0->early:b] | early member alone,0.19842075742747894,1
+4,O1qqd:0.5,D-S+early:b,0.11173475075245116,5
+4,O1qqd:0.5,D-S+early:b | early member alone,0.19842075742747894,1
+4,O1qqd:0.5,D-M[STE->early atan:a],0.1136253845298296,5
+4,O1qqd:0.5,D-M[STE->early atan:a] | early member alone,0.213201859355804,1
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],0.11444098623028523,5
+4,O1qqd:0.5,D-M[STE->early sigmoid:a] | early member alone,0.23859550708437519,1
+4,O1qqd:0.5,D-M[STE->early triangular:a],0.11423967426324264,5
+4,O1qqd:0.5,D-M[STE->early triangular:a] | early member alone,0.21656496769390973,1
+4,O1qqd:0.5,D-M[STE->early sre:a],0.11672022831053597,5
+4,O1qqd:0.5,D-M[STE->early sre:a] | early member alone,0.24048604996884615,1
+4,O1qqd:0.5,D-S[m0->early:a],0.11269782153692641,5
+4,O1qqd:0.5,D-S[m0->early:a] | early member alone,0.21656496769390973,1
+4,O1qqd:0.5,D-S+early:a,0.11270633181331959,5
+4,O1qqd:0.5,D-S+early:a | early member alone,0.21656496769390973,1

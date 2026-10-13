@@ -1,0 +1,16 @@
+{
+ "member_id": "bn_mlp_s4",
+ "surrogate": "none",
+ "width": null,
+ "seed": 4,
+ "platform": "sim",
+ "block": "bn",
+ "learnable_width": false,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "n_params": 55007,
+ "best_epoch": 54,
+ "best_dev": 0.011404340155422688,
+ "train_time_s": 35.14555215835571,
+ "epochs_run": 85
+}

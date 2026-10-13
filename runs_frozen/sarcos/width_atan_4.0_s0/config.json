@@ -1,0 +1,21 @@
+{
+ "member_id": "width_atan_4.0_s0",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 182,
+ "best_dev": 0.020437363535165787,
+ "train_time_s": 196.7003881931305,
+ "epochs_run": 200,
+ "spikes_per_sample_per_layer_dev": [
+  219.45413208007812,
+  298.7603454589844,
+  117.72661590576172
+ ]
+}

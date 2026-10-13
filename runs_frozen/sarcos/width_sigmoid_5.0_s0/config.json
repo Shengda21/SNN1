@@ -1,0 +1,21 @@
+{
+ "member_id": "width_sigmoid_5.0_s0",
+ "surrogate": "sigmoid",
+ "width": 5.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 194,
+ "best_dev": 0.02135566808283329,
+ "train_time_s": 191.1609411239624,
+ "epochs_run": 200,
+ "spikes_per_sample_per_layer_dev": [
+  240.21424865722656,
+  334.1231994628906,
+  230.43862915039062
+ ]
+}

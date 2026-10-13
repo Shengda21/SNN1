@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_sigmoid_s4",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 183,
+ "best_dev": 0.021743351593613625,
+ "train_time_s": 374.63163471221924,
+ "epochs_run": 214,
+ "spikes_per_sample_per_layer_dev": [
+  228.14389038085938,
+  263.4017639160156,
+  87.34194946289062
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "member_id": "dt_sigmoid_s0_c3",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 2000,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 5,
+ "platform": "sim",
+ "block": "dt",
+ "cycle": 3,
+ "total_run_time_s": 909.6262092590332,
+ "n_params": 54293,
+ "best_epoch": 239,
+ "best_dev": 0.054143454879522324,
+ "train_time_s": 909.6262092590332,
+ "epochs_run": 300,
+ "spikes_per_sample_per_layer_dev": [
+  261.80413818359375,
+  325.03094482421875,
+  108.77255249023438
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_ste_s2",
+ "surrogate": "ste",
+ "width": null,
+ "learnable_width": false,
+ "seed": 2,
+ "aug_sigma": 0.5,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 148,
+ "best_dev": 0.16411183774471283,
+ "train_time_s": 608.1878273487091,
+ "epochs_run": 179,
+ "spikes_per_sample_per_layer_dev": [
+  317.8221740722656,
+  125.57891082763672,
+  231.31834411621094
+ ]
+}

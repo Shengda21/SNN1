@@ -1,0 +1,22 @@
+{
+ "member_id": "dma_atan_s3",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 3,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dma",
+ "aug_family": "all",
+ "n_params": 54293,
+ "best_epoch": 24,
+ "best_dev": 0.11566061526536942,
+ "train_time_s": 399.8534622192383,
+ "epochs_run": 55,
+ "spikes_per_sample_per_layer_dev": [
+  217.21530151367188,
+  280.9457092285156,
+  85.61894989013672
+ ]
+}

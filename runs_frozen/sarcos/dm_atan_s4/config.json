@@ -1,0 +1,21 @@
+{
+ "member_id": "dm_atan_s4",
+ "surrogate": "atan",
+ "width": 4.0,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "dm",
+ "n_params": 54293,
+ "best_epoch": 292,
+ "best_dev": 0.019556043669581413,
+ "train_time_s": 588.1485557556152,
+ "epochs_run": 300,
+ "spikes_per_sample_per_layer_dev": [
+  226.83026123046875,
+  287.988525390625,
+  133.1429901123047
+ ]
+}

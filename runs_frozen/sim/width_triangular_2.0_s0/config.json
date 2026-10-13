@@ -1,0 +1,21 @@
+{
+ "member_id": "width_triangular_2.0_s0",
+ "surrogate": "triangular",
+ "width": 2.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 82,
+ "best_dev": 0.07313652336597443,
+ "train_time_s": 432.2952163219452,
+ "epochs_run": 108,
+ "spikes_per_sample_per_layer_dev": [
+  271.4917907714844,
+  365.47265625,
+  389.4509582519531
+ ]
+}

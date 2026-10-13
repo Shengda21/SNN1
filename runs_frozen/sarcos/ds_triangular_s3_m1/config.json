@@ -1,0 +1,21 @@
+{
+ "member_id": "ds_triangular_s3_m1",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 1031,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "ds",
+ "n_params": 54293,
+ "best_epoch": 250,
+ "best_dev": 0.02006273716688156,
+ "train_time_s": 557.740161895752,
+ "epochs_run": 281,
+ "spikes_per_sample_per_layer_dev": [
+  198.8026123046875,
+  301.63623046875,
+  265.7475280761719
+ ]
+}

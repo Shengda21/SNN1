@@ -1,0 +1,21 @@
+{
+ "member_id": "width_sigmoid_10.0_s0",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 0,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "width",
+ "n_params": 54293,
+ "best_epoch": 99,
+ "best_dev": 0.05070706456899643,
+ "train_time_s": 543.574376821518,
+ "epochs_run": 125,
+ "spikes_per_sample_per_layer_dev": [
+  269.45050048828125,
+  317.15106201171875,
+  69.43714904785156
+ ]
+}

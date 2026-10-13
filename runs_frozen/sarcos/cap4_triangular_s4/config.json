@@ -1,0 +1,24 @@
+{
+ "member_id": "cap4_triangular_s4",
+ "surrogate": "triangular",
+ "width": 0.5,
+ "learnable_width": false,
+ "seed": 4,
+ "aug_sigma": 0.0,
+ "snapshot_cycles": 0,
+ "platform": "sarcos",
+ "block": "cap",
+ "hidden": 4,
+ "aug_family": "none",
+ "dev_sel": "clean",
+ "n_params": 229,
+ "best_epoch": 32,
+ "best_dev": 0.3765023648738861,
+ "train_time_s": 48.26072573661804,
+ "epochs_run": 63,
+ "spikes_per_sample_per_layer_dev": [
+  11.214703559875488,
+  14.689972877502441,
+  3.901528835296631
+ ]
+}

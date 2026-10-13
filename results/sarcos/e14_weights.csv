@@ -1,0 +1,1821 @@
+seed,cond,dictionary,member,weight
+0,N,D-M,atan,0.2405499350715215
+0,N,D-M,sigmoid,0.2304980420174635
+0,N,D-M,ste,0.0
+0,N,D-M,triangular,0.24537495942392767
+0,N,D-M,sre,0.28357706348708744
+0,N,D-S,seed0,0.20307797551232903
+0,N,D-S,seed1,0.2450468306722161
+0,N,D-S,seed2,0.1628530476910899
+0,N,D-S,seed3,0.18722703208902786
+0,N,D-S,seed4,0.2017951140353371
+0,N,D-M-STE,atan,0.2405499350715215
+0,N,D-M-STE,sigmoid,0.2304980420174635
+0,N,D-M-STE,triangular,0.24537495942392767
+0,N,D-M-STE,sre,0.28357706348708744
+0,N,D-M[STE->early atan:b],atan,0.2405499350715215
+0,N,D-M[STE->early atan:b],sigmoid,0.2304980420174635
+0,N,D-M[STE->early atan:b],triangular,0.24537495942392767
+0,N,D-M[STE->early atan:b],sre,0.28357706348708744
+0,N,D-M[STE->early atan:b],early,0.0
+0,N,D-M[STE->early sigmoid:b],atan,0.2405499350715215
+0,N,D-M[STE->early sigmoid:b],sigmoid,0.2304980420174635
+0,N,D-M[STE->early sigmoid:b],triangular,0.24537495942392767
+0,N,D-M[STE->early sigmoid:b],sre,0.28357706348708744
+0,N,D-M[STE->early sigmoid:b],early,0.0
+0,N,D-M[STE->early triangular:b],atan,0.2405499350715215
+0,N,D-M[STE->early triangular:b],sigmoid,0.2304980420174635
+0,N,D-M[STE->early triangular:b],triangular,0.24537495942392767
+0,N,D-M[STE->early triangular:b],sre,0.28357706348708744
+0,N,D-M[STE->early triangular:b],early,0.0
+0,N,D-M[STE->early sre:b],atan,0.2405499350715215
+0,N,D-M[STE->early sre:b],sigmoid,0.2304980420174635
+0,N,D-M[STE->early sre:b],triangular,0.24537495942392767
+0,N,D-M[STE->early sre:b],sre,0.28357706348708744
+0,N,D-M[STE->early sre:b],early,0.0
+0,N,D-M[STE->hidden 16],atan,0.2405499350715215
+0,N,D-M[STE->hidden 16],sigmoid,0.2304980420174635
+0,N,D-M[STE->hidden 16],triangular,0.24537495942392767
+0,N,D-M[STE->hidden 16],sre,0.28357706348708744
+0,N,D-M[STE->hidden 16],early,0.0
+0,N,D-M[STE->hidden 4],atan,0.2405499350715215
+0,N,D-M[STE->hidden 4],sigmoid,0.2304980420174635
+0,N,D-M[STE->hidden 4],triangular,0.24537495942392767
+0,N,D-M[STE->hidden 4],sre,0.28357706348708744
+0,N,D-M[STE->hidden 4],early,0.0
+0,N,D-M[STE->hidden 8],atan,0.2405499350715215
+0,N,D-M[STE->hidden 8],sigmoid,0.2304980420174635
+0,N,D-M[STE->hidden 8],triangular,0.24537495942392767
+0,N,D-M[STE->hidden 8],sre,0.28357706348708744
+0,N,D-M[STE->hidden 8],early,0.0
+0,N,D-S[m0->early:b],seed1,0.29988090697962017
+0,N,D-S[m0->early:b],seed2,0.21107365029655917
+0,N,D-S[m0->early:b],seed3,0.23602724729341992
+0,N,D-S[m0->early:b],seed4,0.2530181954304008
+0,N,D-S[m0->early:b],early,0.0
+0,N,D-S+early:b,seed0,0.20307797551232903
+0,N,D-S+early:b,seed1,0.2450468306722161
+0,N,D-S+early:b,seed2,0.1628530476910899
+0,N,D-S+early:b,seed3,0.18722703208902786
+0,N,D-S+early:b,seed4,0.2017951140353371
+0,N,D-S+early:b,early,0.0
+0,N,D-M[STE->early atan:a],atan,0.2405499350715215
+0,N,D-M[STE->early atan:a],sigmoid,0.2304980420174635
+0,N,D-M[STE->early atan:a],triangular,0.24537495942392767
+0,N,D-M[STE->early atan:a],sre,0.28357706348708744
+0,N,D-M[STE->early atan:a],early,0.0
+0,N,D-M[STE->early sigmoid:a],atan,0.2405499350715215
+0,N,D-M[STE->early sigmoid:a],sigmoid,0.2304980420174635
+0,N,D-M[STE->early sigmoid:a],triangular,0.24537495942392767
+0,N,D-M[STE->early sigmoid:a],sre,0.28357706348708744
+0,N,D-M[STE->early sigmoid:a],early,0.0
+0,N,D-M[STE->early triangular:a],atan,0.2405499350715215
+0,N,D-M[STE->early triangular:a],sigmoid,0.2304980420174635
+0,N,D-M[STE->early triangular:a],triangular,0.24537495942392767
+0,N,D-M[STE->early triangular:a],sre,0.28357706348708744
+0,N,D-M[STE->early triangular:a],early,0.0
+0,N,D-M[STE->early sre:a],atan,0.2405499350715215
+0,N,D-M[STE->early sre:a],sigmoid,0.2304980420174635
+0,N,D-M[STE->early sre:a],triangular,0.24537495942392767
+0,N,D-M[STE->early sre:a],sre,0.28357706348708744
+0,N,D-M[STE->early sre:a],early,0.0
+0,N,D-S[m0->early:a],seed1,0.29988090697962017
+0,N,D-S[m0->early:a],seed2,0.21107365029655917
+0,N,D-S[m0->early:a],seed3,0.23602724729341992
+0,N,D-S[m0->early:a],seed4,0.2530181954304008
+0,N,D-S[m0->early:a],early,0.0
+0,N,D-S+early:a,seed0,0.20307797551232903
+0,N,D-S+early:a,seed1,0.2450468306722161
+0,N,D-S+early:a,seed2,0.1628530476910899
+0,N,D-S+early:a,seed3,0.18722703208902786
+0,N,D-S+early:a,seed4,0.2017951140353371
+0,N,D-S+early:a,early,0.0
+0,O1:0.5,D-M,atan,0.051177257193187116
+0,O1:0.5,D-M,sigmoid,0.09744141945502975
+0,O1:0.5,D-M,ste,0.3975910325400676
+0,O1:0.5,D-M,triangular,0.21461338070396221
+0,O1:0.5,D-M,sre,0.23917691010775335
+0,O1:0.5,D-S,seed0,0.22889248574317128
+0,O1:0.5,D-S,seed1,0.2736325501285472
+0,O1:0.5,D-S,seed2,0.14872004956138798
+0,O1:0.5,D-S,seed3,0.07171314479847753
+0,O1:0.5,D-S,seed4,0.2770417697684161
+0,O1:0.5,D-M-STE,atan,0.11165044834925388
+0,O1:0.5,D-M-STE,sigmoid,0.23008565379204213
+0,O1:0.5,D-M-STE,triangular,0.32152279291707225
+0,O1:0.5,D-M-STE,sre,0.3367411049416317
+0,O1:0.5,D-M[STE->early atan:b],atan,0.053518259582216315
+0,O1:0.5,D-M[STE->early atan:b],sigmoid,0.17390185632539087
+0,O1:0.5,D-M[STE->early atan:b],triangular,0.25404545240531373
+0,O1:0.5,D-M[STE->early atan:b],sre,0.26139530380035136
+0,O1:0.5,D-M[STE->early atan:b],early,0.25713912788672777
+0,O1:0.5,D-M[STE->early sigmoid:b],atan,0.054484177907820064
+0,O1:0.5,D-M[STE->early sigmoid:b],sigmoid,0.17218222629619245
+0,O1:0.5,D-M[STE->early sigmoid:b],triangular,0.25448214750082604
+0,O1:0.5,D-M[STE->early sigmoid:b],sre,0.26190666929441814
+0,O1:0.5,D-M[STE->early sigmoid:b],early,0.25694477900074336
+0,O1:0.5,D-M[STE->early triangular:b],atan,0.051383969019302624
+0,O1:0.5,D-M[STE->early triangular:b],sigmoid,0.1633655015470205
+0,O1:0.5,D-M[STE->early triangular:b],triangular,0.2363245898316833
+0,O1:0.5,D-M[STE->early triangular:b],sre,0.2539341453608274
+0,O1:0.5,D-M[STE->early triangular:b],early,0.2949917942411662
+0,O1:0.5,D-M[STE->early sre:b],atan,0.0699015572572344
+0,O1:0.5,D-M[STE->early sre:b],sigmoid,0.19303812961551087
+0,O1:0.5,D-M[STE->early sre:b],triangular,0.2728780446270307
+0,O1:0.5,D-M[STE->early sre:b],sre,0.2663020331086024
+0,O1:0.5,D-M[STE->early sre:b],early,0.1978802353916217
+0,O1:0.5,D-M[STE->hidden 16],atan,0.08668669722174357
+0,O1:0.5,D-M[STE->hidden 16],sigmoid,0.1904150226359185
+0,O1:0.5,D-M[STE->hidden 16],triangular,0.30408116055674633
+0,O1:0.5,D-M[STE->hidden 16],sre,0.3156452487031715
+0,O1:0.5,D-M[STE->hidden 16],early,0.10317187088242007
+0,O1:0.5,D-M[STE->hidden 4],atan,0.10472587324228223
+0,O1:0.5,D-M[STE->hidden 4],sigmoid,0.13585289093408506
+0,O1:0.5,D-M[STE->hidden 4],triangular,0.2589167171677671
+0,O1:0.5,D-M[STE->hidden 4],sre,0.2899114652117397
+0,O1:0.5,D-M[STE->hidden 4],early,0.2105930534441259
+0,O1:0.5,D-M[STE->hidden 8],atan,0.07450516502814918
+0,O1:0.5,D-M[STE->hidden 8],sigmoid,0.1809516726940712
+0,O1:0.5,D-M[STE->hidden 8],triangular,0.28614922384662483
+0,O1:0.5,D-M[STE->hidden 8],sre,0.3136803317217322
+0,O1:0.5,D-M[STE->hidden 8],early,0.1447136067094226
+0,O1:0.5,D-S[m0->early:b],seed1,0.2674883770515786
+0,O1:0.5,D-S[m0->early:b],seed2,0.1369236022993062
+0,O1:0.5,D-S[m0->early:b],seed3,0.06493750077217918
+0,O1:0.5,D-S[m0->early:b],seed4,0.2506321654566708
+0,O1:0.5,D-S[m0->early:b],early,0.28001835442026535
+0,O1:0.5,D-S+early:b,seed0,0.18328501491814098
+0,O1:0.5,D-S+early:b,seed1,0.2296604204810668
+0,O1:0.5,D-S+early:b,seed2,0.10413748161742857
+0,O1:0.5,D-S+early:b,seed3,0.0
+0,O1:0.5,D-S+early:b,seed4,0.21210295823034303
+0,O1:0.5,D-S+early:b,early,0.2708141247530207
+0,O1:0.5,D-M[STE->early atan:a],atan,0.06116561043509069
+0,O1:0.5,D-M[STE->early atan:a],sigmoid,0.1947887663555698
+0,O1:0.5,D-M[STE->early atan:a],triangular,0.2835335930479872
+0,O1:0.5,D-M[STE->early atan:a],sre,0.2899931812075442
+0,O1:0.5,D-M[STE->early atan:a],early,0.17051884895380806
+0,O1:0.5,D-M[STE->early sigmoid:a],atan,0.06021332895011151
+0,O1:0.5,D-M[STE->early sigmoid:a],sigmoid,0.1967691965259481
+0,O1:0.5,D-M[STE->early sigmoid:a],triangular,0.2794776638170699
+0,O1:0.5,D-M[STE->early sigmoid:a],sre,0.2779736171106618
+0,O1:0.5,D-M[STE->early sigmoid:a],early,0.18556619359620866
+0,O1:0.5,D-M[STE->early triangular:a],atan,0.06819388829980559
+0,O1:0.5,D-M[STE->early triangular:a],sigmoid,0.19020627671815998
+0,O1:0.5,D-M[STE->early triangular:a],triangular,0.26906976198786897
+0,O1:0.5,D-M[STE->early triangular:a],sre,0.27614019421150016
+0,O1:0.5,D-M[STE->early triangular:a],early,0.19638987878266528
+0,O1:0.5,D-M[STE->early sre:a],atan,0.08326666019994904
+0,O1:0.5,D-M[STE->early sre:a],sigmoid,0.20142417615028063
+0,O1:0.5,D-M[STE->early sre:a],triangular,0.28233192993018047
+0,O1:0.5,D-M[STE->early sre:a],sre,0.2741286826507385
+0,O1:0.5,D-M[STE->early sre:a],early,0.15884855106885135
+0,O1:0.5,D-S[m0->early:a],seed1,0.29519885775693655
+0,O1:0.5,D-S[m0->early:a],seed2,0.14900290590527626
+0,O1:0.5,D-S[m0->early:a],seed3,0.088135224134953
+0,O1:0.5,D-S[m0->early:a],seed4,0.2825094792098905
+0,O1:0.5,D-S[m0->early:a],early,0.18515353299294368
+0,O1:0.5,D-S+early:a,seed0,0.20986863387358826
+0,O1:0.5,D-S+early:a,seed1,0.25461632551837904
+0,O1:0.5,D-S+early:a,seed2,0.1149822348582941
+0,O1:0.5,D-S+early:a,seed3,0.0
+0,O1:0.5,D-S+early:a,seed4,0.24108321266986077
+0,O1:0.5,D-S+early:a,early,0.17944959307987782
+0,O1:0.7,D-M,atan,0.011723079653553589
+0,O1:0.7,D-M,sigmoid,0.16261584332288803
+0,O1:0.7,D-M,ste,0.5135459568120615
+0,O1:0.7,D-M,triangular,0.19572698208045133
+0,O1:0.7,D-M,sre,0.11638813813104557
+0,O1:0.7,D-S,seed0,0.21966531990488122
+0,O1:0.7,D-S,seed1,0.29326723324965204
+0,O1:0.7,D-S,seed2,0.17092620071212264
+0,O1:0.7,D-S,seed3,0.046623100956159694
+0,O1:0.7,D-S,seed4,0.2695181451771844
+0,O1:0.7,D-M-STE,atan,0.0674784903533191
+0,O1:0.7,D-M-STE,sigmoid,0.36198047129631394
+0,O1:0.7,D-M-STE,triangular,0.36410510865391266
+0,O1:0.7,D-M-STE,sre,0.20643592969645433
+0,O1:0.7,D-M[STE->early atan:b],atan,0.002047811796529505
+0,O1:0.7,D-M[STE->early atan:b],sigmoid,0.28771048976147634
+0,O1:0.7,D-M[STE->early atan:b],triangular,0.2805627885065184
+0,O1:0.7,D-M[STE->early atan:b],sre,0.12783378692874145
+0,O1:0.7,D-M[STE->early atan:b],early,0.3018451230067344
+0,O1:0.7,D-M[STE->early sigmoid:b],atan,0.003971293579374114
+0,O1:0.7,D-M[STE->early sigmoid:b],sigmoid,0.2863113883219498
+0,O1:0.7,D-M[STE->early sigmoid:b],triangular,0.2817812407420639
+0,O1:0.7,D-M[STE->early sigmoid:b],sre,0.13149279013940754
+0,O1:0.7,D-M[STE->early sigmoid:b],early,0.2964432872172047
+0,O1:0.7,D-M[STE->early triangular:b],atan,0.0067913665711040105
+0,O1:0.7,D-M[STE->early triangular:b],sigmoid,0.28701619333017875
+0,O1:0.7,D-M[STE->early triangular:b],triangular,0.26927532801370857
+0,O1:0.7,D-M[STE->early triangular:b],sre,0.1191872258321551
+0,O1:0.7,D-M[STE->early triangular:b],early,0.3177298862528536
+0,O1:0.7,D-M[STE->early sre:b],atan,0.020022134354594025
+0,O1:0.7,D-M[STE->early sre:b],sigmoid,0.31994229579906
+0,O1:0.7,D-M[STE->early sre:b],triangular,0.31141432666620467
+0,O1:0.7,D-M[STE->early sre:b],sre,0.12652280732289983
+0,O1:0.7,D-M[STE->early sre:b],early,0.22209843585724146
+0,O1:0.7,D-M[STE->hidden 16],atan,0.03779590766969493
+0,O1:0.7,D-M[STE->hidden 16],sigmoid,0.3200412147164799
+0,O1:0.7,D-M[STE->hidden 16],triangular,0.3442913553911732
+0,O1:0.7,D-M[STE->hidden 16],sre,0.18541463047021076
+0,O1:0.7,D-M[STE->hidden 16],early,0.11245689175244121
+0,O1:0.7,D-M[STE->hidden 4],atan,0.0733906081273021
+0,O1:0.7,D-M[STE->hidden 4],sigmoid,0.19199299706767897
+0,O1:0.7,D-M[STE->hidden 4],triangular,0.2720141702914062
+0,O1:0.7,D-M[STE->hidden 4],sre,0.14138040328267262
+0,O1:0.7,D-M[STE->hidden 4],early,0.3212218212309402
+0,O1:0.7,D-M[STE->hidden 8],atan,0.026039825777162098
+0,O1:0.7,D-M[STE->hidden 8],sigmoid,0.292776952437869
+0,O1:0.7,D-M[STE->hidden 8],triangular,0.30444715500120484
+0,O1:0.7,D-M[STE->hidden 8],sre,0.17925163876417494
+0,O1:0.7,D-M[STE->hidden 8],early,0.19748442801958926
+0,O1:0.7,D-S[m0->early:b],seed1,0.2845614454848405
+0,O1:0.7,D-S[m0->early:b],seed2,0.14867956375944455
+0,O1:0.7,D-S[m0->early:b],seed3,0.036143426209204764
+0,O1:0.7,D-S[m0->early:b],seed4,0.23833935208357654
+0,O1:0.7,D-S[m0->early:b],early,0.29227621246293367
+0,O1:0.7,D-S+early:b,seed0,0.1651481668537418
+0,O1:0.7,D-S+early:b,seed1,0.24325919272713029
+0,O1:0.7,D-S+early:b,seed2,0.11030112089052736
+0,O1:0.7,D-S+early:b,seed3,0.0
+0,O1:0.7,D-S+early:b,seed4,0.19979100139649844
+0,O1:0.7,D-S+early:b,early,0.2815005181321021
+0,O1:0.7,D-M[STE->early atan:a],atan,0.01812018317705069
+0,O1:0.7,D-M[STE->early atan:a],sigmoid,0.3176754741510684
+0,O1:0.7,D-M[STE->early atan:a],triangular,0.31070336316962976
+0,O1:0.7,D-M[STE->early atan:a],sre,0.1523536465765451
+0,O1:0.7,D-M[STE->early atan:a],early,0.20114733292570613
+0,O1:0.7,D-M[STE->early sigmoid:a],atan,0.010383043575305364
+0,O1:0.7,D-M[STE->early sigmoid:a],sigmoid,0.3201654092729367
+0,O1:0.7,D-M[STE->early sigmoid:a],triangular,0.3079331276625009
+0,O1:0.7,D-M[STE->early sigmoid:a],sre,0.1405971796440168
+0,O1:0.7,D-M[STE->early sigmoid:a],early,0.2209212398452403
+0,O1:0.7,D-M[STE->early triangular:a],atan,0.020803816567720384
+0,O1:0.7,D-M[STE->early triangular:a],sigmoid,0.31356466809476374
+0,O1:0.7,D-M[STE->early triangular:a],triangular,0.29934972529621695
+0,O1:0.7,D-M[STE->early triangular:a],sre,0.1405516311441132
+0,O1:0.7,D-M[STE->early triangular:a],early,0.22573015889718567
+0,O1:0.7,D-M[STE->early sre:a],atan,0.029900534895182566
+0,O1:0.7,D-M[STE->early sre:a],sigmoid,0.33150353074366196
+0,O1:0.7,D-M[STE->early sre:a],triangular,0.32169756714631487
+0,O1:0.7,D-M[STE->early sre:a],sre,0.13972094888345618
+0,O1:0.7,D-M[STE->early sre:a],early,0.17717741833138445
+0,O1:0.7,D-S[m0->early:a],seed1,0.3105776208861073
+0,O1:0.7,D-S[m0->early:a],seed2,0.16026782753181548
+0,O1:0.7,D-S[m0->early:a],seed3,0.05000020272249952
+0,O1:0.7,D-S[m0->early:a],seed4,0.27033748513280254
+0,O1:0.7,D-S[m0->early:a],early,0.20881686372677533
+0,O1:0.7,D-S+early:a,seed0,0.19007750770198711
+0,O1:0.7,D-S+early:a,seed1,0.2639439686106312
+0,O1:0.7,D-S+early:a,seed2,0.11761871430933404
+0,O1:0.7,D-S+early:a,seed3,0.0
+0,O1:0.7,D-S+early:a,seed4,0.22663870850518705
+0,O1:0.7,D-S+early:a,early,0.20172110087286077
+0,O1qqd:0.5,D-M,atan,0.2023886279963912
+0,O1qqd:0.5,D-M,sigmoid,0.0997417018849904
+0,O1qqd:0.5,D-M,ste,0.23708776796460979
+0,O1qqd:0.5,D-M,triangular,0.2112844868644835
+0,O1qqd:0.5,D-M,sre,0.24949741528952513
+0,O1qqd:0.5,D-S,seed0,0.25199103789430854
+0,O1qqd:0.5,D-S,seed1,0.17313066236716113
+0,O1qqd:0.5,D-S,seed2,0.13740210651874257
+0,O1qqd:0.5,D-S,seed3,0.12663665122991202
+0,O1qqd:0.5,D-S,seed4,0.3108395419898757
+0,O1qqd:0.5,D-M-STE,atan,0.24228683658206754
+0,O1qqd:0.5,D-M-STE,sigmoid,0.17294383888840464
+0,O1qqd:0.5,D-M-STE,triangular,0.2824884868521279
+0,O1qqd:0.5,D-M-STE,sre,0.30228083767739994
+0,O1qqd:0.5,D-M[STE->early atan:b],atan,0.18460102686610647
+0,O1qqd:0.5,D-M[STE->early atan:b],sigmoid,0.12616717082100187
+0,O1qqd:0.5,D-M[STE->early atan:b],triangular,0.21625526828860847
+0,O1qqd:0.5,D-M[STE->early atan:b],sre,0.23957351897524753
+0,O1qqd:0.5,D-M[STE->early atan:b],early,0.23340301504903563
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],atan,0.18605620296061187
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],sigmoid,0.12071283863747814
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],triangular,0.2204165629367479
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],sre,0.24067080819935732
+0,O1qqd:0.5,D-M[STE->early sigmoid:b],early,0.23214358726580475
+0,O1qqd:0.5,D-M[STE->early triangular:b],atan,0.18277236609546185
+0,O1qqd:0.5,D-M[STE->early triangular:b],sigmoid,0.11786889552496445
+0,O1qqd:0.5,D-M[STE->early triangular:b],triangular,0.20661176548001595
+0,O1qqd:0.5,D-M[STE->early triangular:b],sre,0.22234534329220207
+0,O1qqd:0.5,D-M[STE->early triangular:b],early,0.27040162960735564
+0,O1qqd:0.5,D-M[STE->early sre:b],atan,0.18476569982507318
+0,O1qqd:0.5,D-M[STE->early sre:b],sigmoid,0.1437886105662261
+0,O1qqd:0.5,D-M[STE->early sre:b],triangular,0.22600048975823775
+0,O1qqd:0.5,D-M[STE->early sre:b],sre,0.22473762682245388
+0,O1qqd:0.5,D-M[STE->early sre:b],early,0.22070757302800906
+0,O1qqd:0.5,D-M[STE->hidden 16],atan,0.20381856073777924
+0,O1qqd:0.5,D-M[STE->hidden 16],sigmoid,0.11541085811456303
+0,O1qqd:0.5,D-M[STE->hidden 16],triangular,0.2476533740574723
+0,O1qqd:0.5,D-M[STE->hidden 16],sre,0.2696821537888728
+0,O1qqd:0.5,D-M[STE->hidden 16],early,0.16343505330131272
+0,O1qqd:0.5,D-M[STE->hidden 4],atan,0.23759082101897563
+0,O1qqd:0.5,D-M[STE->hidden 4],sigmoid,0.12722218283053896
+0,O1qqd:0.5,D-M[STE->hidden 4],triangular,0.2562701661709332
+0,O1qqd:0.5,D-M[STE->hidden 4],sre,0.28289742207106633
+0,O1qqd:0.5,D-M[STE->hidden 4],early,0.09601940790848591
+0,O1qqd:0.5,D-M[STE->hidden 8],atan,0.2188081719627064
+0,O1qqd:0.5,D-M[STE->hidden 8],sigmoid,0.1279237687591101
+0,O1qqd:0.5,D-M[STE->hidden 8],triangular,0.2460977267793521
+0,O1qqd:0.5,D-M[STE->hidden 8],sre,0.2783267497514754
+0,O1qqd:0.5,D-M[STE->hidden 8],early,0.12884358274735602
+0,O1qqd:0.5,D-S[m0->early:b],seed1,0.1829065526248076
+0,O1qqd:0.5,D-S[m0->early:b],seed2,0.1337363440336018
+0,O1qqd:0.5,D-S[m0->early:b],seed3,0.12338675308747353
+0,O1qqd:0.5,D-S[m0->early:b],seed4,0.2953570508609483
+0,O1qqd:0.5,D-S[m0->early:b],early,0.2646132993931688
+0,O1qqd:0.5,D-S+early:b,seed0,0.216410587497246
+0,O1qqd:0.5,D-S+early:b,seed1,0.15202984300413216
+0,O1qqd:0.5,D-S+early:b,seed2,0.10776029786494717
+0,O1qqd:0.5,D-S+early:b,seed3,0.0
+0,O1qqd:0.5,D-S+early:b,seed4,0.26662497661847195
+0,O1qqd:0.5,D-S+early:b,early,0.25717429501520267
+0,O1qqd:0.5,D-M[STE->early atan:a],atan,0.18919448748697876
+0,O1qqd:0.5,D-M[STE->early atan:a],sigmoid,0.13729651182941904
+0,O1qqd:0.5,D-M[STE->early atan:a],triangular,0.23157572250821465
+0,O1qqd:0.5,D-M[STE->early atan:a],sre,0.2526141381441484
+0,O1qqd:0.5,D-M[STE->early atan:a],early,0.18931914003123915
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],atan,0.18820228377362447
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],sigmoid,0.14470282285553865
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],triangular,0.23176088413116075
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],sre,0.24832472095534963
+0,O1qqd:0.5,D-M[STE->early sigmoid:a],early,0.18700928828432645
+0,O1qqd:0.5,D-M[STE->early triangular:a],atan,0.1979729317464448
+0,O1qqd:0.5,D-M[STE->early triangular:a],sigmoid,0.12885101988805073
+0,O1qqd:0.5,D-M[STE->early triangular:a],triangular,0.22693893067264367
+0,O1qqd:0.5,D-M[STE->early triangular:a],sre,0.23979181022928758
+0,O1qqd:0.5,D-M[STE->early triangular:a],early,0.20644530746357323
+0,O1qqd:0.5,D-M[STE->early sre:a],atan,0.20032918333504265
+0,O1qqd:0.5,D-M[STE->early sre:a],sigmoid,0.1467405356655455
+0,O1qqd:0.5,D-M[STE->early sre:a],triangular,0.24011285684730818
+0,O1qqd:0.5,D-M[STE->early sre:a],sre,0.23693589657307956
+0,O1qqd:0.5,D-M[STE->early sre:a],early,0.17588152757902417
+0,O1qqd:0.5,D-S[m0->early:a],seed1,0.19700455251564725
+0,O1qqd:0.5,D-S[m0->early:a],seed2,0.14373751475461993
+0,O1qqd:0.5,D-S[m0->early:a],seed3,0.13300248762241187
+0,O1qqd:0.5,D-S[m0->early:a],seed4,0.3212937814357628
+0,O1qqd:0.5,D-S[m0->early:a],early,0.20496166367155808
+0,O1qqd:0.5,D-S+early:a,seed0,0.23587367309486387
+0,O1qqd:0.5,D-S+early:a,seed1,0.16167313933120192
+0,O1qqd:0.5,D-S+early:a,seed2,0.1137590539908269
+0,O1qqd:0.5,D-S+early:a,seed3,0.0
+0,O1qqd:0.5,D-S+early:a,seed4,0.28784269993961004
+0,O1qqd:0.5,D-S+early:a,early,0.2008514336434974
+1,N,D-M,atan,0.23350995657113555
+1,N,D-M,sigmoid,0.27147840016355024
+1,N,D-M,ste,0.0
+1,N,D-M,triangular,0.25685977971155644
+1,N,D-M,sre,0.2381518635537578
+1,N,D-S,seed0,0.24000570285074047
+1,N,D-S,seed1,0.2022160880149085
+1,N,D-S,seed2,0.21333258497574725
+1,N,D-S,seed3,0.1855568715845667
+1,N,D-S,seed4,0.15888875257403703
+1,N,D-M-STE,atan,0.23350995657113555
+1,N,D-M-STE,sigmoid,0.27147840016355024
+1,N,D-M-STE,triangular,0.25685977971155644
+1,N,D-M-STE,sre,0.2381518635537578
+1,N,D-M[STE->early atan:b],atan,0.23350995657113555
+1,N,D-M[STE->early atan:b],sigmoid,0.27147840016355024
+1,N,D-M[STE->early atan:b],triangular,0.25685977971155644
+1,N,D-M[STE->early atan:b],sre,0.2381518635537578
+1,N,D-M[STE->early atan:b],early,0.0
+1,N,D-M[STE->early sigmoid:b],atan,0.23350995657113555
+1,N,D-M[STE->early sigmoid:b],sigmoid,0.27147840016355024
+1,N,D-M[STE->early sigmoid:b],triangular,0.25685977971155644
+1,N,D-M[STE->early sigmoid:b],sre,0.2381518635537578
+1,N,D-M[STE->early sigmoid:b],early,0.0
+1,N,D-M[STE->early triangular:b],atan,0.23350995657113555
+1,N,D-M[STE->early triangular:b],sigmoid,0.27147840016355024
+1,N,D-M[STE->early triangular:b],triangular,0.25685977971155644
+1,N,D-M[STE->early triangular:b],sre,0.2381518635537578
+1,N,D-M[STE->early triangular:b],early,0.0
+1,N,D-M[STE->early sre:b],atan,0.23350995657113555
+1,N,D-M[STE->early sre:b],sigmoid,0.27147840016355024
+1,N,D-M[STE->early sre:b],triangular,0.25685977971155644
+1,N,D-M[STE->early sre:b],sre,0.2381518635537578
+1,N,D-M[STE->early sre:b],early,0.0
+1,N,D-M[STE->hidden 16],atan,0.23350995657113555
+1,N,D-M[STE->hidden 16],sigmoid,0.27147840016355024
+1,N,D-M[STE->hidden 16],triangular,0.25685977971155644
+1,N,D-M[STE->hidden 16],sre,0.2381518635537578
+1,N,D-M[STE->hidden 16],early,0.0
+1,N,D-M[STE->hidden 4],atan,0.23350995657113555
+1,N,D-M[STE->hidden 4],sigmoid,0.27147840016355024
+1,N,D-M[STE->hidden 4],triangular,0.25685977971155644
+1,N,D-M[STE->hidden 4],sre,0.2381518635537578
+1,N,D-M[STE->hidden 4],early,0.0
+1,N,D-M[STE->hidden 8],atan,0.23350995657113555
+1,N,D-M[STE->hidden 8],sigmoid,0.27147840016355024
+1,N,D-M[STE->hidden 8],triangular,0.25685977971155644
+1,N,D-M[STE->hidden 8],sre,0.2381518635537578
+1,N,D-M[STE->hidden 8],early,0.0
+1,N,D-S[m0->early:b],seed1,0.25987582700327594
+1,N,D-S[m0->early:b],seed2,0.26860061178061945
+1,N,D-S[m0->early:b],seed3,0.25183800145282453
+1,N,D-S[m0->early:b],seed4,0.2196855597632802
+1,N,D-S[m0->early:b],early,0.0
+1,N,D-S+early:b,seed0,0.24000570285074047
+1,N,D-S+early:b,seed1,0.2022160880149085
+1,N,D-S+early:b,seed2,0.21333258497574725
+1,N,D-S+early:b,seed3,0.1855568715845667
+1,N,D-S+early:b,seed4,0.15888875257403703
+1,N,D-S+early:b,early,0.0
+1,N,D-M[STE->early atan:a],atan,0.23350995657113555
+1,N,D-M[STE->early atan:a],sigmoid,0.27147840016355024
+1,N,D-M[STE->early atan:a],triangular,0.25685977971155644
+1,N,D-M[STE->early atan:a],sre,0.2381518635537578
+1,N,D-M[STE->early atan:a],early,0.0
+1,N,D-M[STE->early sigmoid:a],atan,0.23350995657113555
+1,N,D-M[STE->early sigmoid:a],sigmoid,0.27147840016355024
+1,N,D-M[STE->early sigmoid:a],triangular,0.25685977971155644
+1,N,D-M[STE->early sigmoid:a],sre,0.2381518635537578
+1,N,D-M[STE->early sigmoid:a],early,0.0
+1,N,D-M[STE->early triangular:a],atan,0.23350995657113555
+1,N,D-M[STE->early triangular:a],sigmoid,0.27147840016355024
+1,N,D-M[STE->early triangular:a],triangular,0.25685977971155644
+1,N,D-M[STE->early triangular:a],sre,0.2381518635537578
+1,N,D-M[STE->early triangular:a],early,0.0
+1,N,D-M[STE->early sre:a],atan,0.23350995657113555
+1,N,D-M[STE->early sre:a],sigmoid,0.27147840016355024
+1,N,D-M[STE->early sre:a],triangular,0.25685977971155644
+1,N,D-M[STE->early sre:a],sre,0.2381518635537578
+1,N,D-M[STE->early sre:a],early,0.0
+1,N,D-S[m0->early:a],seed1,0.25987582700327594
+1,N,D-S[m0->early:a],seed2,0.26860061178061945
+1,N,D-S[m0->early:a],seed3,0.25183800145282453
+1,N,D-S[m0->early:a],seed4,0.2196855597632802
+1,N,D-S[m0->early:a],early,0.0
+1,N,D-S+early:a,seed0,0.24000570285074047
+1,N,D-S+early:a,seed1,0.2022160880149085
+1,N,D-S+early:a,seed2,0.21333258497574725
+1,N,D-S+early:a,seed3,0.1855568715845667
+1,N,D-S+early:a,seed4,0.15888875257403703
+1,N,D-S+early:a,early,0.0
+1,O1:0.5,D-M,atan,0.0840067626800927
+1,O1:0.5,D-M,sigmoid,0.15524514061885247
+1,O1:0.5,D-M,ste,0.38403561799054037
+1,O1:0.5,D-M,triangular,0.12209078207428815
+1,O1:0.5,D-M,sre,0.2546216966362263
+1,O1:0.5,D-S,seed0,0.20259088891984098
+1,O1:0.5,D-S,seed1,0.18798680077380464
+1,O1:0.5,D-S,seed2,0.19270719806850825
+1,O1:0.5,D-S,seed3,0.20512058875583164
+1,O1:0.5,D-S,seed4,0.21159452348201452
+1,O1:0.5,D-M-STE,atan,0.16786254053693117
+1,O1:0.5,D-M-STE,sigmoid,0.25714266670093966
+1,O1:0.5,D-M-STE,triangular,0.21892223237379368
+1,O1:0.5,D-M-STE,sre,0.35607256038833546
+1,O1:0.5,D-M[STE->early atan:b],atan,0.11888064655358907
+1,O1:0.5,D-M[STE->early atan:b],sigmoid,0.217009941735173
+1,O1:0.5,D-M[STE->early atan:b],triangular,0.1798572943579436
+1,O1:0.5,D-M[STE->early atan:b],sre,0.28960546779777535
+1,O1:0.5,D-M[STE->early atan:b],early,0.1946466495555189
+1,O1:0.5,D-M[STE->early sigmoid:b],atan,0.0981118129669906
+1,O1:0.5,D-M[STE->early sigmoid:b],sigmoid,0.20210343262303085
+1,O1:0.5,D-M[STE->early sigmoid:b],triangular,0.1643309239372998
+1,O1:0.5,D-M[STE->early sigmoid:b],sre,0.27623648857717287
+1,O1:0.5,D-M[STE->early sigmoid:b],early,0.2592173418955059
+1,O1:0.5,D-M[STE->early triangular:b],atan,0.11841103632573773
+1,O1:0.5,D-M[STE->early triangular:b],sigmoid,0.22877299783656307
+1,O1:0.5,D-M[STE->early triangular:b],triangular,0.1801431141033203
+1,O1:0.5,D-M[STE->early triangular:b],sre,0.290748810419047
+1,O1:0.5,D-M[STE->early triangular:b],early,0.18192404131533188
+1,O1:0.5,D-M[STE->early sre:b],atan,0.12153428199528342
+1,O1:0.5,D-M[STE->early sre:b],sigmoid,0.21930375887943673
+1,O1:0.5,D-M[STE->early sre:b],triangular,0.1791169691176501
+1,O1:0.5,D-M[STE->early sre:b],sre,0.28911352686675507
+1,O1:0.5,D-M[STE->early sre:b],early,0.19093146314087472
+1,O1:0.5,D-M[STE->hidden 16],atan,0.12050887970544162
+1,O1:0.5,D-M[STE->hidden 16],sigmoid,0.21025726468282224
+1,O1:0.5,D-M[STE->hidden 16],triangular,0.18543700308200653
+1,O1:0.5,D-M[STE->hidden 16],sre,0.3338982763693324
+1,O1:0.5,D-M[STE->hidden 16],early,0.14989857616039723
+1,O1:0.5,D-M[STE->hidden 4],atan,0.1363166025960286
+1,O1:0.5,D-M[STE->hidden 4],sigmoid,0.16645621870473887
+1,O1:0.5,D-M[STE->hidden 4],triangular,0.17676982828930868
+1,O1:0.5,D-M[STE->hidden 4],sre,0.30533345954241525
+1,O1:0.5,D-M[STE->hidden 4],early,0.21512389086750858
+1,O1:0.5,D-M[STE->hidden 8],atan,0.1097700587915711
+1,O1:0.5,D-M[STE->hidden 8],sigmoid,0.1927589674842075
+1,O1:0.5,D-M[STE->hidden 8],triangular,0.18673018276743014
+1,O1:0.5,D-M[STE->hidden 8],sre,0.31657397567541656
+1,O1:0.5,D-M[STE->hidden 8],early,0.19416681528137456
+1,O1:0.5,D-S[m0->early:b],seed1,0.18128036050996654
+1,O1:0.5,D-S[m0->early:b],seed2,0.2061695431677243
+1,O1:0.5,D-S[m0->early:b],seed3,0.22159679657214937
+1,O1:0.5,D-S[m0->early:b],seed4,0.21736976267478347
+1,O1:0.5,D-S[m0->early:b],early,0.17358353707537635
+1,O1:0.5,D-S+early:b,seed0,0.20034817032619187
+1,O1:0.5,D-S+early:b,seed1,0.0
+1,O1:0.5,D-S+early:b,seed2,0.19745257952493492
+1,O1:0.5,D-S+early:b,seed3,0.21219993577592697
+1,O1:0.5,D-S+early:b,seed4,0.21571794956074286
+1,O1:0.5,D-S+early:b,early,0.17428136481220333
+1,O1:0.5,D-M[STE->early atan:a],atan,0.12733526378894666
+1,O1:0.5,D-M[STE->early atan:a],sigmoid,0.2262296646514981
+1,O1:0.5,D-M[STE->early atan:a],triangular,0.18644848665126643
+1,O1:0.5,D-M[STE->early atan:a],sre,0.3017435368602006
+1,O1:0.5,D-M[STE->early atan:a],early,0.15824304804808817
+1,O1:0.5,D-M[STE->early sigmoid:a],atan,0.11232208018485693
+1,O1:0.5,D-M[STE->early sigmoid:a],sigmoid,0.2194076214892805
+1,O1:0.5,D-M[STE->early sigmoid:a],triangular,0.17435808118201795
+1,O1:0.5,D-M[STE->early sigmoid:a],sre,0.28733267069706164
+1,O1:0.5,D-M[STE->early sigmoid:a],early,0.206579546446783
+1,O1:0.5,D-M[STE->early triangular:a],atan,0.12658860492426752
+1,O1:0.5,D-M[STE->early triangular:a],sigmoid,0.23325715515653958
+1,O1:0.5,D-M[STE->early triangular:a],triangular,0.18575197125305953
+1,O1:0.5,D-M[STE->early triangular:a],sre,0.299791198101348
+1,O1:0.5,D-M[STE->early triangular:a],early,0.15461107056478532
+1,O1:0.5,D-M[STE->early sre:a],atan,0.12262811408328338
+1,O1:0.5,D-M[STE->early sre:a],sigmoid,0.2299939744797656
+1,O1:0.5,D-M[STE->early sre:a],triangular,0.18621636396194352
+1,O1:0.5,D-M[STE->early sre:a],sre,0.2903166474908896
+1,O1:0.5,D-M[STE->early sre:a],early,0.17084489998411806
+1,O1:0.5,D-S[m0->early:a],seed1,0.18910458819407244
+1,O1:0.5,D-S[m0->early:a],seed2,0.20745005347573914
+1,O1:0.5,D-S[m0->early:a],seed3,0.22760227000524014
+1,O1:0.5,D-S[m0->early:a],seed4,0.22682091940955115
+1,O1:0.5,D-S[m0->early:a],early,0.14902216891539719
+1,O1:0.5,D-S+early:a,seed0,0.21121378623222137
+1,O1:0.5,D-S+early:a,seed1,0.0
+1,O1:0.5,D-S+early:a,seed2,0.1972391868013568
+1,O1:0.5,D-S+early:a,seed3,0.21664831619778063
+1,O1:0.5,D-S+early:a,seed4,0.22415461431205205
+1,O1:0.5,D-S+early:a,early,0.15074409645658912
+1,O1:0.7,D-M,atan,0.10078038440582393
+1,O1:0.7,D-M,sigmoid,0.1616895306437964
+1,O1:0.7,D-M,ste,0.5005703762402978
+1,O1:0.7,D-M,triangular,0.10468216190500138
+1,O1:0.7,D-M,sre,0.13227754680508041
+1,O1:0.7,D-S,seed0,0.2513275646485834
+1,O1:0.7,D-S,seed1,0.10800273957247616
+1,O1:0.7,D-S,seed2,0.20987607876470474
+1,O1:0.7,D-S,seed3,0.24655439162101722
+1,O1:0.7,D-S,seed4,0.1842392253932184
+1,O1:0.7,D-M-STE,atan,0.21123750895849933
+1,O1:0.7,D-M-STE,sigmoid,0.3004725451869067
+1,O1:0.7,D-M-STE,triangular,0.21923465845765258
+1,O1:0.7,D-M-STE,sre,0.2690552873969413
+1,O1:0.7,D-M[STE->early atan:b],atan,0.14720308821881398
+1,O1:0.7,D-M[STE->early atan:b],sigmoid,0.260883112882411
+1,O1:0.7,D-M[STE->early atan:b],triangular,0.1699190014730422
+1,O1:0.7,D-M[STE->early atan:b],sre,0.19922514494762664
+1,O1:0.7,D-M[STE->early atan:b],early,0.22276965247810632
+1,O1:0.7,D-M[STE->early sigmoid:b],atan,0.13480259573103134
+1,O1:0.7,D-M[STE->early sigmoid:b],sigmoid,0.23382802110484563
+1,O1:0.7,D-M[STE->early sigmoid:b],triangular,0.14612677280919947
+1,O1:0.7,D-M[STE->early sigmoid:b],sre,0.17895057311407997
+1,O1:0.7,D-M[STE->early sigmoid:b],early,0.30629203724084353
+1,O1:0.7,D-M[STE->early triangular:b],atan,0.16095041624198997
+1,O1:0.7,D-M[STE->early triangular:b],sigmoid,0.266278426574384
+1,O1:0.7,D-M[STE->early triangular:b],triangular,0.17674016486712354
+1,O1:0.7,D-M[STE->early triangular:b],sre,0.19349905732675327
+1,O1:0.7,D-M[STE->early triangular:b],early,0.20253193498974936
+1,O1:0.7,D-M[STE->early sre:b],atan,0.16219811655333277
+1,O1:0.7,D-M[STE->early sre:b],sigmoid,0.2563589971406093
+1,O1:0.7,D-M[STE->early sre:b],triangular,0.17022019781838216
+1,O1:0.7,D-M[STE->early sre:b],sre,0.19309537326097317
+1,O1:0.7,D-M[STE->early sre:b],early,0.21812731522670256
+1,O1:0.7,D-M[STE->hidden 16],atan,0.15189598712846042
+1,O1:0.7,D-M[STE->hidden 16],sigmoid,0.24013950814384782
+1,O1:0.7,D-M[STE->hidden 16],triangular,0.1763420567131695
+1,O1:0.7,D-M[STE->hidden 16],sre,0.23965438573227998
+1,O1:0.7,D-M[STE->hidden 16],early,0.1919680622822424
+1,O1:0.7,D-M[STE->hidden 4],atan,0.159728639514357
+1,O1:0.7,D-M[STE->hidden 4],sigmoid,0.17038990160138545
+1,O1:0.7,D-M[STE->hidden 4],triangular,0.16974934551042076
+1,O1:0.7,D-M[STE->hidden 4],sre,0.17582991470882117
+1,O1:0.7,D-M[STE->hidden 4],early,0.32430219866501564
+1,O1:0.7,D-M[STE->hidden 8],atan,0.1374411866239508
+1,O1:0.7,D-M[STE->hidden 8],sigmoid,0.22252952451856906
+1,O1:0.7,D-M[STE->hidden 8],triangular,0.18558169675472252
+1,O1:0.7,D-M[STE->hidden 8],sre,0.21748518723362276
+1,O1:0.7,D-M[STE->hidden 8],early,0.23696240486913484
+1,O1:0.7,D-S[m0->early:b],seed1,0.11081353281298277
+1,O1:0.7,D-S[m0->early:b],seed2,0.22164190462093689
+1,O1:0.7,D-S[m0->early:b],seed3,0.27326099479188043
+1,O1:0.7,D-S[m0->early:b],seed4,0.19671665274889258
+1,O1:0.7,D-S[m0->early:b],early,0.1975669150253073
+1,O1:0.7,D-S+early:b,seed0,0.23802407061711073
+1,O1:0.7,D-S+early:b,seed1,0.0
+1,O1:0.7,D-S+early:b,seed2,0.18167953280752316
+1,O1:0.7,D-S+early:b,seed3,0.22695701718773398
+1,O1:0.7,D-S+early:b,seed4,0.15942480721466776
+1,O1:0.7,D-S+early:b,early,0.19391457217296443
+1,O1:0.7,D-M[STE->early atan:a],atan,0.1672488262138023
+1,O1:0.7,D-M[STE->early atan:a],sigmoid,0.2677743812929649
+1,O1:0.7,D-M[STE->early atan:a],triangular,0.17847122454361503
+1,O1:0.7,D-M[STE->early atan:a],sre,0.2092353007288341
+1,O1:0.7,D-M[STE->early atan:a],early,0.17727026722078373
+1,O1:0.7,D-M[STE->early sigmoid:a],atan,0.14606230227457
+1,O1:0.7,D-M[STE->early sigmoid:a],sigmoid,0.26193703525746764
+1,O1:0.7,D-M[STE->early sigmoid:a],triangular,0.15467371898402968
+1,O1:0.7,D-M[STE->early sigmoid:a],sre,0.18973742632052362
+1,O1:0.7,D-M[STE->early sigmoid:a],early,0.2475895171634092
+1,O1:0.7,D-M[STE->early triangular:a],atan,0.16801628230714166
+1,O1:0.7,D-M[STE->early triangular:a],sigmoid,0.2714219676836185
+1,O1:0.7,D-M[STE->early triangular:a],triangular,0.17565516613819382
+1,O1:0.7,D-M[STE->early triangular:a],sre,0.19746855831829205
+1,O1:0.7,D-M[STE->early triangular:a],early,0.1874380255527539
+1,O1:0.7,D-M[STE->early sre:a],atan,0.16186599725316747
+1,O1:0.7,D-M[STE->early sre:a],sigmoid,0.2695340981387661
+1,O1:0.7,D-M[STE->early sre:a],triangular,0.17911123328064005
+1,O1:0.7,D-M[STE->early sre:a],sre,0.19938900614358143
+1,O1:0.7,D-M[STE->early sre:a],early,0.1900996651838449
+1,O1:0.7,D-S[m0->early:a],seed1,0.11818323528392934
+1,O1:0.7,D-S[m0->early:a],seed2,0.2219074856483625
+1,O1:0.7,D-S[m0->early:a],seed3,0.2768496830787493
+1,O1:0.7,D-S[m0->early:a],seed4,0.19924859615451943
+1,O1:0.7,D-S[m0->early:a],early,0.18381099983443927
+1,O1:0.7,D-S+early:a,seed0,0.24078860467996208
+1,O1:0.7,D-S+early:a,seed1,0.0
+1,O1:0.7,D-S+early:a,seed2,0.18326748730829392
+1,O1:0.7,D-S+early:a,seed3,0.23195151428625224
+1,O1:0.7,D-S+early:a,seed4,0.163293647098036
+1,O1:0.7,D-S+early:a,early,0.18069874662745578
+1,O1qqd:0.5,D-M,atan,0.1978436960393182
+1,O1qqd:0.5,D-M,sigmoid,0.10753073302686357
+1,O1qqd:0.5,D-M,ste,0.22516895261842254
+1,O1qqd:0.5,D-M,triangular,0.15586746119594413
+1,O1qqd:0.5,D-M,sre,0.3135891571194517
+1,O1qqd:0.5,D-S,seed0,0.14187724344009991
+1,O1qqd:0.5,D-S,seed1,0.20537075011960296
+1,O1qqd:0.5,D-S,seed2,0.21310708259602476
+1,O1qqd:0.5,D-S,seed3,0.17409747151296087
+1,O1qqd:0.5,D-S,seed4,0.26554745233131144
+1,O1qqd:0.5,D-M-STE,atan,0.25782795376716816
+1,O1qqd:0.5,D-M-STE,sigmoid,0.163697257664642
+1,O1qqd:0.5,D-M-STE,triangular,0.1967127334744147
+1,O1qqd:0.5,D-M-STE,sre,0.3817620550937752
+1,O1qqd:0.5,D-M[STE->early atan:b],atan,0.2071216439175111
+1,O1qqd:0.5,D-M[STE->early atan:b],sigmoid,0.13615306672170702
+1,O1qqd:0.5,D-M[STE->early atan:b],triangular,0.160714714239819
+1,O1qqd:0.5,D-M[STE->early atan:b],sre,0.310343461355835
+1,O1qqd:0.5,D-M[STE->early atan:b],early,0.1856671137651277
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],atan,0.19801539825638692
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],sigmoid,0.12901701275036975
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],triangular,0.15455709245709273
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],sre,0.3096693217268775
+1,O1qqd:0.5,D-M[STE->early sigmoid:b],early,0.2087411748092732
+1,O1qqd:0.5,D-M[STE->early triangular:b],atan,0.21103911657906177
+1,O1qqd:0.5,D-M[STE->early triangular:b],sigmoid,0.14162656167444163
+1,O1qqd:0.5,D-M[STE->early triangular:b],triangular,0.1509850251138331
+1,O1qqd:0.5,D-M[STE->early triangular:b],sre,0.3066176846585571
+1,O1qqd:0.5,D-M[STE->early triangular:b],early,0.18973161197410654
+1,O1qqd:0.5,D-M[STE->early sre:b],atan,0.21484334807702135
+1,O1qqd:0.5,D-M[STE->early sre:b],sigmoid,0.13328037826090644
+1,O1qqd:0.5,D-M[STE->early sre:b],triangular,0.1598912894353104
+1,O1qqd:0.5,D-M[STE->early sre:b],sre,0.3143314530639398
+1,O1qqd:0.5,D-M[STE->early sre:b],early,0.17765353116282195
+1,O1qqd:0.5,D-M[STE->hidden 16],atan,0.19237546654262336
+1,O1qqd:0.5,D-M[STE->hidden 16],sigmoid,0.10130526820178674
+1,O1qqd:0.5,D-M[STE->hidden 16],triangular,0.1524088993953504
+1,O1qqd:0.5,D-M[STE->hidden 16],sre,0.35278970798952736
+1,O1qqd:0.5,D-M[STE->hidden 16],early,0.20112065787071212
+1,O1qqd:0.5,D-M[STE->hidden 4],atan,0.2398339276734886
+1,O1qqd:0.5,D-M[STE->hidden 4],sigmoid,0.12701662368103528
+1,O1qqd:0.5,D-M[STE->hidden 4],triangular,0.18579272634853994
+1,O1qqd:0.5,D-M[STE->hidden 4],sre,0.36001020714119547
+1,O1qqd:0.5,D-M[STE->hidden 4],early,0.08734651515574082
+1,O1qqd:0.5,D-M[STE->hidden 8],atan,0.1884689293056476
+1,O1qqd:0.5,D-M[STE->hidden 8],sigmoid,0.08835035941101647
+1,O1qqd:0.5,D-M[STE->hidden 8],triangular,0.16559501861208184
+1,O1qqd:0.5,D-M[STE->hidden 8],sre,0.3430925999617095
+1,O1qqd:0.5,D-M[STE->hidden 8],early,0.2144930927095447
+1,O1qqd:0.5,D-S[m0->early:b],seed1,0.1873371999703656
+1,O1qqd:0.5,D-S[m0->early:b],seed2,0.20696979061025786
+1,O1qqd:0.5,D-S[m0->early:b],seed3,0.16882522340121422
+1,O1qqd:0.5,D-S[m0->early:b],seed4,0.2550498335177837
+1,O1qqd:0.5,D-S[m0->early:b],early,0.18181795250037858
+1,O1qqd:0.5,D-S+early:b,seed0,0.0
+1,O1qqd:0.5,D-S+early:b,seed1,0.1873371999703656
+1,O1qqd:0.5,D-S+early:b,seed2,0.20696979061025786
+1,O1qqd:0.5,D-S+early:b,seed3,0.16882522340121422
+1,O1qqd:0.5,D-S+early:b,seed4,0.2550498335177837
+1,O1qqd:0.5,D-S+early:b,early,0.18181795250037858
+1,O1qqd:0.5,D-M[STE->early atan:a],atan,0.21973102165503172
+1,O1qqd:0.5,D-M[STE->early atan:a],sigmoid,0.1405366544429287
+1,O1qqd:0.5,D-M[STE->early atan:a],triangular,0.16455182081186676
+1,O1qqd:0.5,D-M[STE->early atan:a],sre,0.32191344719131465
+1,O1qqd:0.5,D-M[STE->early atan:a],early,0.15326705589885814
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],atan,0.20936553883302206
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],sigmoid,0.14174152233932327
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],triangular,0.15983950277443962
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],sre,0.31167231767333153
+1,O1qqd:0.5,D-M[STE->early sigmoid:a],early,0.17738111837988346
+1,O1qqd:0.5,D-M[STE->early triangular:a],atan,0.21743950772148574
+1,O1qqd:0.5,D-M[STE->early triangular:a],sigmoid,0.14845234946226885
+1,O1qqd:0.5,D-M[STE->early triangular:a],triangular,0.15732216574532928
+1,O1qqd:0.5,D-M[STE->early triangular:a],sre,0.32133751850368725
+1,O1qqd:0.5,D-M[STE->early triangular:a],early,0.15544845856722883
+1,O1qqd:0.5,D-M[STE->early sre:a],atan,0.22010058181715936
+1,O1qqd:0.5,D-M[STE->early sre:a],sigmoid,0.1492338319020974
+1,O1qqd:0.5,D-M[STE->early sre:a],triangular,0.16009647806147792
+1,O1qqd:0.5,D-M[STE->early sre:a],sre,0.3190626126062551
+1,O1qqd:0.5,D-M[STE->early sre:a],early,0.15150649561301022
+1,O1qqd:0.5,D-S[m0->early:a],seed1,0.20064632913532962
+1,O1qqd:0.5,D-S[m0->early:a],seed2,0.20619927425619042
+1,O1qqd:0.5,D-S[m0->early:a],seed3,0.18086594685543736
+1,O1qqd:0.5,D-S[m0->early:a],seed4,0.25999314085310005
+1,O1qqd:0.5,D-S[m0->early:a],early,0.15229530889994256
+1,O1qqd:0.5,D-S+early:a,seed0,0.0
+1,O1qqd:0.5,D-S+early:a,seed1,0.20064632913532962
+1,O1qqd:0.5,D-S+early:a,seed2,0.20619927425619042
+1,O1qqd:0.5,D-S+early:a,seed3,0.18086594685543736
+1,O1qqd:0.5,D-S+early:a,seed4,0.25999314085310005
+1,O1qqd:0.5,D-S+early:a,early,0.15229530889994256
+2,N,D-M,atan,0.2329209793148543
+2,N,D-M,sigmoid,0.2212622998637285
+2,N,D-M,ste,0.0
+2,N,D-M,triangular,0.29189007581719967
+2,N,D-M,sre,0.2539266450042176
+2,N,D-S,seed0,0.19442446360247073
+2,N,D-S,seed1,0.21173212185959586
+2,N,D-S,seed2,0.20797130740844783
+2,N,D-S,seed3,0.18477232267399485
+2,N,D-S,seed4,0.20109978445549073
+2,N,D-M-STE,atan,0.2329209793148543
+2,N,D-M-STE,sigmoid,0.2212622998637285
+2,N,D-M-STE,triangular,0.29189007581719967
+2,N,D-M-STE,sre,0.2539266450042176
+2,N,D-M[STE->early atan:b],atan,0.2329209793148543
+2,N,D-M[STE->early atan:b],sigmoid,0.2212622998637285
+2,N,D-M[STE->early atan:b],triangular,0.29189007581719967
+2,N,D-M[STE->early atan:b],sre,0.2539266450042176
+2,N,D-M[STE->early atan:b],early,0.0
+2,N,D-M[STE->early sigmoid:b],atan,0.2329209793148543
+2,N,D-M[STE->early sigmoid:b],sigmoid,0.2212622998637285
+2,N,D-M[STE->early sigmoid:b],triangular,0.29189007581719967
+2,N,D-M[STE->early sigmoid:b],sre,0.2539266450042176
+2,N,D-M[STE->early sigmoid:b],early,0.0
+2,N,D-M[STE->early triangular:b],atan,0.2329209793148543
+2,N,D-M[STE->early triangular:b],sigmoid,0.2212622998637285
+2,N,D-M[STE->early triangular:b],triangular,0.29189007581719967
+2,N,D-M[STE->early triangular:b],sre,0.2539266450042176
+2,N,D-M[STE->early triangular:b],early,0.0
+2,N,D-M[STE->early sre:b],atan,0.2329209793148543
+2,N,D-M[STE->early sre:b],sigmoid,0.2212622998637285
+2,N,D-M[STE->early sre:b],triangular,0.29189007581719967
+2,N,D-M[STE->early sre:b],sre,0.2539266450042176
+2,N,D-M[STE->early sre:b],early,0.0
+2,N,D-M[STE->hidden 16],atan,0.2329209793148543
+2,N,D-M[STE->hidden 16],sigmoid,0.2212622998637285
+2,N,D-M[STE->hidden 16],triangular,0.29189007581719967
+2,N,D-M[STE->hidden 16],sre,0.2539266450042176
+2,N,D-M[STE->hidden 16],early,0.0
+2,N,D-M[STE->hidden 4],atan,0.2329209793148543
+2,N,D-M[STE->hidden 4],sigmoid,0.2212622998637285
+2,N,D-M[STE->hidden 4],triangular,0.29189007581719967
+2,N,D-M[STE->hidden 4],sre,0.2539266450042176
+2,N,D-M[STE->hidden 4],early,0.0
+2,N,D-M[STE->hidden 8],atan,0.2329209793148543
+2,N,D-M[STE->hidden 8],sigmoid,0.2212622998637285
+2,N,D-M[STE->hidden 8],triangular,0.29189007581719967
+2,N,D-M[STE->hidden 8],sre,0.2539266450042176
+2,N,D-M[STE->hidden 8],early,0.0
+2,N,D-S[m0->early:b],seed1,0.2618601911158139
+2,N,D-S[m0->early:b],seed2,0.2580591293305644
+2,N,D-S[m0->early:b],seed3,0.23113177946051158
+2,N,D-S[m0->early:b],seed4,0.24894890009311005
+2,N,D-S[m0->early:b],early,0.0
+2,N,D-S+early:b,seed0,0.19442446360247073
+2,N,D-S+early:b,seed1,0.21173212185959586
+2,N,D-S+early:b,seed2,0.20797130740844783
+2,N,D-S+early:b,seed3,0.18477232267399485
+2,N,D-S+early:b,seed4,0.20109978445549073
+2,N,D-S+early:b,early,0.0
+2,N,D-M[STE->early atan:a],atan,0.2329209793148543
+2,N,D-M[STE->early atan:a],sigmoid,0.2212622998637285
+2,N,D-M[STE->early atan:a],triangular,0.29189007581719967
+2,N,D-M[STE->early atan:a],sre,0.2539266450042176
+2,N,D-M[STE->early atan:a],early,0.0
+2,N,D-M[STE->early sigmoid:a],atan,0.2329209793148543
+2,N,D-M[STE->early sigmoid:a],sigmoid,0.2212622998637285
+2,N,D-M[STE->early sigmoid:a],triangular,0.29189007581719967
+2,N,D-M[STE->early sigmoid:a],sre,0.2539266450042176
+2,N,D-M[STE->early sigmoid:a],early,0.0
+2,N,D-M[STE->early triangular:a],atan,0.2329209793148543
+2,N,D-M[STE->early triangular:a],sigmoid,0.2212622998637285
+2,N,D-M[STE->early triangular:a],triangular,0.29189007581719967
+2,N,D-M[STE->early triangular:a],sre,0.2539266450042176
+2,N,D-M[STE->early triangular:a],early,0.0
+2,N,D-M[STE->early sre:a],atan,0.2329209793148543
+2,N,D-M[STE->early sre:a],sigmoid,0.2212622998637285
+2,N,D-M[STE->early sre:a],triangular,0.29189007581719967
+2,N,D-M[STE->early sre:a],sre,0.2539266450042176
+2,N,D-M[STE->early sre:a],early,0.0
+2,N,D-S[m0->early:a],seed1,0.2618601911158139
+2,N,D-S[m0->early:a],seed2,0.2580591293305644
+2,N,D-S[m0->early:a],seed3,0.23113177946051158
+2,N,D-S[m0->early:a],seed4,0.24894890009311005
+2,N,D-S[m0->early:a],early,0.0
+2,N,D-S+early:a,seed0,0.19442446360247073
+2,N,D-S+early:a,seed1,0.21173212185959586
+2,N,D-S+early:a,seed2,0.20797130740844783
+2,N,D-S+early:a,seed3,0.18477232267399485
+2,N,D-S+early:a,seed4,0.20109978445549073
+2,N,D-S+early:a,early,0.0
+2,O1:0.5,D-M,atan,0.005360952898291781
+2,O1:0.5,D-M,sigmoid,0.1691196174825072
+2,O1:0.5,D-M,ste,0.3474719889754733
+2,O1:0.5,D-M,triangular,0.15459662288701997
+2,O1:0.5,D-M,sre,0.32345081775670775
+2,O1:0.5,D-S,seed0,0.21814756599549662
+2,O1:0.5,D-S,seed1,0.26425920339380976
+2,O1:0.5,D-S,seed2,0.19179828955021927
+2,O1:0.5,D-S,seed3,0.20730904131652167
+2,O1:0.5,D-S,seed4,0.11848589974395253
+2,O1:0.5,D-M-STE,atan,0.028170442346056132
+2,O1:0.5,D-M-STE,sigmoid,0.293960891747488
+2,O1:0.5,D-M-STE,triangular,0.23449274072133924
+2,O1:0.5,D-M-STE,sre,0.44337592518511665
+2,O1:0.5,D-M[STE->early atan:b],atan,0.0
+2,O1:0.5,D-M[STE->early atan:b],sigmoid,0.22104427174174496
+2,O1:0.5,D-M[STE->early atan:b],triangular,0.17254469004078357
+2,O1:0.5,D-M[STE->early atan:b],sre,0.3491199143436368
+2,O1:0.5,D-M[STE->early atan:b],early,0.2572911238738346
+2,O1:0.5,D-M[STE->early sigmoid:b],atan,0.0
+2,O1:0.5,D-M[STE->early sigmoid:b],sigmoid,0.22294626595818434
+2,O1:0.5,D-M[STE->early sigmoid:b],triangular,0.1764296767879603
+2,O1:0.5,D-M[STE->early sigmoid:b],sre,0.35504974249829563
+2,O1:0.5,D-M[STE->early sigmoid:b],early,0.24557431475555974
+2,O1:0.5,D-M[STE->early triangular:b],atan,0.0
+2,O1:0.5,D-M[STE->early triangular:b],sigmoid,0.23055092923719733
+2,O1:0.5,D-M[STE->early triangular:b],triangular,0.17764796413941242
+2,O1:0.5,D-M[STE->early triangular:b],sre,0.34602539033086416
+2,O1:0.5,D-M[STE->early triangular:b],early,0.24577571629252618
+2,O1:0.5,D-M[STE->early sre:b],atan,0.0
+2,O1:0.5,D-M[STE->early sre:b],sigmoid,0.2506263691457624
+2,O1:0.5,D-M[STE->early sre:b],triangular,0.20320929454884798
+2,O1:0.5,D-M[STE->early sre:b],sre,0.3670097026032821
+2,O1:0.5,D-M[STE->early sre:b],early,0.17915463370210763
+2,O1:0.5,D-M[STE->hidden 16],atan,0.0006868623153866184
+2,O1:0.5,D-M[STE->hidden 16],sigmoid,0.2621890854625382
+2,O1:0.5,D-M[STE->hidden 16],triangular,0.20995542017699992
+2,O1:0.5,D-M[STE->hidden 16],sre,0.42274518658627724
+2,O1:0.5,D-M[STE->hidden 16],early,0.10442344545879804
+2,O1:0.5,D-M[STE->hidden 4],atan,0.009440558221657127
+2,O1:0.5,D-M[STE->hidden 4],sigmoid,0.2283679687792503
+2,O1:0.5,D-M[STE->hidden 4],triangular,0.19696381272353433
+2,O1:0.5,D-M[STE->hidden 4],sre,0.3933739400374608
+2,O1:0.5,D-M[STE->hidden 4],early,0.1718537202380975
+2,O1:0.5,D-M[STE->hidden 8],atan,0.0
+2,O1:0.5,D-M[STE->hidden 8],sigmoid,0.23916053509855295
+2,O1:0.5,D-M[STE->hidden 8],triangular,0.19177221393740504
+2,O1:0.5,D-M[STE->hidden 8],sre,0.40093974037881197
+2,O1:0.5,D-M[STE->hidden 8],early,0.16812751058522996
+2,O1:0.5,D-S[m0->early:b],seed1,0.2523774141924066
+2,O1:0.5,D-S[m0->early:b],seed2,0.18506040401099352
+2,O1:0.5,D-S[m0->early:b],seed3,0.18671441547501202
+2,O1:0.5,D-S[m0->early:b],seed4,0.11819579474354182
+2,O1:0.5,D-S[m0->early:b],early,0.2576519715780461
+2,O1:0.5,D-S+early:b,seed0,0.18696811043819933
+2,O1:0.5,D-S+early:b,seed1,0.23650611243349515
+2,O1:0.5,D-S+early:b,seed2,0.1586033558466724
+2,O1:0.5,D-S+early:b,seed3,0.1657581579006956
+2,O1:0.5,D-S+early:b,seed4,0.0
+2,O1:0.5,D-S+early:b,early,0.2521642633809375
+2,O1:0.5,D-M[STE->early atan:a],atan,0.0
+2,O1:0.5,D-M[STE->early atan:a],sigmoid,0.24359908493057994
+2,O1:0.5,D-M[STE->early atan:a],triangular,0.1909317070254825
+2,O1:0.5,D-M[STE->early atan:a],sre,0.3699303583643986
+2,O1:0.5,D-M[STE->early atan:a],early,0.19553884967953905
+2,O1:0.5,D-M[STE->early sigmoid:a],atan,0.0
+2,O1:0.5,D-M[STE->early sigmoid:a],sigmoid,0.23567734449906252
+2,O1:0.5,D-M[STE->early sigmoid:a],triangular,0.18245217124165702
+2,O1:0.5,D-M[STE->early sigmoid:a],sre,0.3695740279177058
+2,O1:0.5,D-M[STE->early sigmoid:a],early,0.21229645634157457
+2,O1:0.5,D-M[STE->early triangular:a],atan,0.0
+2,O1:0.5,D-M[STE->early triangular:a],sigmoid,0.2470126938781032
+2,O1:0.5,D-M[STE->early triangular:a],triangular,0.1962163078267102
+2,O1:0.5,D-M[STE->early triangular:a],sre,0.3739971478850775
+2,O1:0.5,D-M[STE->early triangular:a],early,0.18277385041010913
+2,O1:0.5,D-M[STE->early sre:a],atan,0.0036906803074012178
+2,O1:0.5,D-M[STE->early sre:a],sigmoid,0.25167715656965545
+2,O1:0.5,D-M[STE->early sre:a],triangular,0.20597287082700522
+2,O1:0.5,D-M[STE->early sre:a],sre,0.3706270764167399
+2,O1:0.5,D-M[STE->early sre:a],early,0.16803221587919823
+2,O1:0.5,D-S[m0->early:a],seed1,0.27095445466645995
+2,O1:0.5,D-S[m0->early:a],seed2,0.19361492950154105
+2,O1:0.5,D-S[m0->early:a],seed3,0.2062255210563787
+2,O1:0.5,D-S[m0->early:a],seed4,0.13376728312375108
+2,O1:0.5,D-S[m0->early:a],early,0.19543781165186921
+2,O1:0.5,D-S+early:a,seed0,0.20633424901295658
+2,O1:0.5,D-S+early:a,seed1,0.25385081486283834
+2,O1:0.5,D-S+early:a,seed2,0.16489848266972865
+2,O1:0.5,D-S+early:a,seed3,0.18345455353103063
+2,O1:0.5,D-S+early:a,seed4,0.0
+2,O1:0.5,D-S+early:a,early,0.19146189992344592
+2,O1:0.7,D-M,atan,0.0
+2,O1:0.7,D-M,sigmoid,0.16652625475261448
+2,O1:0.7,D-M,ste,0.47173049738511497
+2,O1:0.7,D-M,triangular,0.13789830720411833
+2,O1:0.7,D-M,sre,0.22384494065815227
+2,O1:0.7,D-S,seed0,0.2513320464442879
+2,O1:0.7,D-S,seed1,0.24528917848548396
+2,O1:0.7,D-S,seed2,0.21081483256337977
+2,O1:0.7,D-S,seed3,0.18520607182056883
+2,O1:0.7,D-S,seed4,0.1073578706862796
+2,O1:0.7,D-M-STE,atan,0.0
+2,O1:0.7,D-M-STE,sigmoid,0.3459712510153677
+2,O1:0.7,D-M-STE,triangular,0.25973781411887614
+2,O1:0.7,D-M-STE,sre,0.3942909348657561
+2,O1:0.7,D-M[STE->early atan:b],atan,0.0
+2,O1:0.7,D-M[STE->early atan:b],sigmoid,0.24609710933953183
+2,O1:0.7,D-M[STE->early atan:b],triangular,0.1675644978719511
+2,O1:0.7,D-M[STE->early atan:b],sre,0.2636499036725204
+2,O1:0.7,D-M[STE->early atan:b],early,0.3226884891159967
+2,O1:0.7,D-M[STE->early sigmoid:b],atan,0.0
+2,O1:0.7,D-M[STE->early sigmoid:b],sigmoid,0.25301484083359993
+2,O1:0.7,D-M[STE->early sigmoid:b],triangular,0.17384886338652875
+2,O1:0.7,D-M[STE->early sigmoid:b],sre,0.26759269134652514
+2,O1:0.7,D-M[STE->early sigmoid:b],early,0.30554360443334627
+2,O1:0.7,D-M[STE->early triangular:b],atan,0.0
+2,O1:0.7,D-M[STE->early triangular:b],sigmoid,0.251812079231884
+2,O1:0.7,D-M[STE->early triangular:b],triangular,0.17563026564912168
+2,O1:0.7,D-M[STE->early triangular:b],sre,0.26642568802269534
+2,O1:0.7,D-M[STE->early triangular:b],early,0.3061319670962989
+2,O1:0.7,D-M[STE->early sre:b],atan,0.0
+2,O1:0.7,D-M[STE->early sre:b],sigmoid,0.2799069890263985
+2,O1:0.7,D-M[STE->early sre:b],triangular,0.20390092018048464
+2,O1:0.7,D-M[STE->early sre:b],sre,0.28450844995986196
+2,O1:0.7,D-M[STE->early sre:b],early,0.23168364083325496
+2,O1:0.7,D-M[STE->hidden 16],atan,0.0
+2,O1:0.7,D-M[STE->hidden 16],sigmoid,0.284622432121199
+2,O1:0.7,D-M[STE->hidden 16],triangular,0.2116625702374648
+2,O1:0.7,D-M[STE->hidden 16],sre,0.35732819477011774
+2,O1:0.7,D-M[STE->hidden 16],early,0.1463868028712184
+2,O1:0.7,D-M[STE->hidden 4],atan,0.0
+2,O1:0.7,D-M[STE->hidden 4],sigmoid,0.24620339205715774
+2,O1:0.7,D-M[STE->hidden 4],triangular,0.1916840731814065
+2,O1:0.7,D-M[STE->hidden 4],sre,0.3207545150921259
+2,O1:0.7,D-M[STE->hidden 4],early,0.24135801966930992
+2,O1:0.7,D-M[STE->hidden 8],atan,0.0
+2,O1:0.7,D-M[STE->hidden 8],sigmoid,0.25125006387626386
+2,O1:0.7,D-M[STE->hidden 8],triangular,0.1842700968880572
+2,O1:0.7,D-M[STE->hidden 8],sre,0.3311768442928289
+2,O1:0.7,D-M[STE->hidden 8],early,0.23330299494285
+2,O1:0.7,D-S[m0->early:b],seed1,0.22239578680304584
+2,O1:0.7,D-S[m0->early:b],seed2,0.203744484119225
+2,O1:0.7,D-S[m0->early:b],seed3,0.16140246469861463
+2,O1:0.7,D-S[m0->early:b],seed4,0.10564884536740424
+2,O1:0.7,D-S[m0->early:b],early,0.3068084190117104
+2,O1:0.7,D-S+early:b,seed0,0.2003581268852251
+2,O1:0.7,D-S+early:b,seed1,0.19796756640542995
+2,O1:0.7,D-S+early:b,seed2,0.17162465637192167
+2,O1:0.7,D-S+early:b,seed3,0.13180962286095058
+2,O1:0.7,D-S+early:b,seed4,0.0
+2,O1:0.7,D-S+early:b,early,0.2982400274764728
+2,O1:0.7,D-M[STE->early atan:a],atan,0.0
+2,O1:0.7,D-M[STE->early atan:a],sigmoid,0.26966245303654257
+2,O1:0.7,D-M[STE->early atan:a],triangular,0.18294497269767848
+2,O1:0.7,D-M[STE->early atan:a],sre,0.28121026995708764
+2,O1:0.7,D-M[STE->early atan:a],early,0.2661823043086912
+2,O1:0.7,D-M[STE->early sigmoid:a],atan,0.0
+2,O1:0.7,D-M[STE->early sigmoid:a],sigmoid,0.2598651993924576
+2,O1:0.7,D-M[STE->early sigmoid:a],triangular,0.18437223976022188
+2,O1:0.7,D-M[STE->early sigmoid:a],sre,0.2824926107553656
+2,O1:0.7,D-M[STE->early sigmoid:a],early,0.2732699500919549
+2,O1:0.7,D-M[STE->early triangular:a],atan,0.0
+2,O1:0.7,D-M[STE->early triangular:a],sigmoid,0.26914044651552976
+2,O1:0.7,D-M[STE->early triangular:a],triangular,0.19839825677213285
+2,O1:0.7,D-M[STE->early triangular:a],sre,0.2886181879480817
+2,O1:0.7,D-M[STE->early triangular:a],early,0.24384310876425563
+2,O1:0.7,D-M[STE->early sre:a],atan,0.0
+2,O1:0.7,D-M[STE->early sre:a],sigmoid,0.28966964264541034
+2,O1:0.7,D-M[STE->early sre:a],triangular,0.21683649316967607
+2,O1:0.7,D-M[STE->early sre:a],sre,0.29143716914077133
+2,O1:0.7,D-M[STE->early sre:a],early,0.20205669504414234
+2,O1:0.7,D-S[m0->early:a],seed1,0.24350056245752272
+2,O1:0.7,D-S[m0->early:a],seed2,0.20985766926703858
+2,O1:0.7,D-S[m0->early:a],seed3,0.1816953909240584
+2,O1:0.7,D-S[m0->early:a],seed4,0.11740731343276603
+2,O1:0.7,D-S[m0->early:a],early,0.24753906391861435
+2,O1:0.7,D-S+early:a,seed0,0.21449108851813817
+2,O1:0.7,D-S+early:a,seed1,0.21802354911944602
+2,O1:0.7,D-S+early:a,seed2,0.17655611870764268
+2,O1:0.7,D-S+early:a,seed3,0.15080670771826402
+2,O1:0.7,D-S+early:a,seed4,0.0
+2,O1:0.7,D-S+early:a,early,0.24012253593650915
+2,O1qqd:0.5,D-M,atan,0.18443026616899347
+2,O1qqd:0.5,D-M,sigmoid,0.13355176640011313
+2,O1qqd:0.5,D-M,ste,0.24441838538078908
+2,O1qqd:0.5,D-M,triangular,0.13996457347730887
+2,O1qqd:0.5,D-M,sre,0.29763500857279546
+2,O1qqd:0.5,D-S,seed0,0.23791432502423018
+2,O1qqd:0.5,D-S,seed1,0.19671541567938286
+2,O1qqd:0.5,D-S,seed2,0.1659028593329712
+2,O1qqd:0.5,D-S,seed3,0.27263582395309016
+2,O1qqd:0.5,D-S,seed4,0.12683157601032566
+2,O1qqd:0.5,D-M-STE,atan,0.22100030706195867
+2,O1qqd:0.5,D-M-STE,sigmoid,0.20300384432462318
+2,O1qqd:0.5,D-M-STE,triangular,0.20651122583182802
+2,O1qqd:0.5,D-M-STE,sre,0.36948462278159017
+2,O1qqd:0.5,D-M[STE->early atan:b],atan,0.17093457706979434
+2,O1qqd:0.5,D-M[STE->early atan:b],sigmoid,0.1531257083738402
+2,O1qqd:0.5,D-M[STE->early atan:b],triangular,0.147066487040211
+2,O1qqd:0.5,D-M[STE->early atan:b],sre,0.2970250322127752
+2,O1qqd:0.5,D-M[STE->early atan:b],early,0.23184819530337925
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],atan,0.18310975445087216
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],sigmoid,0.14797868525398283
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],triangular,0.1503036665889792
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],sre,0.2956721403688133
+2,O1qqd:0.5,D-M[STE->early sigmoid:b],early,0.2229357533373526
+2,O1qqd:0.5,D-M[STE->early triangular:b],atan,0.17314452660364438
+2,O1qqd:0.5,D-M[STE->early triangular:b],sigmoid,0.15053873354072134
+2,O1qqd:0.5,D-M[STE->early triangular:b],triangular,0.14938646571541309
+2,O1qqd:0.5,D-M[STE->early triangular:b],sre,0.28491867733540477
+2,O1qqd:0.5,D-M[STE->early triangular:b],early,0.24201159680481643
+2,O1qqd:0.5,D-M[STE->early sre:b],atan,0.19301018924111485
+2,O1qqd:0.5,D-M[STE->early sre:b],sigmoid,0.1592675842733378
+2,O1qqd:0.5,D-M[STE->early sre:b],triangular,0.16714723797067402
+2,O1qqd:0.5,D-M[STE->early sre:b],sre,0.29222684930032367
+2,O1qqd:0.5,D-M[STE->early sre:b],early,0.1883481392145496
+2,O1qqd:0.5,D-M[STE->hidden 16],atan,0.16966318401361388
+2,O1qqd:0.5,D-M[STE->hidden 16],sigmoid,0.14815917241053725
+2,O1qqd:0.5,D-M[STE->hidden 16],triangular,0.15345831595074555
+2,O1qqd:0.5,D-M[STE->hidden 16],sre,0.32383684116691414
+2,O1qqd:0.5,D-M[STE->hidden 16],early,0.20488248645818916
+2,O1qqd:0.5,D-M[STE->hidden 4],atan,0.2043250160553728
+2,O1qqd:0.5,D-M[STE->hidden 4],sigmoid,0.16052139500361473
+2,O1qqd:0.5,D-M[STE->hidden 4],triangular,0.18281789898552797
+2,O1qqd:0.5,D-M[STE->hidden 4],sre,0.33145913722354925
+2,O1qqd:0.5,D-M[STE->hidden 4],early,0.12087655273193516
+2,O1qqd:0.5,D-M[STE->hidden 8],atan,0.1848507148028265
+2,O1qqd:0.5,D-M[STE->hidden 8],sigmoid,0.15296809548056317
+2,O1qqd:0.5,D-M[STE->hidden 8],triangular,0.16800202339241815
+2,O1qqd:0.5,D-M[STE->hidden 8],sre,0.3330032077910236
+2,O1qqd:0.5,D-M[STE->hidden 8],early,0.1611759585331685
+2,O1qqd:0.5,D-S[m0->early:b],seed1,0.18401260727574056
+2,O1qqd:0.5,D-S[m0->early:b],seed2,0.1660928864044972
+2,O1qqd:0.5,D-S[m0->early:b],seed3,0.2597227322925281
+2,O1qqd:0.5,D-S[m0->early:b],seed4,0.13329728182249312
+2,O1qqd:0.5,D-S[m0->early:b],early,0.256874492204741
+2,O1qqd:0.5,D-S+early:b,seed0,0.19765122569222995
+2,O1qqd:0.5,D-S+early:b,seed1,0.16992912938967408
+2,O1qqd:0.5,D-S+early:b,seed2,0.14345935671717283
+2,O1qqd:0.5,D-S+early:b,seed3,0.23956923650377637
+2,O1qqd:0.5,D-S+early:b,seed4,0.0
+2,O1qqd:0.5,D-S+early:b,early,0.24939105169714665
+2,O1qqd:0.5,D-M[STE->early atan:a],atan,0.18384327636026127
+2,O1qqd:0.5,D-M[STE->early atan:a],sigmoid,0.16247952379445998
+2,O1qqd:0.5,D-M[STE->early atan:a],triangular,0.16204537206840075
+2,O1qqd:0.5,D-M[STE->early atan:a],sre,0.3074720183276697
+2,O1qqd:0.5,D-M[STE->early atan:a],early,0.18415980944920837
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],atan,0.18727429656648398
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],sigmoid,0.15853885888974176
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],triangular,0.16569528819066223
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],sre,0.30818870260520465
+2,O1qqd:0.5,D-M[STE->early sigmoid:a],early,0.18030285374790747
+2,O1qqd:0.5,D-M[STE->early triangular:a],atan,0.18700638462299707
+2,O1qqd:0.5,D-M[STE->early triangular:a],sigmoid,0.15699170536476287
+2,O1qqd:0.5,D-M[STE->early triangular:a],triangular,0.16352906922481605
+2,O1qqd:0.5,D-M[STE->early triangular:a],sre,0.30196113434057525
+2,O1qqd:0.5,D-M[STE->early triangular:a],early,0.19051170644684876
+2,O1qqd:0.5,D-M[STE->early sre:a],atan,0.19729720312420726
+2,O1qqd:0.5,D-M[STE->early sre:a],sigmoid,0.16297376350415027
+2,O1qqd:0.5,D-M[STE->early sre:a],triangular,0.1794192015452236
+2,O1qqd:0.5,D-M[STE->early sre:a],sre,0.2999239300142905
+2,O1qqd:0.5,D-M[STE->early sre:a],early,0.1603859018121282
+2,O1qqd:0.5,D-S[m0->early:a],seed1,0.20188815407181876
+2,O1qqd:0.5,D-S[m0->early:a],seed2,0.17274190616606633
+2,O1qqd:0.5,D-S[m0->early:a],seed3,0.27643190989962435
+2,O1qqd:0.5,D-S[m0->early:a],seed4,0.143393700686967
+2,O1qqd:0.5,D-S[m0->early:a],early,0.20554432917552362
+2,O1qqd:0.5,D-S+early:a,seed0,0.21235859883576413
+2,O1qqd:0.5,D-S+early:a,seed1,0.18604322801989487
+2,O1qqd:0.5,D-S+early:a,seed2,0.1480651321249065
+2,O1qqd:0.5,D-S+early:a,seed3,0.2540884240750351
+2,O1qqd:0.5,D-S+early:a,seed4,0.0
+2,O1qqd:0.5,D-S+early:a,early,0.19944461694439924
+3,N,D-M,atan,0.24891602159960075
+3,N,D-M,sigmoid,0.1930160241121843
+3,N,D-M,ste,0.0
+3,N,D-M,triangular,0.25261194348180827
+3,N,D-M,sre,0.30545601080640666
+3,N,D-S,seed0,0.23128656361455355
+3,N,D-S,seed1,0.18396098812247502
+3,N,D-S,seed2,0.21512967667118615
+3,N,D-S,seed3,0.1964438712569495
+3,N,D-S,seed4,0.1731789003348357
+3,N,D-M-STE,atan,0.24891602159960075
+3,N,D-M-STE,sigmoid,0.1930160241121843
+3,N,D-M-STE,triangular,0.25261194348180827
+3,N,D-M-STE,sre,0.30545601080640666
+3,N,D-M[STE->early atan:b],atan,0.24891602159960075
+3,N,D-M[STE->early atan:b],sigmoid,0.1930160241121843
+3,N,D-M[STE->early atan:b],triangular,0.25261194348180827
+3,N,D-M[STE->early atan:b],sre,0.30545601080640666
+3,N,D-M[STE->early atan:b],early,0.0
+3,N,D-M[STE->early sigmoid:b],atan,0.24891602159960075
+3,N,D-M[STE->early sigmoid:b],sigmoid,0.1930160241121843
+3,N,D-M[STE->early sigmoid:b],triangular,0.25261194348180827
+3,N,D-M[STE->early sigmoid:b],sre,0.30545601080640666
+3,N,D-M[STE->early sigmoid:b],early,0.0
+3,N,D-M[STE->early triangular:b],atan,0.24891602159960075
+3,N,D-M[STE->early triangular:b],sigmoid,0.1930160241121843
+3,N,D-M[STE->early triangular:b],triangular,0.25261194348180827
+3,N,D-M[STE->early triangular:b],sre,0.30545601080640666
+3,N,D-M[STE->early triangular:b],early,0.0
+3,N,D-M[STE->early sre:b],atan,0.24891602159960075
+3,N,D-M[STE->early sre:b],sigmoid,0.1930160241121843
+3,N,D-M[STE->early sre:b],triangular,0.25261194348180827
+3,N,D-M[STE->early sre:b],sre,0.30545601080640666
+3,N,D-M[STE->early sre:b],early,0.0
+3,N,D-M[STE->hidden 16],atan,0.24891602159960075
+3,N,D-M[STE->hidden 16],sigmoid,0.1930160241121843
+3,N,D-M[STE->hidden 16],triangular,0.25261194348180827
+3,N,D-M[STE->hidden 16],sre,0.30545601080640666
+3,N,D-M[STE->hidden 16],early,0.0
+3,N,D-M[STE->hidden 4],atan,0.24891602159960075
+3,N,D-M[STE->hidden 4],sigmoid,0.1930160241121843
+3,N,D-M[STE->hidden 4],triangular,0.25261194348180827
+3,N,D-M[STE->hidden 4],sre,0.30545601080640666
+3,N,D-M[STE->hidden 4],early,0.0
+3,N,D-M[STE->hidden 8],atan,0.24891602159960075
+3,N,D-M[STE->hidden 8],sigmoid,0.1930160241121843
+3,N,D-M[STE->hidden 8],triangular,0.25261194348180827
+3,N,D-M[STE->hidden 8],sre,0.30545601080640666
+3,N,D-M[STE->hidden 8],early,0.0
+3,N,D-S[m0->early:b],seed1,0.24094361885156843
+3,N,D-S[m0->early:b],seed2,0.2744905181239248
+3,N,D-S[m0->early:b],seed3,0.2554005805268295
+3,N,D-S[m0->early:b],seed4,0.22916528249767734
+3,N,D-S[m0->early:b],early,0.0
+3,N,D-S+early:b,seed0,0.23128656361455355
+3,N,D-S+early:b,seed1,0.18396098812247502
+3,N,D-S+early:b,seed2,0.21512967667118615
+3,N,D-S+early:b,seed3,0.1964438712569495
+3,N,D-S+early:b,seed4,0.1731789003348357
+3,N,D-S+early:b,early,0.0
+3,N,D-M[STE->early atan:a],atan,0.24891602159960075
+3,N,D-M[STE->early atan:a],sigmoid,0.1930160241121843
+3,N,D-M[STE->early atan:a],triangular,0.25261194348180827
+3,N,D-M[STE->early atan:a],sre,0.30545601080640666
+3,N,D-M[STE->early atan:a],early,0.0
+3,N,D-M[STE->early sigmoid:a],atan,0.24891602159960075
+3,N,D-M[STE->early sigmoid:a],sigmoid,0.1930160241121843
+3,N,D-M[STE->early sigmoid:a],triangular,0.25261194348180827
+3,N,D-M[STE->early sigmoid:a],sre,0.30545601080640666
+3,N,D-M[STE->early sigmoid:a],early,0.0
+3,N,D-M[STE->early triangular:a],atan,0.24891602159960075
+3,N,D-M[STE->early triangular:a],sigmoid,0.1930160241121843
+3,N,D-M[STE->early triangular:a],triangular,0.25261194348180827
+3,N,D-M[STE->early triangular:a],sre,0.30545601080640666
+3,N,D-M[STE->early triangular:a],early,0.0
+3,N,D-M[STE->early sre:a],atan,0.24891602159960075
+3,N,D-M[STE->early sre:a],sigmoid,0.1930160241121843
+3,N,D-M[STE->early sre:a],triangular,0.25261194348180827
+3,N,D-M[STE->early sre:a],sre,0.30545601080640666
+3,N,D-M[STE->early sre:a],early,0.0
+3,N,D-S[m0->early:a],seed1,0.24094361885156843
+3,N,D-S[m0->early:a],seed2,0.2744905181239248
+3,N,D-S[m0->early:a],seed3,0.2554005805268295
+3,N,D-S[m0->early:a],seed4,0.22916528249767734
+3,N,D-S[m0->early:a],early,0.0
+3,N,D-S+early:a,seed0,0.23128656361455355
+3,N,D-S+early:a,seed1,0.18396098812247502
+3,N,D-S+early:a,seed2,0.21512967667118615
+3,N,D-S+early:a,seed3,0.1964438712569495
+3,N,D-S+early:a,seed4,0.1731789003348357
+3,N,D-S+early:a,early,0.0
+3,O1:0.5,D-M,atan,0.09663311753809997
+3,O1:0.5,D-M,sigmoid,0.14277442883010516
+3,O1:0.5,D-M,ste,0.37541497799791473
+3,O1:0.5,D-M,triangular,0.11688887801469906
+3,O1:0.5,D-M,sre,0.26828859761918117
+3,O1:0.5,D-S,seed0,0.24411791418310969
+3,O1:0.5,D-S,seed1,0.20369630644402226
+3,O1:0.5,D-S,seed2,0.1574819189409324
+3,O1:0.5,D-S,seed3,0.1999874452589839
+3,O1:0.5,D-S,seed4,0.19471641517295163
+3,O1:0.5,D-M-STE,atan,0.15180334572654822
+3,O1:0.5,D-M-STE,sigmoid,0.25839901201328613
+3,O1:0.5,D-M-STE,triangular,0.19754629495532824
+3,O1:0.5,D-M-STE,sre,0.39225134730483746
+3,O1:0.5,D-M[STE->early atan:b],atan,0.10330098411530717
+3,O1:0.5,D-M[STE->early atan:b],sigmoid,0.19794615836708823
+3,O1:0.5,D-M[STE->early atan:b],triangular,0.15963439771213475
+3,O1:0.5,D-M[STE->early atan:b],sre,0.31819517881559733
+3,O1:0.5,D-M[STE->early atan:b],early,0.22092328098987252
+3,O1:0.5,D-M[STE->early sigmoid:b],atan,0.09287380949881387
+3,O1:0.5,D-M[STE->early sigmoid:b],sigmoid,0.17953106962802237
+3,O1:0.5,D-M[STE->early sigmoid:b],triangular,0.15595903164902195
+3,O1:0.5,D-M[STE->early sigmoid:b],sre,0.29031175513138985
+3,O1:0.5,D-M[STE->early sigmoid:b],early,0.28132433409275204
+3,O1:0.5,D-M[STE->early triangular:b],atan,0.0977820553443253
+3,O1:0.5,D-M[STE->early triangular:b],sigmoid,0.19765998011033997
+3,O1:0.5,D-M[STE->early triangular:b],triangular,0.14427322376167245
+3,O1:0.5,D-M[STE->early triangular:b],sre,0.29743752367180226
+3,O1:0.5,D-M[STE->early triangular:b],early,0.26284721711186
+3,O1:0.5,D-M[STE->early sre:b],atan,0.12235666563577531
+3,O1:0.5,D-M[STE->early sre:b],sigmoid,0.2126247778549153
+3,O1:0.5,D-M[STE->early sre:b],triangular,0.16073735390623078
+3,O1:0.5,D-M[STE->early sre:b],sre,0.32083920916361014
+3,O1:0.5,D-M[STE->early sre:b],early,0.18344199343946846
+3,O1:0.5,D-M[STE->hidden 16],atan,0.13572100896360043
+3,O1:0.5,D-M[STE->hidden 16],sigmoid,0.24234540088760115
+3,O1:0.5,D-M[STE->hidden 16],triangular,0.18419047123291918
+3,O1:0.5,D-M[STE->hidden 16],sre,0.38419271708510677
+3,O1:0.5,D-M[STE->hidden 16],early,0.0535504018307725
+3,O1:0.5,D-M[STE->hidden 4],atan,0.14054310530942357
+3,O1:0.5,D-M[STE->hidden 4],sigmoid,0.19064481128109842
+3,O1:0.5,D-M[STE->hidden 4],triangular,0.13307704108746915
+3,O1:0.5,D-M[STE->hidden 4],sre,0.3452367142562872
+3,O1:0.5,D-M[STE->hidden 4],early,0.19049832806572173
+3,O1:0.5,D-M[STE->hidden 8],atan,0.11230639355359337
+3,O1:0.5,D-M[STE->hidden 8],sigmoid,0.21161013150256278
+3,O1:0.5,D-M[STE->hidden 8],triangular,0.16278066946003403
+3,O1:0.5,D-M[STE->hidden 8],sre,0.36094947877940714
+3,O1:0.5,D-M[STE->hidden 8],early,0.15235332670440274
+3,O1:0.5,D-S[m0->early:b],seed1,0.1977537900000003
+3,O1:0.5,D-S[m0->early:b],seed2,0.15397458009074766
+3,O1:0.5,D-S[m0->early:b],seed3,0.20274649556664787
+3,O1:0.5,D-S[m0->early:b],seed4,0.16624001316435427
+3,O1:0.5,D-S[m0->early:b],early,0.27928512117824994
+3,O1:0.5,D-S+early:b,seed0,0.22421916061363995
+3,O1:0.5,D-S+early:b,seed1,0.17068472550133904
+3,O1:0.5,D-S+early:b,seed2,0.0
+3,O1:0.5,D-S+early:b,seed3,0.18107836529147883
+3,O1:0.5,D-S+early:b,seed4,0.1480728279536505
+3,O1:0.5,D-S+early:b,early,0.2759449206398917
+3,O1:0.5,D-M[STE->early atan:a],atan,0.10916211851148945
+3,O1:0.5,D-M[STE->early atan:a],sigmoid,0.21131609379942004
+3,O1:0.5,D-M[STE->early atan:a],triangular,0.1672508077628301
+3,O1:0.5,D-M[STE->early atan:a],sre,0.3283226696636546
+3,O1:0.5,D-M[STE->early atan:a],early,0.18394831026260589
+3,O1:0.5,D-M[STE->early sigmoid:a],atan,0.11171843468441876
+3,O1:0.5,D-M[STE->early sigmoid:a],sigmoid,0.1947647160117027
+3,O1:0.5,D-M[STE->early sigmoid:a],triangular,0.1569441096774875
+3,O1:0.5,D-M[STE->early sigmoid:a],sre,0.3099736678726573
+3,O1:0.5,D-M[STE->early sigmoid:a],early,0.22659907175373384
+3,O1:0.5,D-M[STE->early triangular:a],atan,0.11782952109792352
+3,O1:0.5,D-M[STE->early triangular:a],sigmoid,0.20347132286239394
+3,O1:0.5,D-M[STE->early triangular:a],triangular,0.15693452632685487
+3,O1:0.5,D-M[STE->early triangular:a],sre,0.32609095510148334
+3,O1:0.5,D-M[STE->early triangular:a],early,0.1956736746113442
+3,O1:0.5,D-M[STE->early sre:a],atan,0.116997380277088
+3,O1:0.5,D-M[STE->early sre:a],sigmoid,0.22845246156136093
+3,O1:0.5,D-M[STE->early sre:a],triangular,0.16629793614623867
+3,O1:0.5,D-M[STE->early sre:a],sre,0.32508995061938806
+3,O1:0.5,D-M[STE->early sre:a],early,0.16316227139592437
+3,O1:0.5,D-S[m0->early:a],seed1,0.21746736367057795
+3,O1:0.5,D-S[m0->early:a],seed2,0.16340153662251466
+3,O1:0.5,D-S[m0->early:a],seed3,0.21185034709192838
+3,O1:0.5,D-S[m0->early:a],seed4,0.19613361994411757
+3,O1:0.5,D-S[m0->early:a],early,0.2111471326708615
+3,O1:0.5,D-S+early:a,seed0,0.22782602306854471
+3,O1:0.5,D-S+early:a,seed1,0.19243183280626297
+3,O1:0.5,D-S+early:a,seed2,0.0
+3,O1:0.5,D-S+early:a,seed3,0.19229292989327615
+3,O1:0.5,D-S+early:a,seed4,0.1799691654100217
+3,O1:0.5,D-S+early:a,early,0.20748004882189444
+3,O1:0.7,D-M,atan,0.08058538750604195
+3,O1:0.7,D-M,sigmoid,0.11108683737076519
+3,O1:0.7,D-M,ste,0.4854192964420166
+3,O1:0.7,D-M,triangular,0.16648372401773673
+3,O1:0.7,D-M,sre,0.1564247546634396
+3,O1:0.7,D-S,seed0,0.28098209303934746
+3,O1:0.7,D-S,seed1,0.26763840434046526
+3,O1:0.7,D-S,seed2,0.10717465144372434
+3,O1:0.7,D-S,seed3,0.1814644130126142
+3,O1:0.7,D-S,seed4,0.16274043816384876
+3,O1:0.7,D-M-STE,atan,0.1467244015302278
+3,O1:0.7,D-M-STE,sigmoid,0.23102381437625197
+3,O1:0.7,D-M-STE,triangular,0.31063559949836417
+3,O1:0.7,D-M-STE,sre,0.3116161845951561
+3,O1:0.7,D-M[STE->early atan:b],atan,0.08912604046695041
+3,O1:0.7,D-M[STE->early atan:b],sigmoid,0.16162384594313986
+3,O1:0.7,D-M[STE->early atan:b],triangular,0.2579046861260175
+3,O1:0.7,D-M[STE->early atan:b],sre,0.2145641939083036
+3,O1:0.7,D-M[STE->early atan:b],early,0.2767812335555885
+3,O1:0.7,D-M[STE->early sigmoid:b],atan,0.07311749714818341
+3,O1:0.7,D-M[STE->early sigmoid:b],sigmoid,0.13357794911789028
+3,O1:0.7,D-M[STE->early sigmoid:b],triangular,0.2543024593872424
+3,O1:0.7,D-M[STE->early sigmoid:b],sre,0.19786125964155774
+3,O1:0.7,D-M[STE->early sigmoid:b],early,0.34114083470512613
+3,O1:0.7,D-M[STE->early triangular:b],atan,0.08063758387615905
+3,O1:0.7,D-M[STE->early triangular:b],sigmoid,0.153230102161158
+3,O1:0.7,D-M[STE->early triangular:b],triangular,0.25003495592329783
+3,O1:0.7,D-M[STE->early triangular:b],sre,0.1989874742784398
+3,O1:0.7,D-M[STE->early triangular:b],early,0.31710988376094534
+3,O1:0.7,D-M[STE->early sre:b],atan,0.10862597168511812
+3,O1:0.7,D-M[STE->early sre:b],sigmoid,0.18134920932801432
+3,O1:0.7,D-M[STE->early sre:b],triangular,0.2621447177926892
+3,O1:0.7,D-M[STE->early sre:b],sre,0.2161230434308644
+3,O1:0.7,D-M[STE->early sre:b],early,0.23175705776331407
+3,O1:0.7,D-M[STE->hidden 16],atan,0.1198502824278702
+3,O1:0.7,D-M[STE->hidden 16],sigmoid,0.20455427147580513
+3,O1:0.7,D-M[STE->hidden 16],triangular,0.28494480569357794
+3,O1:0.7,D-M[STE->hidden 16],sre,0.2988723260289389
+3,O1:0.7,D-M[STE->hidden 16],early,0.0917783143738078
+3,O1:0.7,D-M[STE->hidden 4],atan,0.11533771618440382
+3,O1:0.7,D-M[STE->hidden 4],sigmoid,0.1523244732622228
+3,O1:0.7,D-M[STE->hidden 4],triangular,0.1809176996279946
+3,O1:0.7,D-M[STE->hidden 4],sre,0.2435332802069042
+3,O1:0.7,D-M[STE->hidden 4],early,0.3078868307184746
+3,O1:0.7,D-M[STE->hidden 8],atan,0.09480153788829436
+3,O1:0.7,D-M[STE->hidden 8],sigmoid,0.17495192049026248
+3,O1:0.7,D-M[STE->hidden 8],triangular,0.24869956957927825
+3,O1:0.7,D-M[STE->hidden 8],sre,0.2657220513901581
+3,O1:0.7,D-M[STE->hidden 8],early,0.2158249206520069
+3,O1:0.7,D-S[m0->early:b],seed1,0.2594240249172126
+3,O1:0.7,D-S[m0->early:b],seed2,0.09824824739087173
+3,O1:0.7,D-S[m0->early:b],seed3,0.18235946411749074
+3,O1:0.7,D-S[m0->early:b],seed4,0.1277009903300658
+3,O1:0.7,D-S[m0->early:b],early,0.3322672732443591
+3,O1:0.7,D-S+early:b,seed0,0.24183067660529203
+3,O1:0.7,D-S+early:b,seed1,0.20793374421550895
+3,O1:0.7,D-S+early:b,seed2,0.0
+3,O1:0.7,D-S+early:b,seed3,0.13610445809672408
+3,O1:0.7,D-S+early:b,seed4,0.08907639948203247
+3,O1:0.7,D-S+early:b,early,0.3250547216004426
+3,O1:0.7,D-M[STE->early atan:a],atan,0.09635039646787487
+3,O1:0.7,D-M[STE->early atan:a],sigmoid,0.17830185545789945
+3,O1:0.7,D-M[STE->early atan:a],triangular,0.2672655807039821
+3,O1:0.7,D-M[STE->early atan:a],sre,0.22767194917227304
+3,O1:0.7,D-M[STE->early atan:a],early,0.23041021819797067
+3,O1:0.7,D-M[STE->early sigmoid:a],atan,0.09306992084534005
+3,O1:0.7,D-M[STE->early sigmoid:a],sigmoid,0.15779587461040773
+3,O1:0.7,D-M[STE->early sigmoid:a],triangular,0.26205081221190085
+3,O1:0.7,D-M[STE->early sigmoid:a],sre,0.2122613292486188
+3,O1:0.7,D-M[STE->early sigmoid:a],early,0.2748220630837326
+3,O1:0.7,D-M[STE->early triangular:a],atan,0.09939238353966211
+3,O1:0.7,D-M[STE->early triangular:a],sigmoid,0.17008611562268894
+3,O1:0.7,D-M[STE->early triangular:a],triangular,0.259142368605082
+3,O1:0.7,D-M[STE->early triangular:a],sre,0.2219343217073194
+3,O1:0.7,D-M[STE->early triangular:a],early,0.24944481052524758
+3,O1:0.7,D-M[STE->early sre:a],atan,0.10609221666897704
+3,O1:0.7,D-M[STE->early sre:a],sigmoid,0.1863316281090089
+3,O1:0.7,D-M[STE->early sre:a],triangular,0.2753721120345178
+3,O1:0.7,D-M[STE->early sre:a],sre,0.2263136211832117
+3,O1:0.7,D-M[STE->early sre:a],early,0.2058904220042847
+3,O1:0.7,D-S[m0->early:a],seed1,0.2821929770796769
+3,O1:0.7,D-S[m0->early:a],seed2,0.10130178368562369
+3,O1:0.7,D-S[m0->early:a],seed3,0.19917755202192328
+3,O1:0.7,D-S[m0->early:a],seed4,0.15283795001782446
+3,O1:0.7,D-S[m0->early:a],early,0.26448973719495167
+3,O1:0.7,D-S+early:a,seed0,0.23989501057252952
+3,O1:0.7,D-S+early:a,seed1,0.23255666944666234
+3,O1:0.7,D-S+early:a,seed2,0.0
+3,O1:0.7,D-S+early:a,seed3,0.1546244188822517
+3,O1:0.7,D-S+early:a,seed4,0.11593138436355516
+3,O1:0.7,D-S+early:a,early,0.2569925167350013
+3,O1qqd:0.5,D-M,atan,0.19649444477513806
+3,O1qqd:0.5,D-M,sigmoid,0.1597741718577294
+3,O1qqd:0.5,D-M,ste,0.20940102560454613
+3,O1qqd:0.5,D-M,triangular,0.13768596805390781
+3,O1qqd:0.5,D-M,sre,0.29664438970867846
+3,O1qqd:0.5,D-S,seed0,0.12060520999553129
+3,O1qqd:0.5,D-S,seed1,0.19306845531490816
+3,O1qqd:0.5,D-S,seed2,0.2062464034592771
+3,O1qqd:0.5,D-S,seed3,0.21417331077821944
+3,O1qqd:0.5,D-S,seed4,0.265906620452064
+3,O1qqd:0.5,D-M-STE,atan,0.2366448363132972
+3,O1qqd:0.5,D-M-STE,sigmoid,0.21849893304149817
+3,O1qqd:0.5,D-M-STE,triangular,0.18187132882119592
+3,O1qqd:0.5,D-M-STE,sre,0.36298490182400867
+3,O1qqd:0.5,D-M[STE->early atan:b],atan,0.19371044831338782
+3,O1qqd:0.5,D-M[STE->early atan:b],sigmoid,0.18020612891318508
+3,O1qqd:0.5,D-M[STE->early atan:b],triangular,0.15017286607353778
+3,O1qqd:0.5,D-M[STE->early atan:b],sre,0.30108799847810613
+3,O1qqd:0.5,D-M[STE->early atan:b],early,0.17482255822178322
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],atan,0.19745601478724753
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],sigmoid,0.15603462612120478
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],triangular,0.1474340471972998
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],sre,0.29182901743720335
+3,O1qqd:0.5,D-M[STE->early sigmoid:b],early,0.20724629445704446
+3,O1qqd:0.5,D-M[STE->early triangular:b],atan,0.18742688977998473
+3,O1qqd:0.5,D-M[STE->early triangular:b],sigmoid,0.16282932441328532
+3,O1qqd:0.5,D-M[STE->early triangular:b],triangular,0.14012350944448942
+3,O1qqd:0.5,D-M[STE->early triangular:b],sre,0.27501647276862695
+3,O1qqd:0.5,D-M[STE->early triangular:b],early,0.23460380359361355
+3,O1qqd:0.5,D-M[STE->early sre:b],atan,0.20444681085119584
+3,O1qqd:0.5,D-M[STE->early sre:b],sigmoid,0.17724617576618407
+3,O1qqd:0.5,D-M[STE->early sre:b],triangular,0.14633056762002936
+3,O1qqd:0.5,D-M[STE->early sre:b],sre,0.29171229397028303
+3,O1qqd:0.5,D-M[STE->early sre:b],early,0.18026415179230768
+3,O1qqd:0.5,D-M[STE->hidden 16],atan,0.1972122609345536
+3,O1qqd:0.5,D-M[STE->hidden 16],sigmoid,0.17661158758671014
+3,O1qqd:0.5,D-M[STE->hidden 16],triangular,0.14933592802830478
+3,O1qqd:0.5,D-M[STE->hidden 16],sre,0.3396464879871479
+3,O1qqd:0.5,D-M[STE->hidden 16],early,0.13719373546328362
+3,O1qqd:0.5,D-M[STE->hidden 4],atan,0.22729744293260093
+3,O1qqd:0.5,D-M[STE->hidden 4],sigmoid,0.20205200243488475
+3,O1qqd:0.5,D-M[STE->hidden 4],triangular,0.16128654442402468
+3,O1qqd:0.5,D-M[STE->hidden 4],sre,0.3505914986479621
+3,O1qqd:0.5,D-M[STE->hidden 4],early,0.05877251156052749
+3,O1qqd:0.5,D-M[STE->hidden 8],atan,0.19710287278720592
+3,O1qqd:0.5,D-M[STE->hidden 8],sigmoid,0.17953720348484706
+3,O1qqd:0.5,D-M[STE->hidden 8],triangular,0.14685687258297384
+3,O1qqd:0.5,D-M[STE->hidden 8],sre,0.33407158353940264
+3,O1qqd:0.5,D-M[STE->hidden 8],early,0.14243146760557052
+3,O1qqd:0.5,D-S[m0->early:b],seed1,0.15769221805209424
+3,O1qqd:0.5,D-S[m0->early:b],seed2,0.17511530182533466
+3,O1qqd:0.5,D-S[m0->early:b],seed3,0.19360516449620988
+3,O1qqd:0.5,D-S[m0->early:b],seed4,0.22290866847431676
+3,O1qqd:0.5,D-S[m0->early:b],early,0.25067864715204446
+3,O1qqd:0.5,D-S+early:b,seed0,0.0
+3,O1qqd:0.5,D-S+early:b,seed1,0.15769221805209424
+3,O1qqd:0.5,D-S+early:b,seed2,0.17511530182533466
+3,O1qqd:0.5,D-S+early:b,seed3,0.19360516449620988
+3,O1qqd:0.5,D-S+early:b,seed4,0.22290866847431676
+3,O1qqd:0.5,D-S+early:b,early,0.25067864715204446
+3,O1qqd:0.5,D-M[STE->early atan:a],atan,0.19388933952559684
+3,O1qqd:0.5,D-M[STE->early atan:a],sigmoid,0.18780998146672573
+3,O1qqd:0.5,D-M[STE->early atan:a],triangular,0.15678329966132531
+3,O1qqd:0.5,D-M[STE->early atan:a],sre,0.30766316062816923
+3,O1qqd:0.5,D-M[STE->early atan:a],early,0.1538542187181828
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],atan,0.20646414868172067
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],sigmoid,0.17146173516002475
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],triangular,0.15135078513371394
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],sre,0.3043592336177672
+3,O1qqd:0.5,D-M[STE->early sigmoid:a],early,0.16636409740677352
+3,O1qqd:0.5,D-M[STE->early triangular:a],atan,0.2076312910539692
+3,O1qqd:0.5,D-M[STE->early triangular:a],sigmoid,0.17458684918690417
+3,O1qqd:0.5,D-M[STE->early triangular:a],triangular,0.14755863459059104
+3,O1qqd:0.5,D-M[STE->early triangular:a],sre,0.3020008877986305
+3,O1qqd:0.5,D-M[STE->early triangular:a],early,0.16822233736990497
+3,O1qqd:0.5,D-M[STE->early sre:a],atan,0.20219208655710175
+3,O1qqd:0.5,D-M[STE->early sre:a],sigmoid,0.18859822078382996
+3,O1qqd:0.5,D-M[STE->early sre:a],triangular,0.15216662013052806
+3,O1qqd:0.5,D-M[STE->early sre:a],sre,0.30436801352680876
+3,O1qqd:0.5,D-M[STE->early sre:a],early,0.15267505900173148
+3,O1qqd:0.5,D-S[m0->early:a],seed1,0.18111743625213783
+3,O1qqd:0.5,D-S[m0->early:a],seed2,0.1830895578164573
+3,O1qqd:0.5,D-S[m0->early:a],seed3,0.20490836173050417
+3,O1qqd:0.5,D-S[m0->early:a],seed4,0.24828926689359837
+3,O1qqd:0.5,D-S[m0->early:a],early,0.18259537730730244
+3,O1qqd:0.5,D-S+early:a,seed0,0.0
+3,O1qqd:0.5,D-S+early:a,seed1,0.18111743625213783
+3,O1qqd:0.5,D-S+early:a,seed2,0.1830895578164573
+3,O1qqd:0.5,D-S+early:a,seed3,0.20490836173050417
+3,O1qqd:0.5,D-S+early:a,seed4,0.24828926689359837
+3,O1qqd:0.5,D-S+early:a,early,0.18259537730730244
+4,N,D-M,atan,0.26937490605187964
+4,N,D-M,sigmoid,0.1695905849085406
+4,N,D-M,ste,0.0
+4,N,D-M,triangular,0.28918214381385793
+4,N,D-M,sre,0.2718523652257219
+4,N,D-S,seed0,0.21432167449669423
+4,N,D-S,seed1,0.18066033976912613
+4,N,D-S,seed2,0.17924343745321447
+4,N,D-S,seed3,0.19222020498119327
+4,N,D-S,seed4,0.23355434329977193
+4,N,D-M-STE,atan,0.26937490605187964
+4,N,D-M-STE,sigmoid,0.1695905849085406
+4,N,D-M-STE,triangular,0.28918214381385793
+4,N,D-M-STE,sre,0.2718523652257219
+4,N,D-M[STE->early atan:b],atan,0.26937490605187964
+4,N,D-M[STE->early atan:b],sigmoid,0.1695905849085406
+4,N,D-M[STE->early atan:b],triangular,0.28918214381385793
+4,N,D-M[STE->early atan:b],sre,0.2718523652257219
+4,N,D-M[STE->early atan:b],early,0.0
+4,N,D-M[STE->early sigmoid:b],atan,0.26937490605187964
+4,N,D-M[STE->early sigmoid:b],sigmoid,0.1695905849085406
+4,N,D-M[STE->early sigmoid:b],triangular,0.28918214381385793
+4,N,D-M[STE->early sigmoid:b],sre,0.2718523652257219
+4,N,D-M[STE->early sigmoid:b],early,0.0
+4,N,D-M[STE->early triangular:b],atan,0.26937490605187964
+4,N,D-M[STE->early triangular:b],sigmoid,0.1695905849085406
+4,N,D-M[STE->early triangular:b],triangular,0.28918214381385793
+4,N,D-M[STE->early triangular:b],sre,0.2718523652257219
+4,N,D-M[STE->early triangular:b],early,0.0
+4,N,D-M[STE->early sre:b],atan,0.26937490605187964
+4,N,D-M[STE->early sre:b],sigmoid,0.1695905849085406
+4,N,D-M[STE->early sre:b],triangular,0.28918214381385793
+4,N,D-M[STE->early sre:b],sre,0.2718523652257219
+4,N,D-M[STE->early sre:b],early,0.0
+4,N,D-M[STE->hidden 16],atan,0.26937490605187964
+4,N,D-M[STE->hidden 16],sigmoid,0.1695905849085406
+4,N,D-M[STE->hidden 16],triangular,0.28918214381385793
+4,N,D-M[STE->hidden 16],sre,0.2718523652257219
+4,N,D-M[STE->hidden 16],early,0.0
+4,N,D-M[STE->hidden 4],atan,0.26937490605187964
+4,N,D-M[STE->hidden 4],sigmoid,0.1695905849085406
+4,N,D-M[STE->hidden 4],triangular,0.28918214381385793
+4,N,D-M[STE->hidden 4],sre,0.2718523652257219
+4,N,D-M[STE->hidden 4],early,0.0
+4,N,D-M[STE->hidden 8],atan,0.26937490605187964
+4,N,D-M[STE->hidden 8],sigmoid,0.1695905849085406
+4,N,D-M[STE->hidden 8],triangular,0.28918214381385793
+4,N,D-M[STE->hidden 8],sre,0.2718523652257219
+4,N,D-M[STE->hidden 8],early,0.0
+4,N,D-S[m0->early:b],seed1,0.23475123966037856
+4,N,D-S[m0->early:b],seed2,0.23056443082127404
+4,N,D-S[m0->early:b],seed3,0.24839342124269034
+4,N,D-S[m0->early:b],seed4,0.2862909082756571
+4,N,D-S[m0->early:b],early,0.0
+4,N,D-S+early:b,seed0,0.21432167449669423
+4,N,D-S+early:b,seed1,0.18066033976912613
+4,N,D-S+early:b,seed2,0.17924343745321447
+4,N,D-S+early:b,seed3,0.19222020498119327
+4,N,D-S+early:b,seed4,0.23355434329977193
+4,N,D-S+early:b,early,0.0
+4,N,D-M[STE->early atan:a],atan,0.26937490605187964
+4,N,D-M[STE->early atan:a],sigmoid,0.1695905849085406
+4,N,D-M[STE->early atan:a],triangular,0.28918214381385793
+4,N,D-M[STE->early atan:a],sre,0.2718523652257219
+4,N,D-M[STE->early atan:a],early,0.0
+4,N,D-M[STE->early sigmoid:a],atan,0.26937490605187964
+4,N,D-M[STE->early sigmoid:a],sigmoid,0.1695905849085406
+4,N,D-M[STE->early sigmoid:a],triangular,0.28918214381385793
+4,N,D-M[STE->early sigmoid:a],sre,0.2718523652257219
+4,N,D-M[STE->early sigmoid:a],early,0.0
+4,N,D-M[STE->early triangular:a],atan,0.26937490605187964
+4,N,D-M[STE->early triangular:a],sigmoid,0.1695905849085406
+4,N,D-M[STE->early triangular:a],triangular,0.28918214381385793
+4,N,D-M[STE->early triangular:a],sre,0.2718523652257219
+4,N,D-M[STE->early triangular:a],early,0.0
+4,N,D-M[STE->early sre:a],atan,0.26937490605187964
+4,N,D-M[STE->early sre:a],sigmoid,0.1695905849085406
+4,N,D-M[STE->early sre:a],triangular,0.28918214381385793
+4,N,D-M[STE->early sre:a],sre,0.2718523652257219
+4,N,D-M[STE->early sre:a],early,0.0
+4,N,D-S[m0->early:a],seed1,0.23475123966037856
+4,N,D-S[m0->early:a],seed2,0.23056443082127404
+4,N,D-S[m0->early:a],seed3,0.24839342124269034
+4,N,D-S[m0->early:a],seed4,0.2862909082756571
+4,N,D-S[m0->early:a],early,0.0
+4,N,D-S+early:a,seed0,0.21432167449669423
+4,N,D-S+early:a,seed1,0.18066033976912613
+4,N,D-S+early:a,seed2,0.17924343745321447
+4,N,D-S+early:a,seed3,0.19222020498119327
+4,N,D-S+early:a,seed4,0.23355434329977193
+4,N,D-S+early:a,early,0.0
+4,O1:0.5,D-M,atan,0.0
+4,O1:0.5,D-M,sigmoid,0.18098473848304658
+4,O1:0.5,D-M,ste,0.3995773109131885
+4,O1:0.5,D-M,triangular,0.16855649499831543
+4,O1:0.5,D-M,sre,0.2508814556054496
+4,O1:0.5,D-S,seed0,0.1768062690228487
+4,O1:0.5,D-S,seed1,0.18282777297648184
+4,O1:0.5,D-S,seed2,0.17546479927136854
+4,O1:0.5,D-S,seed3,0.24910601264862897
+4,O1:0.5,D-S,seed4,0.21579514608067188
+4,O1:0.5,D-M-STE,atan,0.022442751835738642
+4,O1:0.5,D-M-STE,sigmoid,0.3239391812935243
+4,O1:0.5,D-M-STE,triangular,0.27581066628517975
+4,O1:0.5,D-M-STE,sre,0.3778074005855574
+4,O1:0.5,D-M[STE->early atan:b],atan,0.0
+4,O1:0.5,D-M[STE->early atan:b],sigmoid,0.25275186497742624
+4,O1:0.5,D-M[STE->early atan:b],triangular,0.21404460176114584
+4,O1:0.5,D-M[STE->early atan:b],sre,0.30068315852520333
+4,O1:0.5,D-M[STE->early atan:b],early,0.23252037473622456
+4,O1:0.5,D-M[STE->early sigmoid:b],atan,0.0
+4,O1:0.5,D-M[STE->early sigmoid:b],sigmoid,0.24069092671778583
+4,O1:0.5,D-M[STE->early sigmoid:b],triangular,0.20792167646171883
+4,O1:0.5,D-M[STE->early sigmoid:b],sre,0.29675690281306966
+4,O1:0.5,D-M[STE->early sigmoid:b],early,0.2546304940074257
+4,O1:0.5,D-M[STE->early triangular:b],atan,0.0
+4,O1:0.5,D-M[STE->early triangular:b],sigmoid,0.26138915093806236
+4,O1:0.5,D-M[STE->early triangular:b],triangular,0.21380789541301826
+4,O1:0.5,D-M[STE->early triangular:b],sre,0.30273139610746536
+4,O1:0.5,D-M[STE->early triangular:b],early,0.22207155754145405
+4,O1:0.5,D-M[STE->early sre:b],atan,0.0
+4,O1:0.5,D-M[STE->early sre:b],sigmoid,0.2685557124061601
+4,O1:0.5,D-M[STE->early sre:b],triangular,0.22258265585092854
+4,O1:0.5,D-M[STE->early sre:b],sre,0.29159791828960185
+4,O1:0.5,D-M[STE->early sre:b],early,0.21726371345330955
+4,O1:0.5,D-M[STE->hidden 16],atan,0.0
+4,O1:0.5,D-M[STE->hidden 16],sigmoid,0.2833520951228376
+4,O1:0.5,D-M[STE->hidden 16],triangular,0.24405941910433238
+4,O1:0.5,D-M[STE->hidden 16],sre,0.34931039829075977
+4,O1:0.5,D-M[STE->hidden 16],early,0.12327808748207024
+4,O1:0.5,D-M[STE->hidden 4],atan,0.0
+4,O1:0.5,D-M[STE->hidden 4],sigmoid,0.20077415817108982
+4,O1:0.5,D-M[STE->hidden 4],triangular,0.21560781905899468
+4,O1:0.5,D-M[STE->hidden 4],sre,0.33381143111300426
+4,O1:0.5,D-M[STE->hidden 4],early,0.2498065916569113
+4,O1:0.5,D-M[STE->hidden 8],atan,0.0
+4,O1:0.5,D-M[STE->hidden 8],sigmoid,0.2633474665119389
+4,O1:0.5,D-M[STE->hidden 8],triangular,0.22813098292738976
+4,O1:0.5,D-M[STE->hidden 8],sre,0.34294923516541254
+4,O1:0.5,D-M[STE->hidden 8],early,0.16557231539525882
+4,O1:0.5,D-S[m0->early:b],seed1,0.1775851719839007
+4,O1:0.5,D-S[m0->early:b],seed2,0.15283917686128728
+4,O1:0.5,D-S[m0->early:b],seed3,0.23075090323917344
+4,O1:0.5,D-S[m0->early:b],seed4,0.20925635081259833
+4,O1:0.5,D-S[m0->early:b],early,0.22956839710304017
+4,O1:0.5,D-S+early:b,seed0,0.16581079065586407
+4,O1:0.5,D-S+early:b,seed1,0.17055603891812257
+4,O1:0.5,D-S+early:b,seed2,0.0
+4,O1:0.5,D-S+early:b,seed3,0.2242225097749922
+4,O1:0.5,D-S+early:b,seed4,0.20832820116201786
+4,O1:0.5,D-S+early:b,early,0.23108245948900322
+4,O1:0.5,D-M[STE->early atan:a],atan,0.0
+4,O1:0.5,D-M[STE->early atan:a],sigmoid,0.24856831352903475
+4,O1:0.5,D-M[STE->early atan:a],triangular,0.21063335229995953
+4,O1:0.5,D-M[STE->early atan:a],sre,0.29211472802769844
+4,O1:0.5,D-M[STE->early atan:a],early,0.2486836061433074
+4,O1:0.5,D-M[STE->early sigmoid:a],atan,0.0
+4,O1:0.5,D-M[STE->early sigmoid:a],sigmoid,0.2535314100982571
+4,O1:0.5,D-M[STE->early sigmoid:a],triangular,0.2193548246102209
+4,O1:0.5,D-M[STE->early sigmoid:a],sre,0.30243035163290277
+4,O1:0.5,D-M[STE->early sigmoid:a],early,0.22468341365861932
+4,O1:0.5,D-M[STE->early triangular:a],atan,0.0
+4,O1:0.5,D-M[STE->early triangular:a],sigmoid,0.26779507350632
+4,O1:0.5,D-M[STE->early triangular:a],triangular,0.22645189187819395
+4,O1:0.5,D-M[STE->early triangular:a],sre,0.3074685595589816
+4,O1:0.5,D-M[STE->early triangular:a],early,0.19828447505650448
+4,O1:0.5,D-M[STE->early sre:a],atan,0.0
+4,O1:0.5,D-M[STE->early sre:a],sigmoid,0.28087250714859013
+4,O1:0.5,D-M[STE->early sre:a],triangular,0.23133632078771266
+4,O1:0.5,D-M[STE->early sre:a],sre,0.31491097789392486
+4,O1:0.5,D-M[STE->early sre:a],early,0.17288019416977235
+4,O1:0.5,D-S[m0->early:a],seed1,0.1850307342987115
+4,O1:0.5,D-S[m0->early:a],seed2,0.1580758906054252
+4,O1:0.5,D-S[m0->early:a],seed3,0.23942393925023936
+4,O1:0.5,D-S[m0->early:a],seed4,0.21069252198088412
+4,O1:0.5,D-S[m0->early:a],early,0.20677691386473973
+4,O1:0.5,D-S+early:a,seed0,0.16968118093056106
+4,O1:0.5,D-S+early:a,seed1,0.17842631347122193
+4,O1:0.5,D-S+early:a,seed2,0.0
+4,O1:0.5,D-S+early:a,seed3,0.2333910183492451
+4,O1:0.5,D-S+early:a,seed4,0.21026337086215086
+4,O1:0.5,D-S+early:a,early,0.20823811638682113
+4,O1:0.7,D-M,atan,0.0037235910973492043
+4,O1:0.7,D-M,sigmoid,0.1459241270763258
+4,O1:0.7,D-M,ste,0.494765301163937
+4,O1:0.7,D-M,triangular,0.18475209179075675
+4,O1:0.7,D-M,sre,0.17083488887163106
+4,O1:0.7,D-S,seed0,0.23249739309609097
+4,O1:0.7,D-S,seed1,0.18548136899564327
+4,O1:0.7,D-S,seed2,0.15904417722733552
+4,O1:0.7,D-S,seed3,0.19521238228950738
+4,O1:0.7,D-S,seed4,0.22776467839142275
+4,O1:0.7,D-M-STE,atan,0.05515798020135188
+4,O1:0.7,D-M-STE,sigmoid,0.31972160508744984
+4,O1:0.7,D-M-STE,triangular,0.3186133834551656
+4,O1:0.7,D-M-STE,sre,0.3065070312560327
+4,O1:0.7,D-M[STE->early atan:b],atan,0.0
+4,O1:0.7,D-M[STE->early atan:b],sigmoid,0.25060041129312494
+4,O1:0.7,D-M[STE->early atan:b],triangular,0.26239373102247693
+4,O1:0.7,D-M[STE->early atan:b],sre,0.23253297968558784
+4,O1:0.7,D-M[STE->early atan:b],early,0.2544728779988104
+4,O1:0.7,D-M[STE->early sigmoid:b],atan,0.004512455606111425
+4,O1:0.7,D-M[STE->early sigmoid:b],sigmoid,0.2335399336131081
+4,O1:0.7,D-M[STE->early sigmoid:b],triangular,0.2668458715643644
+4,O1:0.7,D-M[STE->early sigmoid:b],sre,0.22584416901317467
+4,O1:0.7,D-M[STE->early sigmoid:b],early,0.26925757020324137
+4,O1:0.7,D-M[STE->early triangular:b],atan,0.014184379757234442
+4,O1:0.7,D-M[STE->early triangular:b],sigmoid,0.258835915534539
+4,O1:0.7,D-M[STE->early triangular:b],triangular,0.2540927275852452
+4,O1:0.7,D-M[STE->early triangular:b],sre,0.22791115953215046
+4,O1:0.7,D-M[STE->early triangular:b],early,0.24497581759083092
+4,O1:0.7,D-M[STE->early sre:b],atan,0.011680197162861946
+4,O1:0.7,D-M[STE->early sre:b],sigmoid,0.2597740015075956
+4,O1:0.7,D-M[STE->early sre:b],triangular,0.26621387694957527
+4,O1:0.7,D-M[STE->early sre:b],sre,0.20493458286014324
+4,O1:0.7,D-M[STE->early sre:b],early,0.2573973415198239
+4,O1:0.7,D-M[STE->hidden 16],atan,0.01213041498029962
+4,O1:0.7,D-M[STE->hidden 16],sigmoid,0.27952892475029567
+4,O1:0.7,D-M[STE->hidden 16],triangular,0.2866084799705501
+4,O1:0.7,D-M[STE->hidden 16],sre,0.28175982465606714
+4,O1:0.7,D-M[STE->hidden 16],early,0.1399723556427876
+4,O1:0.7,D-M[STE->hidden 4],atan,0.011201763760671108
+4,O1:0.7,D-M[STE->hidden 4],sigmoid,0.14869691544717176
+4,O1:0.7,D-M[STE->hidden 4],triangular,0.23423975033799857
+4,O1:0.7,D-M[STE->hidden 4],sre,0.2575872767639521
+4,O1:0.7,D-M[STE->hidden 4],early,0.3482742936902064
+4,O1:0.7,D-M[STE->hidden 8],atan,0.0
+4,O1:0.7,D-M[STE->hidden 8],sigmoid,0.26119237111358606
+4,O1:0.7,D-M[STE->hidden 8],triangular,0.26609257253880514
+4,O1:0.7,D-M[STE->hidden 8],sre,0.2744481664636074
+4,O1:0.7,D-M[STE->hidden 8],early,0.19826688988400146
+4,O1:0.7,D-S[m0->early:b],seed1,0.18507721267785582
+4,O1:0.7,D-S[m0->early:b],seed2,0.13954683590155167
+4,O1:0.7,D-S[m0->early:b],seed3,0.19175327639375733
+4,O1:0.7,D-S[m0->early:b],seed4,0.22044318465461077
+4,O1:0.7,D-S[m0->early:b],early,0.2631794903722245
+4,O1:0.7,D-S+early:b,seed0,0.20025011794465108
+4,O1:0.7,D-S+early:b,seed1,0.16029526231643118
+4,O1:0.7,D-S+early:b,seed2,0.0
+4,O1:0.7,D-S+early:b,seed3,0.16889926606424432
+4,O1:0.7,D-S+early:b,seed4,0.21212083481586622
+4,O1:0.7,D-S+early:b,early,0.25843451885880725
+4,O1:0.7,D-M[STE->early atan:a],atan,0.0
+4,O1:0.7,D-M[STE->early atan:a],sigmoid,0.24462638108285517
+4,O1:0.7,D-M[STE->early atan:a],triangular,0.25885033932082274
+4,O1:0.7,D-M[STE->early atan:a],sre,0.22196811334112299
+4,O1:0.7,D-M[STE->early atan:a],early,0.2745551662551991
+4,O1:0.7,D-M[STE->early sigmoid:a],atan,0.004741425997304141
+4,O1:0.7,D-M[STE->early sigmoid:a],sigmoid,0.23925293667315684
+4,O1:0.7,D-M[STE->early sigmoid:a],triangular,0.2786885261445903
+4,O1:0.7,D-M[STE->early sigmoid:a],sre,0.2301403413174873
+4,O1:0.7,D-M[STE->early sigmoid:a],early,0.24717676986746154
+4,O1:0.7,D-M[STE->early triangular:a],atan,0.011932889870323194
+4,O1:0.7,D-M[STE->early triangular:a],sigmoid,0.26363762512621824
+4,O1:0.7,D-M[STE->early triangular:a],triangular,0.2690874586929391
+4,O1:0.7,D-M[STE->early triangular:a],sre,0.23374148866560207
+4,O1:0.7,D-M[STE->early triangular:a],early,0.22160053764491736
+4,O1:0.7,D-M[STE->early sre:a],atan,0.01929381412141666
+4,O1:0.7,D-M[STE->early sre:a],sigmoid,0.27068519821218645
+4,O1:0.7,D-M[STE->early sre:a],triangular,0.2739872190947324
+4,O1:0.7,D-M[STE->early sre:a],sre,0.23385966275874034
+4,O1:0.7,D-M[STE->early sre:a],early,0.20217410581292403
+4,O1:0.7,D-S[m0->early:a],seed1,0.18913597390731482
+4,O1:0.7,D-S[m0->early:a],seed2,0.14560669575326884
+4,O1:0.7,D-S[m0->early:a],seed3,0.19787542988958431
+4,O1:0.7,D-S[m0->early:a],seed4,0.22724925071218918
+4,O1:0.7,D-S[m0->early:a],early,0.2401326497376427
+4,O1:0.7,D-S+early:a,seed0,0.20728598902575304
+4,O1:0.7,D-S+early:a,seed1,0.16360548801902539
+4,O1:0.7,D-S+early:a,seed2,0.0
+4,O1:0.7,D-S+early:a,seed3,0.17431326194504979
+4,O1:0.7,D-S+early:a,seed4,0.21872008125661407
+4,O1:0.7,D-S+early:a,early,0.2360751797535578
+4,O1qqd:0.5,D-M,atan,0.11096133751525217
+4,O1qqd:0.5,D-M,sigmoid,0.22081163876802812
+4,O1qqd:0.5,D-M,ste,0.2819678672966167
+4,O1qqd:0.5,D-M,triangular,0.1149402716269579
+4,O1qqd:0.5,D-M,sre,0.271318884793145
+4,O1qqd:0.5,D-S,seed0,0.1347180654119539
+4,O1qqd:0.5,D-S,seed1,0.12838813436339516
+4,O1qqd:0.5,D-S,seed2,0.2963639902742783
+4,O1qqd:0.5,D-S,seed3,0.25061956141913655
+4,O1qqd:0.5,D-S,seed4,0.18991024853123617
+4,O1qqd:0.5,D-M-STE,atan,0.15300468426364375
+4,O1qqd:0.5,D-M-STE,sigmoid,0.3156861967258032
+4,O1qqd:0.5,D-M-STE,triangular,0.18373990792676026
+4,O1qqd:0.5,D-M-STE,sre,0.3475692110837928
+4,O1qqd:0.5,D-M[STE->early atan:b],atan,0.10795338115211707
+4,O1qqd:0.5,D-M[STE->early atan:b],sigmoid,0.24260972463885735
+4,O1qqd:0.5,D-M[STE->early atan:b],triangular,0.12507135087269416
+4,O1qqd:0.5,D-M[STE->early atan:b],sre,0.2691566535394041
+4,O1qqd:0.5,D-M[STE->early atan:b],early,0.25520888979692746
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],atan,0.1093230884815004
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],sigmoid,0.23210814013317185
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],triangular,0.13469807614328905
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],sre,0.2704723030657253
+4,O1qqd:0.5,D-M[STE->early sigmoid:b],early,0.2533983921763134
+4,O1qqd:0.5,D-M[STE->early triangular:b],atan,0.12165597071624666
+4,O1qqd:0.5,D-M[STE->early triangular:b],sigmoid,0.24232419966296428
+4,O1qqd:0.5,D-M[STE->early triangular:b],triangular,0.12248940814199624
+4,O1qqd:0.5,D-M[STE->early triangular:b],sre,0.2597559170382362
+4,O1qqd:0.5,D-M[STE->early triangular:b],early,0.25377450444055655
+4,O1qqd:0.5,D-M[STE->early sre:b],atan,0.11761093905377873
+4,O1qqd:0.5,D-M[STE->early sre:b],sigmoid,0.24533221643288802
+4,O1qqd:0.5,D-M[STE->early sre:b],triangular,0.128058596327528
+4,O1qqd:0.5,D-M[STE->early sre:b],sre,0.25941959659467745
+4,O1qqd:0.5,D-M[STE->early sre:b],early,0.24957865159112785
+4,O1qqd:0.5,D-M[STE->hidden 16],atan,0.09184331739184341
+4,O1qqd:0.5,D-M[STE->hidden 16],sigmoid,0.26606983663940403
+4,O1qqd:0.5,D-M[STE->hidden 16],triangular,0.14289167490900037
+4,O1qqd:0.5,D-M[STE->hidden 16],sre,0.3077126877034979
+4,O1qqd:0.5,D-M[STE->hidden 16],early,0.19148248335625417
+4,O1qqd:0.5,D-M[STE->hidden 4],atan,0.1312498897396042
+4,O1qqd:0.5,D-M[STE->hidden 4],sigmoid,0.2751258449465087
+4,O1qqd:0.5,D-M[STE->hidden 4],triangular,0.1618151335434831
+4,O1qqd:0.5,D-M[STE->hidden 4],sre,0.32538969610529694
+4,O1qqd:0.5,D-M[STE->hidden 4],early,0.10641943566510714
+4,O1qqd:0.5,D-M[STE->hidden 8],atan,0.1146603723266485
+4,O1qqd:0.5,D-M[STE->hidden 8],sigmoid,0.27011182007631135
+4,O1qqd:0.5,D-M[STE->hidden 8],triangular,0.15515726502147903
+4,O1qqd:0.5,D-M[STE->hidden 8],sre,0.3170997566447633
+4,O1qqd:0.5,D-M[STE->hidden 8],early,0.14297078593079773
+4,O1qqd:0.5,D-S[m0->early:b],seed1,0.10207941211094203
+4,O1qqd:0.5,D-S[m0->early:b],seed2,0.25231180247117135
+4,O1qqd:0.5,D-S[m0->early:b],seed3,0.21917255834449606
+4,O1qqd:0.5,D-S[m0->early:b],seed4,0.15927006285027823
+4,O1qqd:0.5,D-S[m0->early:b],early,0.2671661642231124
+4,O1qqd:0.5,D-S+early:b,seed0,0.10786557655001963
+4,O1qqd:0.5,D-S+early:b,seed1,0.0
+4,O1qqd:0.5,D-S+early:b,seed2,0.24818544409936394
+4,O1qqd:0.5,D-S+early:b,seed3,0.21516213238144627
+4,O1qqd:0.5,D-S+early:b,seed4,0.1621522191552961
+4,O1qqd:0.5,D-S+early:b,early,0.2666346278138741
+4,O1qqd:0.5,D-M[STE->early atan:a],atan,0.11494502211959993
+4,O1qqd:0.5,D-M[STE->early atan:a],sigmoid,0.24543092887529452
+4,O1qqd:0.5,D-M[STE->early atan:a],triangular,0.12739440261303187
+4,O1qqd:0.5,D-M[STE->early atan:a],sre,0.265869061094402
+4,O1qqd:0.5,D-M[STE->early atan:a],early,0.2463605852976717
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],atan,0.11779232432839129
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],sigmoid,0.2506294683223111
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],triangular,0.1394963031796332
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],sre,0.27997485080030293
+4,O1qqd:0.5,D-M[STE->early sigmoid:a],early,0.21210705336936145
+4,O1qqd:0.5,D-M[STE->early triangular:a],atan,0.11915938508063002
+4,O1qqd:0.5,D-M[STE->early triangular:a],sigmoid,0.24633039590344802
+4,O1qqd:0.5,D-M[STE->early triangular:a],triangular,0.13458211991549857
+4,O1qqd:0.5,D-M[STE->early triangular:a],sre,0.26417834306507737
+4,O1qqd:0.5,D-M[STE->early triangular:a],early,0.23574975603534604
+4,O1qqd:0.5,D-M[STE->early sre:a],atan,0.12336067023963333
+4,O1qqd:0.5,D-M[STE->early sre:a],sigmoid,0.26397030458958015
+4,O1qqd:0.5,D-M[STE->early sre:a],triangular,0.13639719086521818
+4,O1qqd:0.5,D-M[STE->early sre:a],sre,0.28392299988273817
+4,O1qqd:0.5,D-M[STE->early sre:a],early,0.19234883442283007
+4,O1qqd:0.5,D-S[m0->early:a],seed1,0.11228982067578996
+4,O1qqd:0.5,D-S[m0->early:a],seed2,0.2573444911723395
+4,O1qqd:0.5,D-S[m0->early:a],seed3,0.22074463028112065
+4,O1qqd:0.5,D-S[m0->early:a],seed4,0.16236519468781263
+4,O1qqd:0.5,D-S[m0->early:a],early,0.2472558631829372
+4,O1qqd:0.5,D-S+early:a,seed0,0.11274067723590676
+4,O1qqd:0.5,D-S+early:a,seed1,0.0
+4,O1qqd:0.5,D-S+early:a,seed2,0.2549155068267333
+4,O1qqd:0.5,D-S+early:a,seed3,0.21862580252358596
+4,O1qqd:0.5,D-S+early:a,seed4,0.1672012443522797
+4,O1qqd:0.5,D-S+early:a,early,0.24651676906149422

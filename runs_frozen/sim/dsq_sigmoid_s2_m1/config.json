@@ -1,0 +1,22 @@
+{
+ "member_id": "dsq_sigmoid_s2_m1",
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "learnable_width": false,
+ "seed": 1021,
+ "aug_sigma": 0.7,
+ "snapshot_cycles": 0,
+ "platform": "sim",
+ "block": "dsa",
+ "aug_family": "qqd",
+ "n_params": 54293,
+ "best_epoch": 16,
+ "best_dev": 0.12565527856349945,
+ "train_time_s": 329.57929491996765,
+ "epochs_run": 47,
+ "spikes_per_sample_per_layer_dev": [
+  217.96705627441406,
+  275.6597900390625,
+  68.14510345458984
+ ]
+}
