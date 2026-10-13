@@ -77,7 +77,7 @@ def main():
                                      "value": r.nmse_mean, "ci_lo": r.ci_lo, "ci_hi": r.ci_hi, "source": f"results/{plat}/e01_summary.csv"})
         r = get(sm, O1m, method, dn)
         nexec = "--" if r is None else ("1" if method in ("B-F", "B-L", "B-A", "B-N", "W-S") else ("5" if method in ("W-E", "W-B", "posthoc-opt") else f"{r.get('support_mean', np.nan):.1f}" if "support_mean" in r else ("$\\le$5" if method == "W-D" else "$\\le$" + method[-1])))
-        key = dn if dn in cost else method
+        key = method if method in cost else dn      # B-F: the one strong-surrogate run per seed, not the D-M dictionary
         lines.append(f"{label} & {cells[0]} & {cells[1]} & {cells[2]} & {cells[3]} & {nexec} & {cost.get(key, np.nan):.1f} \\\\")
     lines += [r"\midrule"]
     gpu, cpu = [], []

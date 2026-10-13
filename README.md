@@ -8,7 +8,7 @@ Code, frozen run configurations, and result files of the paper *Attenuation Expl
 |---|---|
 | `code/` | training, analysis, simulation, and figure code. `code/README.md` lists every experiment (E00-E14) with its script and its result files. |
 | `results/` | the frozen result files behind every table and figure: `results/sarcos/` and `results/sim/` for the two platforms, `results/physical/` for the 2-DOF recording of the supplement, `results/runtime/` for the latency measurements. `results/results_manifest.csv` maps every number of the paper to its source file, method, condition, and value; `results/summary_all_results.txt` is a plain-text summary of all result files. |
-| `runs_frozen/` | `config.json` and `history.json` of every trained member (hyperparameters, selected width, epochs, wall-clock time, development error, spike counts per layer, training curve), the frozen development decisions `frozen_sarcos.json` and `frozen_sim.json`, the simulation checks `e00_checks.json`, and the SARCOS split manifest. |
+| `runs_frozen/` | `config.json` and `history.json` of every trained member (hyperparameters, selected width, epochs, wall-clock time, development error, spike counts per layer, training curve; the E14 replay runs keep their history only), the frozen development decisions `frozen_sarcos.json` and `frozen_sim.json`, the simulation checks `e00_checks.json`, and the SARCOS split manifest. |
 
 Three files are too large for the git tree and are attached to the release of this repository:
 
