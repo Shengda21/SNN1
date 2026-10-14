@@ -1,3 +1,5 @@
+English | [中文](README_zh.md)
+
 # Attenuation Explains the Noise Gain of Surrogate Diversity in Spiking Robot Inverse Dynamics
 
 Code, frozen run configurations, and result files of the paper *Attenuation Explains the Noise Gain of Surrogate Diversity in Spiking Robot Inverse Dynamics*. Every table and figure of the paper and of its supplementary material can be regenerated from the files in this repository, and every number can be traced to the run that produced it.
@@ -10,7 +12,7 @@ Code, frozen run configurations, and result files of the paper *Attenuation Expl
 | `results/` | the frozen result files behind every table and figure: `results/sarcos/` and `results/sim/` for the two platforms, `results/physical/` for the 2-DOF recording of the supplement, `results/runtime/` for the latency measurements. `results/results_manifest.csv` maps every number of the paper to its source file, method, condition, and value; `results/summary_all_results.txt` is a plain-text summary of all result files. |
 | `runs_frozen/` | `config.json` and `history.json` of every trained member (hyperparameters, selected width, epochs, wall-clock time, development error, spike counts per layer, training curve; the E14 replay runs keep their history only), the frozen development decisions `frozen_sarcos.json` and `frozen_sim.json`, the simulation checks `e00_checks.json`, and the SARCOS split manifest. |
 
-Three files are too large for the git tree and are attached to the release of this repository:
+Three files are too large for the git tree and are attached to the release of this repository (https://github.com/Shengda21/SNN1/releases):
 
 | Release asset | Size | Content | Location after download |
 |---|---|---|---|

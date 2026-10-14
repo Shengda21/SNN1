@@ -1,3 +1,5 @@
+English | [中文](README_zh.md)
+
 # Code release: Attenuation Explains the Noise Gain of Surrogate Diversity in Spiking Robot Inverse Dynamics
 
 This directory holds the training, analysis, simulation, and figure code of the paper and its supplementary material.
