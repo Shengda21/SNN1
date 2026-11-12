@@ -1,5 +1,5 @@
-"""Supplementary tables not produced by tables.py: S1 spikes/training, S3 m/k/E07, S5 physical.
-python build_supp_tables.py [<repository root>] [<output dir>]   (defaults: the repository, build/tables;
+"""Supplementary tables not produced by tables.py: S1 spikes/training, S3 m/k/E07.
+python build_supp_tables.py [<repository root>] [<output dir>]   (defaults: the repository, build/locked/tables;
 the S3 tables read the slice summaries that tables.py wrote to the output dir)"""
 import collections
 import glob
@@ -12,7 +12,7 @@ import pandas as pd
 import sys
 
 R = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")   # repository root
-OUT = sys.argv[2] if len(sys.argv) > 2 else "build/tables"
+OUT = sys.argv[2] if len(sys.argv) > 2 else "build/locked/tables"
 os.makedirs(OUT, exist_ok=True)
 
 # ---------------- S1: spikes and training per member family
@@ -105,18 +105,4 @@ for mi in sorted(g.m_ind.unique()):
 lines += [r"\bottomrule", r"\end{tabular}", r"\end{table}"]
 open(f"{OUT}/s3_e07.tex", "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
-# ---------------- S5: physical
-d = json.load(open(f"{R}/results/physical/e08_train_150ep_random.json"))
-rr = pd.DataFrame(d["rows"])
-def ms(col):
-    v = rr[col].astype(float); return f"{v.mean():.3f} $\\pm$ {v.std():.3f}"
-r2 = {k: np.mean([x[k] for x in rr.single_r2]) for k in rr.single_r2.iloc[0]}
-lines = [r"\begin{table}[h]", r"\centering",
-         r"\caption{Exploratory physical recording, random 70/30 split (105 / 46 samples), statistics fitted on the training partition, 150 epochs, ten seeds (mean $\pm$ std). nMSE in standardized units on the 46 held-out samples. The held-out partition is shared by weight fitting and reporting, so the averages are in-sample. Under the chronological split every member has a negative held-out $R^2$.}",
-         r"\label{tab:s5}", r"\small", r"\begin{tabular}{lcccc}", r"\toprule",
-         r"Best member & Equal average & W-B (BIC-inspired) & W-Q(5), in-sample & Chronological split \\", r"\midrule",
-         f"{ms('best_single_nmse')} & {ms('equal_nmse')} & {ms('bic_nmse')} & {ms('wq5_insample_nmse')} & all members $R^2<0$ \\\\",
-         r"\bottomrule", r"\end{tabular}", r"\end{table}"]
-open(f"{OUT}/s5_physical.tex", "w", encoding="utf-8").write("\n".join(lines) + "\n")
-print("S5 single R2 (random split, mean over seeds):", {k: round(v, 3) for k, v in r2.items()})
-print("written: s1_spikes, s3_m, s3_k, s3_e07, s5_physical; kkt max", kmax)
+print("written: s1_spikes, s3_m, s3_k, s3_e07; kkt max", kmax)

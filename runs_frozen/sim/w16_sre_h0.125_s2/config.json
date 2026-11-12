@@ -1,0 +1,71 @@
+{
+ "platform": "sim",
+ "member_id": "w16_sre_h0.125_s2",
+ "block": "w16",
+ "experiment": "E16",
+ "seed": 2,
+ "family": "sre",
+ "hwhm": 0.125,
+ "peak_normalized": true,
+ "peak": 1.0,
+ "surrogate": "sre",
+ "width": 5.545177444479562,
+ "hwhm_layers": [
+  0.125,
+  0.125,
+  0.125
+ ],
+ "membrane_noise": 0.0,
+ "aug_scale": 0.0,
+ "activation": "spike",
+ "detach_reset": false,
+ "stage": "e16s2",
+ "learnable_width": false,
+ "snapshot_cycles": 0,
+ "aug_sigma": 0.0,
+ "aug_family": "none",
+ "dev_sel": "clean",
+ "lr": 0.001,
+ "batch": 512,
+ "max_epochs": 300,
+ "patience": 30,
+ "model_class": "SNNX",
+ "hidden": 128,
+ "surrogate_layers": [
+  [
+   "sre",
+   0.125,
+   true
+  ],
+  [
+   "sre",
+   0.125,
+   true
+  ],
+  [
+   "sre",
+   0.125,
+   true
+  ]
+ ],
+ "layer_params": [
+  5.545177444479562,
+  5.545177444479562,
+  5.545177444479562
+ ],
+ "n_params": 54293,
+ "best_epoch": 79,
+ "best_dev": 0.05306004732847214,
+ "train_time_s": 385.05365443229675,
+ "epochs_run": 110,
+ "train_failed": false,
+ "spikes_per_sample_per_layer_dev": [
+  203.90374755859375,
+  328.4539489746094,
+  286.9765930175781
+ ],
+ "test_nmse_N": 0.04352685064077377,
+ "preds_finite": true,
+ "torch": "2.13.0+cu130",
+ "finished_at": "2026-11-11 17:47:25"
+}

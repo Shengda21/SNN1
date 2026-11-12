@@ -1,0 +1,398 @@
+[
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.0625_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.25_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h16_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h1_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h4_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.0625_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.25_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h16_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h1_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h4_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.0625_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.25_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h16_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h1_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h4_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.0625_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.25_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h16_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h1_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h4_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.0625_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h0.25_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h16_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h1_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_atan_h4_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.0625_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h0.25_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h16_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h1_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "w16d_tri_h4_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.0625_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.25_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h16_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h1_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h4_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.0625_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.25_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h16_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h1_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h4_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.0625_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.25_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h16_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h1_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h4_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.0625_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.25_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h16_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h1_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h4_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.0625_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h0.25_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h16_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h1_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_atan_h4_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.0625_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h0.25_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h16_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h1_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "w16d_tri_h4_s2",
+"max_abs_diff": 0.0
+}
+]

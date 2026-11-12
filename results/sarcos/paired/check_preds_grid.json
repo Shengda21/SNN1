@@ -1,0 +1,1742 @@
+[
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_atan_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sigmoid_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sre_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s0_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s0_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s0_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s0_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s0_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s0_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s0_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s0_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s0_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s0_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bl_learnable_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ba_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bn_mlp_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_atan_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sigmoid_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sre_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s0_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s0_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s0_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s0_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s0_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dmas_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_atan_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sigmoid_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sre_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s1_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s1_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s1_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s1_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s1_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s1_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s1_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s1_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s1_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s1_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bl_learnable_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ba_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bn_mlp_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_atan_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sigmoid_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sre_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s1_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s1_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s1_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s1_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s1_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dmas_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_atan_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sigmoid_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sre_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s2_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s2_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s2_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s2_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s2_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s2_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s2_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s2_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s2_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s2_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bl_learnable_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ba_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bn_mlp_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_atan_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sigmoid_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sre_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s2_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s2_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s2_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s2_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s2_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dmas_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_atan_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sigmoid_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_ste_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sre_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s3_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s3_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s3_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s3_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s3_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s3_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s3_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s3_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s3_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s3_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bl_learnable_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ba_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bn_mlp_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_atan_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sigmoid_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_ste_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sre_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s3_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s3_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s3_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s3_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s3_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dmas_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_atan_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sigmoid_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_ste_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dm_sre_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s4_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s4_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s4_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s4_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ds_triangular_s4_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s4_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s4_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s4_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s4_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dt_triangular_s4_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bl_learnable_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "ba_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "bn_mlp_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_atan_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sigmoid_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_ste_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dma_sre_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s4_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s4_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s4_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s4_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dsa_triangular_s4_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "cal",
+"member": "dmas_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_atan_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sigmoid_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sre_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s0_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s0_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s0_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s0_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s0_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s0_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s0_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s0_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s0_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s0_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bl_learnable_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ba_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bn_mlp_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_atan_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sigmoid_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_ste_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sre_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s0_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s0_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s0_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s0_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s0_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dmas_triangular_s0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_atan_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sigmoid_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sre_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s1_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s1_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s1_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s1_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s1_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s1_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s1_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s1_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s1_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s1_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bl_learnable_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ba_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bn_mlp_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_atan_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sigmoid_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_ste_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sre_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s1_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s1_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s1_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s1_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s1_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dmas_triangular_s1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_atan_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sigmoid_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sre_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s2_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s2_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s2_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s2_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s2_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s2_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s2_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s2_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s2_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s2_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bl_learnable_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ba_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bn_mlp_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_atan_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sigmoid_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_ste_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sre_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s2_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s2_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s2_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s2_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s2_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dmas_triangular_s2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_atan_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sigmoid_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_ste_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sre_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s3_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s3_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s3_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s3_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s3_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s3_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s3_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s3_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s3_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s3_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bl_learnable_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ba_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bn_mlp_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_atan_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sigmoid_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_ste_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sre_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s3_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s3_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s3_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s3_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s3_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dmas_triangular_s3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_atan_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sigmoid_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_ste_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dm_sre_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s4_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s4_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s4_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s4_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ds_triangular_s4_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s4_c0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s4_c1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s4_c2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s4_c3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dt_triangular_s4_c4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bl_learnable_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "ba_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "bn_mlp_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_atan_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sigmoid_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_ste_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_triangular_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dma_sre_s4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s4_m0",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s4_m1",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s4_m2",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s4_m3",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dsa_triangular_s4_m4",
+"max_abs_diff": 0.0
+},
+{
+"file": "rho0.00",
+"role": "test",
+"member": "dmas_triangular_s4",
+"max_abs_diff": 0.0
+}
+]

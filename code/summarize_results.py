@@ -110,10 +110,6 @@ def main():
     pr = os.path.join(args.root, "runtime", "runtime.json")
     if os.path.exists(pr):
         rt = json.load(open(pr)); print("\n-- runtime", rt["gpu"]); print(pd.DataFrame(rt["rows"]).to_string(index=False)); print("param bytes per SNN", rt["param_bytes_per_snn"])
-    pp = os.path.join(args.root, "physical")
-    if os.path.exists(pp):
-        for f in sorted(os.listdir(pp)):
-            e = json.load(open(os.path.join(pp, f))); print("\n-- physical", f, {k: (round(v["mean"], 3), round(v["std"], 3)) for k, v in e["aggregate"].items() if k != "witness_frac"}, "offset", [round(x, 2) for x in e.get("test_target_offset_in_train_std", [])])
 
 
 if __name__ == "__main__":

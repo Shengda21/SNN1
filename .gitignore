@@ -1,12 +1,15 @@
 # Python
 __pycache__/
 *.pyc
+*.err
+*.bak
 
 # regenerated tables and figures
 build/
 
 # working tree of the experiments (see README)
 runs/
+runs25/
 logs/
 data_sim/
 mujoco_menagerie/

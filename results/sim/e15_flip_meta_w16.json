@@ -1,0 +1,14 @@
+{
+ "conds": [
+  "O1:0.35",
+  "O1:0.7",
+  "O1:1.0",
+  "O2B:0.7"
+ ],
+ "n_dev_rows": 2000,
+ "train_cov_diag_range": [
+  1.0000124175249878,
+  1.0000124770550023
+ ],
+ "note": "O2B prediction uses the marginal per-row noise covariance (same as O1 at that rho)"
+}

@@ -1,0 +1,71 @@
+{
+ "platform": "sarcos",
+ "member_id": "w18_aug1.4_s0",
+ "block": "w18aug",
+ "experiment": "E18",
+ "seed": 0,
+ "membrane_noise": 0.0,
+ "aug_scale": 1.4,
+ "activation": "spike",
+ "family": "tri",
+ "hwhm": 0.25,
+ "peak_normalized": true,
+ "peak": 1.0,
+ "surrogate": "triangular",
+ "width": 0.5,
+ "hwhm_layers": [
+  0.25,
+  0.25,
+  0.25
+ ],
+ "stage": "e18p",
+ "learnable_width": false,
+ "snapshot_cycles": 0,
+ "aug_sigma": 0.7,
+ "aug_family": "all",
+ "dev_sel": "clean",
+ "lr": 0.001,
+ "batch": 512,
+ "max_epochs": 300,
+ "patience": 30,
+ "model_class": "SNNX",
+ "hidden": 128,
+ "surrogate_layers": [
+  [
+   "orig",
+   "triangular",
+   0.5
+  ],
+  [
+   "orig",
+   "triangular",
+   0.5
+  ],
+  [
+   "orig",
+   "triangular",
+   0.5
+  ]
+ ],
+ "layer_params": [
+  0.5,
+  0.5,
+  0.5
+ ],
+ "detach_reset": false,
+ "n_params": 54293,
+ "best_epoch": 104,
+ "best_dev": 0.03846914321184158,
+ "train_time_s": 279.4163088798523,
+ "epochs_run": 135,
+ "train_failed": false,
+ "spikes_per_sample_per_layer_dev": [
+  159.61488342285156,
+  203.2765350341797,
+  193.11892700195312
+ ],
+ "test_nmse_N": 0.036973319947719574,
+ "preds_finite": true,
+ "torch": "2.13.0+cu130",
+ "finished_at": "2026-11-11 18:41:25"
+}

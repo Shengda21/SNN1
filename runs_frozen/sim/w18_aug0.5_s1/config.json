@@ -1,0 +1,71 @@
+{
+ "platform": "sim",
+ "member_id": "w18_aug0.5_s1",
+ "block": "w18aug",
+ "experiment": "E18",
+ "seed": 1,
+ "membrane_noise": 0.0,
+ "aug_scale": 0.5,
+ "activation": "spike",
+ "family": "sig",
+ "hwhm": 0.1762747174039086,
+ "peak_normalized": false,
+ "peak": 2.5,
+ "surrogate": "sigmoid",
+ "width": 10.0,
+ "hwhm_layers": [
+  0.1762747174039086,
+  0.1762747174039086,
+  0.1762747174039086
+ ],
+ "stage": "e18aug",
+ "learnable_width": false,
+ "snapshot_cycles": 0,
+ "aug_sigma": 0.35,
+ "aug_family": "all",
+ "dev_sel": "clean",
+ "lr": 0.001,
+ "batch": 512,
+ "max_epochs": 300,
+ "patience": 30,
+ "model_class": "SNNX",
+ "hidden": 128,
+ "surrogate_layers": [
+  [
+   "orig",
+   "sigmoid",
+   10.0
+  ],
+  [
+   "orig",
+   "sigmoid",
+   10.0
+  ],
+  [
+   "orig",
+   "sigmoid",
+   10.0
+  ]
+ ],
+ "layer_params": [
+  10.0,
+  10.0,
+  10.0
+ ],
+ "detach_reset": false,
+ "n_params": 54293,
+ "best_epoch": 40,
+ "best_dev": 0.07946556806564331,
+ "train_time_s": 383.2021405696869,
+ "epochs_run": 71,
+ "train_failed": false,
+ "spikes_per_sample_per_layer_dev": [
+  250.608154296875,
+  302.03875732421875,
+  64.08515167236328
+ ],
+ "test_nmse_N": 0.06902210414409637,
+ "preds_finite": true,
+ "torch": "2.13.0+cu130",
+ "finished_at": "2026-11-11 19:22:57"
+}

@@ -1,0 +1,71 @@
+{
+ "platform": "sim",
+ "member_id": "w16c_atan_h1_s0",
+ "block": "w16c",
+ "experiment": "E16",
+ "seed": 0,
+ "family": "atan",
+ "hwhm": 1.0,
+ "peak_normalized": false,
+ "peak": 0.3183098861837907,
+ "surrogate": "atan",
+ "width": 0.6366197723675814,
+ "hwhm_layers": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "membrane_noise": 0.0,
+ "aug_scale": 0.0,
+ "activation": "spike",
+ "detach_reset": false,
+ "stage": "e16c",
+ "learnable_width": false,
+ "snapshot_cycles": 0,
+ "aug_sigma": 0.0,
+ "aug_family": "none",
+ "dev_sel": "clean",
+ "lr": 0.001,
+ "batch": 512,
+ "max_epochs": 300,
+ "patience": 30,
+ "model_class": "SNNX",
+ "hidden": 128,
+ "surrogate_layers": [
+  [
+   "atan",
+   1.0,
+   false
+  ],
+  [
+   "atan",
+   1.0,
+   false
+  ],
+  [
+   "atan",
+   1.0,
+   false
+  ]
+ ],
+ "layer_params": [
+  0.6366197723675814,
+  0.6366197723675814,
+  0.6366197723675814
+ ],
+ "n_params": 54293,
+ "best_epoch": 29,
+ "best_dev": 0.07272081822156906,
+ "train_time_s": 296.71268033981323,
+ "epochs_run": 60,
+ "train_failed": false,
+ "spikes_per_sample_per_layer_dev": [
+  245.93280029296875,
+  370.7244873046875,
+  367.11480712890625
+ ],
+ "test_nmse_N": 0.059506189078092575,
+ "preds_finite": true,
+ "torch": "2.13.0+cu130",
+ "finished_at": "2026-11-11 18:24:58"
+}

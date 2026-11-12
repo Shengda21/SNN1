@@ -1,0 +1,372 @@
+{
+ "_doc": [
+  "Candidate feedforward / interaction-torque predictors for E27-E29.",
+  "member_sets: templates expanded with {seed} and {strong}; a block lists a member set name or explicit templates.",
+  "weights: fixed (single uncalibrated network, weight 1) | WS (calibrated single member) | WQ<k> (budgeted simplex, k <= M, null counted as a candidate as in E13) |",
+  "         W1 (simplex plus null, all candidates allowed) | W3 (per-joint simplex plus null) | e21:<space> (weights read from results/sim/e21_ladder.csv when it exists).",
+  "est: members evaluated behind the label-free linear input estimator (variances from the inputs of the calibration group).",
+  "groups: calibration groups in which the candidate is evaluated (uncalibrated networks without estimator: group 0 only, as in E13).",
+  "e13: one of the 13 feedforward models of E13; attenuating: candidate compared with the seed dictionary in the crossing analysis (E27, A6).",
+  "Calibration follows run_closedloop_aug.py: m = 10 trajectories per group, groups 0-2 of D_cal (cal_P1 under P1)."
+ ],
+ "reference": "D-S:W-Q5",
+ "member_sets": {
+  "D-M": [
+   "dm_atan_s{seed}",
+   "dm_sigmoid_s{seed}",
+   "dm_ste_s{seed}",
+   "dm_triangular_s{seed}",
+   "dm_sre_s{seed}"
+  ],
+  "D-S": [
+   "ds_{strong}_s{seed}_m0",
+   "ds_{strong}_s{seed}_m1",
+   "ds_{strong}_s{seed}_m2",
+   "ds_{strong}_s{seed}_m3",
+   "ds_{strong}_s{seed}_m4"
+  ],
+  "D-SQ": [
+   "dsq_{strong}_s{seed}_m0",
+   "dsq_{strong}_s{seed}_m1",
+   "dsq_{strong}_s{seed}_m2",
+   "dsq_{strong}_s{seed}_m3",
+   "dsq_{strong}_s{seed}_m4"
+  ],
+  "B-N": [
+   "bn_mlp_s{seed}"
+  ],
+  "B-A": [
+   "ba_{strong}_s{seed}"
+  ],
+  "B-A+(q,qd)": [
+   "dmqs_{strong}_s{seed}"
+  ]
+ },
+ "candidates": {
+  "B-N": {
+   "blocks": [
+    {
+     "members": "B-N"
+    }
+   ],
+   "weights": "fixed",
+   "groups": [
+    0
+   ],
+   "e13": true,
+   "label": "MLP (B-N)"
+  },
+  "B-N|est": {
+   "blocks": [
+    {
+     "members": "B-N",
+     "est": true
+    }
+   ],
+   "weights": "fixed",
+   "e13": true,
+   "attenuating": true,
+   "label": "MLP, input estimator"
+  },
+  "B-A": {
+   "blocks": [
+    {
+     "members": "B-A"
+    }
+   ],
+   "weights": "fixed",
+   "groups": [
+    0
+   ],
+   "e13": true,
+   "attenuating": true,
+   "label": "B-A (augmented network)"
+  },
+  "B-A+(q,qd)": {
+   "blocks": [
+    {
+     "members": "B-A+(q,qd)"
+    }
+   ],
+   "weights": "fixed",
+   "groups": [
+    0
+   ],
+   "e13": true,
+   "attenuating": true,
+   "label": "B-A+, noise on (q,qd) only"
+  },
+  "D-M:W-S": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "weights": "WS",
+   "e13": true,
+   "label": "D-M, single (W-S)"
+  },
+  "D-S:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "label": "D-S"
+  },
+  "D-M:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-M"
+  },
+  "D-S+null:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "null": true,
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-S + null"
+  },
+  "D-M+null:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "null": true,
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-M + null"
+  },
+  "D-S|est:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-S",
+     "est": true
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-S, input estimator"
+  },
+  "D-M|est:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-M",
+     "est": true
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-M, input estimator"
+  },
+  "D-S,est-optional:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-S"
+    },
+    {
+     "members": "D-S",
+     "est": true
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-S, estimator optional"
+  },
+  "D-SQ:W-Q5": {
+   "blocks": [
+    {
+     "members": "D-SQ"
+    }
+   ],
+   "weights": "WQ5",
+   "e13": true,
+   "attenuating": true,
+   "label": "D-SA, noise on (q,qd) only"
+  },
+  "D-S:W1": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "null": true,
+   "weights": "W1",
+   "e13": false,
+   "attenuating": true,
+   "label": "D-S, simplex + null (W1, own fit on the group)"
+  },
+  "D-M:W1": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "null": true,
+   "weights": "W1",
+   "e13": false,
+   "attenuating": true,
+   "label": "D-M, simplex + null (W1, own fit on the group)"
+  },
+  "D-S:W3": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "null": true,
+   "weights": "W3",
+   "e13": false,
+   "attenuating": true,
+   "label": "D-S, per-joint simplex + null (W3, own fit on the group)"
+  },
+  "D-M:W3": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "null": true,
+   "weights": "W3",
+   "e13": false,
+   "attenuating": true,
+   "label": "D-M, per-joint simplex + null (W3, own fit on the group)"
+  },
+  "D-S:e21-W1": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "null": true,
+   "weights": "e21:W1",
+   "e21_method": "D-S",
+   "groups": [
+    0
+   ],
+   "e13": false,
+   "attenuating": true,
+   "label": "D-S, E21 optimum in W1 (full D_cal of the condition)"
+  },
+  "D-S:e21-W3": {
+   "blocks": [
+    {
+     "members": "D-S"
+    }
+   ],
+   "null": true,
+   "weights": "e21:W3",
+   "e21_method": "D-S",
+   "groups": [
+    0
+   ],
+   "e13": false,
+   "attenuating": true,
+   "label": "D-S, E21 optimum in W3 (full D_cal of the condition)"
+  },
+  "D-M:e21-W1": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "null": true,
+   "weights": "e21:W1",
+   "e21_method": "D-M",
+   "groups": [
+    0
+   ],
+   "e13": false,
+   "attenuating": true,
+   "label": "D-M, E21 optimum in W1 (full D_cal of the condition)"
+  },
+  "D-M:e21-W3": {
+   "blocks": [
+    {
+     "members": "D-M"
+    }
+   ],
+   "null": true,
+   "weights": "e21:W3",
+   "e21_method": "D-M",
+   "groups": [
+    0
+   ],
+   "e13": false,
+   "attenuating": true,
+   "label": "D-M, E21 optimum in W3 (full D_cal of the condition)"
+  }
+ },
+ "crossing_pairs": [
+  [
+   "D-S+null:W-Q5",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-M:W-Q5",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-S|est:W-Q5",
+   "D-S:W-Q5"
+  ],
+  [
+   "B-N|est",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-S|est:W-Q5",
+   "B-N"
+  ],
+  [
+   "D-S:W1",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-S:W3",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-M:W1",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-M:W3",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-S:e21-W1",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-S:e21-W3",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-M:e21-W1",
+   "D-S:W-Q5"
+  ],
+  [
+   "D-M:e21-W3",
+   "D-S:W-Q5"
+  ]
+ ],
+ "e21_pending": "E21 present (results/sim/e21_ladder_seeds.csv, source orig, m = all): D-S/D-M under W1 and W3 added as '<dict>:e21-W1/W3' (weights e21:W1/e21:W3, group 0 only since they do not depend on the closed-loop groups)."
+}
